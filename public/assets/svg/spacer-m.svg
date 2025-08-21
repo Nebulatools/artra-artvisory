@@ -1,0 +1,70 @@
+<svg width="362" height="631" viewBox="0 0 362 631" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="1" y="0.5" width="90" height="90" stroke="black"/>
+<rect x="91" y="0.5" width="90" height="90" stroke="black"/>
+<rect x="181" y="0.5" width="90" height="90" stroke="black"/>
+<rect x="271" y="0.5" width="90" height="90" stroke="black"/>
+<g clip-path="url(#clip0_1_121)">
+<circle cx="46" cy="135.5" r="45" stroke="black"/>
+</g>
+<rect x="1" y="90.5" width="90" height="90" stroke="black"/>
+<g clip-path="url(#clip1_1_121)">
+<circle cx="136" cy="135.5" r="45" stroke="black"/>
+</g>
+<rect x="91" y="90.5" width="90" height="90" stroke="black"/>
+<rect x="181" y="90.5" width="90" height="90" stroke="black"/>
+<rect x="271" y="90.5" width="90" height="90" stroke="black"/>
+<rect x="1" y="180.5" width="90" height="90" stroke="black"/>
+<rect x="91" y="180.5" width="90" height="90" stroke="black"/>
+<rect x="181" y="180.5" width="90" height="90" stroke="black"/>
+<rect x="271" y="180.5" width="90" height="90" stroke="black"/>
+<g clip-path="url(#clip2_1_121)">
+<line x1="46.5" y1="270.5" x2="46.5" y2="360.5" stroke="black"/>
+<line x1="91" y1="316" x2="1" y2="316" stroke="black"/>
+</g>
+<rect x="1" y="270.5" width="90" height="90" stroke="black"/>
+<g clip-path="url(#clip3_1_121)">
+<line x1="136.5" y1="270.5" x2="136.5" y2="360.5" stroke="black"/>
+<line x1="181" y1="316" x2="91" y2="316" stroke="black"/>
+</g>
+<rect x="91" y="270.5" width="90" height="90" stroke="black"/>
+<rect x="181" y="270.5" width="90" height="90" stroke="black"/>
+<rect x="271" y="270.5" width="90" height="90" stroke="black"/>
+<rect x="1" y="360.5" width="90" height="90" stroke="black"/>
+<rect x="91" y="360.5" width="90" height="90" stroke="black"/>
+<rect x="181" y="360.5" width="90" height="90" stroke="black"/>
+<rect x="271" y="360.5" width="90" height="90" stroke="black"/>
+<rect x="1" y="450.5" width="90" height="90" stroke="black"/>
+<rect x="91" y="450.5" width="90" height="90" stroke="black"/>
+<rect x="181" y="450.5" width="90" height="90" stroke="black"/>
+<rect x="271" y="450.5" width="90" height="90" stroke="black"/>
+<rect x="1" y="540.5" width="90" height="90" stroke="black"/>
+<rect x="91" y="540.5" width="90" height="90" stroke="black"/>
+<g clip-path="url(#clip4_1_121)">
+<ellipse cx="271" cy="585.5" rx="90" ry="45" stroke="black"/>
+</g>
+<rect x="181" y="540.5" width="90" height="90" stroke="black"/>
+<g clip-path="url(#clip5_1_121)">
+<ellipse cx="271" cy="585.5" rx="90" ry="45" transform="rotate(-180 271 585.5)" stroke="black"/>
+</g>
+<rect x="361" y="630.5" width="90" height="90" transform="rotate(-180 361 630.5)" stroke="black"/>
+<defs>
+<clipPath id="clip0_1_121">
+<rect x="1" y="90.5" width="90" height="90" fill="white"/>
+</clipPath>
+<clipPath id="clip1_1_121">
+<rect x="91" y="90.5" width="90" height="90" fill="white"/>
+</clipPath>
+<clipPath id="clip2_1_121">
+<rect x="1" y="270.5" width="90" height="90" fill="white"/>
+</clipPath>
+<clipPath id="clip3_1_121">
+<rect x="91" y="270.5" width="90" height="90" fill="white"/>
+</clipPath>
+<clipPath id="clip4_1_121">
+<rect x="181" y="540.5" width="90" height="90" fill="white"/>
+</clipPath>
+<clipPath id="clip5_1_121">
+<rect x="361" y="630.5" width="90" height="90" transform="rotate(-180 361 630.5)" fill="white"/>
+</clipPath>
+</defs>
+</svg>

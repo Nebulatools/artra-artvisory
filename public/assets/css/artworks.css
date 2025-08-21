@@ -1,0 +1,177 @@
+/* MOBILE DEVICES (320 - 767) */
+.artwork-section {
+	padding: 0 20px;
+}
+
+.artwork-grid {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	margin: 0 auto;
+	flex-direction: column;
+	align-items: center;
+}
+
+.artwork-item,
+.artwork-item-2,
+.artwork-item-3,
+.artwork-item-4 {
+	width: 100%;
+	max-width: 350px;
+	border-top: none;
+	border-left: 1px solid #000;
+	border-right: 1px solid #000;
+	border-bottom: 1px solid #000;
+	background: #F2F2F2;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.artwork-item-4:last-child {
+	border-bottom: none;
+}
+
+.artwork-image {
+	width: auto;
+	height: 100%;
+	position: relative;
+	overflow: hidden;
+}
+
+.column-img {
+	width: 100%;
+	height: 100%;
+	display: block;
+	object-fit: cover;
+}
+
+.artwork-details {
+	border-top: 1px solid #000;
+	padding: 12px 16px;
+	text-align: left;
+	width: 100%;
+}
+
+.artwork-title {
+	font-family: 'Inter', sans-serif;
+	font-weight: 500;
+	font-size: 14px;
+	line-height: 1em;
+	color: #000000;
+	margin-bottom: 4px;
+}
+
+.artwork-description {
+	font-family: 'Century Old Style Std', serif;
+	font-size: 14px;
+	line-height: 1em;
+	color: #000000;
+	margin-bottom: 24px;
+}
+
+.artwork-specs {
+	font-family: 'Century Old Style Std', serif;
+	font-size: 14px;
+	line-height: 1.1;
+	color: #000000;
+}
+
+/* TABLET DEVICES (768 - 1,023) */
+@media screen and (min-width: 768px) {
+	.artwork-section {
+		padding: 0 30px;
+	}
+
+	.artwork-grid {
+		flex-direction: row;
+		justify-content: center;
+	}
+
+	.artwork-item {
+		width: 300px;
+		border-top: none;
+		border-left: 1px solid #000;
+		border-right: 1px solid #000;
+		border-bottom: 1px solid #000;
+		margin-bottom: 0;
+	}
+
+	.artwork-item-2 {
+		width: 300px;
+		border-top: none;
+		border-left: none;
+		border-right: 1px solid #000;
+		border-bottom: 1px solid #000;
+		margin-bottom: 0;
+	}
+
+	.artwork-item-3 {
+		width: 300px;
+		border-top: none;
+		border-left: 1px solid #000;
+		border-right: 1px solid #000;
+		border-bottom: none;
+		margin-bottom: 0;
+	}
+
+	.artwork-item-4 {
+		width: 300px;
+		border-top: none;
+		border-left: none;
+		border-right: 1px solid #000;
+		border-bottom: none;
+		margin-bottom: 0;
+	}
+
+	.artwork-image {
+		height: 400px;
+	}
+
+	.artwork-details {
+		padding: 14px 20px;
+	}
+
+	.artwork-title,
+	.artwork-description,
+	.artwork-specs {
+		font-size: 16px;
+	}
+}
+
+/* DESKTOP DEVICES (1,024 - 1,920++) */
+@media screen and (min-width: 1024px) {
+	.artwork-section {
+		padding: 0 40px;
+	}
+
+	.artwork-grid {
+		justify-content: flex-start;
+	}
+
+	.artwork-item {
+		width: 317px;
+		border-top: none;
+		border-left: 1px solid #000;
+		border-right: 1px solid #000;
+		border-bottom: none;
+	}
+
+	.artwork-item-2,
+	.artwork-item-3,
+	.artwork-item-4 {
+		width: 317px;
+		border-top: none;
+		border-left: none;
+		border-right: 1px solid #000;
+		border-bottom: none;
+	}
+
+	.artwork-image {
+		height: 475px;
+	}
+
+	.artwork-details {
+		padding: 16px 24px;
+	}
+}
