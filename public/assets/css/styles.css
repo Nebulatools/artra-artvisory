@@ -1,12 +1,12 @@
-@import url("/artra-landing/public/assets/css/header.css");
-@import url("/artra-landing/public/assets/css/artists.css");
-@import url("/artra-landing/public/assets/css/artworks.css");
-@import url("/artra-landing/public/assets/css/catalogue.css");
-@import url("/artra-landing/public/assets/css/frames.css");
-@import url("/artra-landing/public/assets/css/gallery.css");
-@import url("/artra-landing/public/assets/css/home.css");
-@import url("/artra-landing/public/assets/css/hwdi.css");
-@import url("/artra-landing/public/assets/css/footer.css");
+@import url("/artra-artvisory/public/assets/css/header.css");
+@import url("/artra-artvisory/public/assets/css/artists.css");
+@import url("/artra-artvisory/public/assets/css/artworks.css");
+@import url("/artra-artvisory/public/assets/css/catalogue.css");
+@import url("/artra-artvisory/public/assets/css/frames.css");
+@import url("/artra-artvisory/public/assets/css/gallery.css");
+@import url("/artra-artvisory/public/assets/css/home.css");
+@import url("/artra-artvisory/public/assets/css/hwdi.css");
+@import url("/artra-artvisory/public/assets/css/footer.css");
 
 @keyframes scroll-left {
 	0% { transform: translateX(100%); }

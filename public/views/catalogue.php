@@ -10,8 +10,6 @@
             <a class="back-button" href="<?= BASE_URL; ?>">Go Back</a>
         </div>
     </section>
-
-
     <section class="catalogue-section">
         <!-- Standards Category -->
         <div class="catalogue-item">
@@ -20,7 +18,7 @@
             </div>
             <div class="catalogue-content" id="dropdownCatalogue">
                 <div class="catalogue-details">
-                    <div class="catalogue-image">
+                    <div class="catalogue-image-left">
                         <img class="left-width-img" src="public/assets/image/catalogue/img-03.png" alt="Painting 1">
                     </div>
                     <div class="catalogue-info">
@@ -31,38 +29,38 @@
                             </div>
                             <p class="catalogue-description">A series of frames carefully crafted.</p>
                         </div>
-                        <button class="half-width-button">Learn more</button>
+                        <button class="half-width-button-2">Learn more</button>
                         <div class="catalogue-grid">
-                            <div class="catalogue-item">
+                            <div class="catalogue-item-2">
                                 <div class="catalogue-product-image">
-                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-04.png" alt="Frame 1">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 1">
                                 </div>
-                                <div class="catalogue-details">
+                                <div class="catalogue-details-2">
                                     <div class="catalogue-specs">
                                         <h4 class="catalogue-name">Frame 1</h4>
                                         <p class="catalogue-item-description">Description</p>
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <button class="quarter-width-button">Quick view</button>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
-                            <div class="catalogue-item">
+                            <div class="catalogue-item-2">
                                 <div class="catalogue-product-image">
-                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 2">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-06.png" alt="Frame 2">
                                 </div>
-                                <div class="catalogue-details">
+                                <div class="catalogue-details-2">
                                     <div class="catalogue-specs">
                                         <h4 class="catalogue-name">Frame 2</h4>
                                         <p class="catalogue-item-description">Description</p>
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <button class="quarter-width-button">Quick view</button>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
                         </div>
                     </div>
                 </div>
-                <div class="catalogue-section catalogue-reverse">
+                <div class="catalogue-details-reverse">
                     <div class="catalogue-info">
                         <div class="catalogue-text">
                             <div class="catalogue-intro">
@@ -73,42 +71,135 @@
                         </div>
                         <button class="half-width-button">Learn more</button>
                         <div class="catalogue-grid">
-                            <div class="catalogue-item">
+                            <div class="catalogue-item-2">
                                 <div class="catalogue-product-image">
-                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-04.png" alt="Frame 3">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 3">
                                 </div>
-                                <div class="catalogue-details">
+                                <div class="catalogue-details-3">
                                     <div class="catalogue-specs">
                                         <h4 class="catalogue-name">Frame 3</h4>
                                         <p class="catalogue-item-description">Description</p>
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <button class="quarter-width-button">Quick view</button>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
-                            <div class="catalogue-item">
+                            <div class="catalogue-item-2">
                                 <div class="catalogue-product-image">
-                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 4">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-06.png" alt="Frame 4">
                                 </div>
-                                <div class="catalogue-details">
+                                <div class="catalogue-details-3">
                                     <div class="catalogue-specs">
                                         <h4 class="catalogue-name">Frame 4</h4>
                                         <p class="catalogue-item-description">Description</p>
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <button class="quarter-width-button">Quick view</button>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
                         </div>
                     </div>
-                    <div class="catalogue-image">
-                        <img class="left-width-img" src="public/assets/image/catalogue/img-06.png" alt="Painting 2">
+                    <div class="catalogue-image-right">
+                        <img class="left-width-img" src="public/assets/image/catalogue/img-04.png" alt="Painting 2">
                     </div>
                 </div>
             </div>
         </div>
         <!-- Classics Category -->
         <div class="catalogue-item">
+            <div class="catalogue-header">
+                <h2 class="catalogue-title collapsed" id="catalogueToggle2">+ CLASSICS</h2>
+            </div>
+            <div class="catalogue-content" id="dropdownCatalogue2">
+                <div class="catalogue-details">
+                    <div class="catalogue-image-left">
+                        <img class="left-width-img" src="public/assets/image/catalogue/img-03.png" alt="Painting 1">
+                    </div>
+                    <div class="catalogue-info">
+                        <div class="catalogue-text">
+                            <div class="catalogue-intro">
+                                <h3 class="catalogue-title">CLASSIC COLLECTION N°1</h3>
+                                <p class="catalogue-badge">Exclusive online</p>
+                            </div>
+                            <p class="catalogue-description">A series of frames carefully crafted.</p>
+                        </div>
+                        <button class="half-width-button-2">Learn more</button>
+                        <div class="catalogue-grid">
+                            <div class="catalogue-item-2">
+                                <div class="catalogue-product-image">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 1">
+                                </div>
+                                <div class="catalogue-details-2">
+                                    <div class="catalogue-specs">
+                                        <h4 class="catalogue-name">Frame 1</h4>
+                                        <p class="catalogue-item-description">Description</p>
+                                        <p class="catalogue-price">$000</p>
+                                    </div>
+                                </div>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                            </div>
+                            <div class="catalogue-item-2">
+                                <div class="catalogue-product-image">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-06.png" alt="Frame 2">
+                                </div>
+                                <div class="catalogue-details-2">
+                                    <div class="catalogue-specs">
+                                        <h4 class="catalogue-name">Frame 2</h4>
+                                        <p class="catalogue-item-description">Description</p>
+                                        <p class="catalogue-price">$000</p>
+                                    </div>
+                                </div>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="catalogue-details-reverse">
+                    <div class="catalogue-info">
+                        <div class="catalogue-text">
+                            <div class="catalogue-intro">
+                                <h3 class="catalogue-title">CLASSIC COLLECTION N°2</h3>
+                                <p class="catalogue-badge">Exclusive online</p>
+                            </div>
+                            <p class="catalogue-description">A series of frames carefully crafted.</p>
+                        </div>
+                        <button class="half-width-button">Learn more</button>
+                        <div class="catalogue-grid">
+                            <div class="catalogue-item-2">
+                                <div class="catalogue-product-image">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 3">
+                                </div>
+                                <div class="catalogue-details-3">
+                                    <div class="catalogue-specs">
+                                        <h4 class="catalogue-name">Frame 3</h4>
+                                        <p class="catalogue-item-description">Description</p>
+                                        <p class="catalogue-price">$000</p>
+                                    </div>
+                                </div>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                            </div>
+                            <div class="catalogue-item-2">
+                                <div class="catalogue-product-image">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-06.png" alt="Frame 4">
+                                </div>
+                                <div class="catalogue-details-3">
+                                    <div class="catalogue-specs">
+                                        <h4 class="catalogue-name">Frame 4</h4>
+                                        <p class="catalogue-item-description">Description</p>
+                                        <p class="catalogue-price">$000</p>
+                                    </div>
+                                </div>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="catalogue-image-right">
+                        <img class="left-width-img" src="public/assets/image/catalogue/img-04.png" alt="Painting 2">
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- <div class="catalogue-item">
             <div class="catalogue-header">
                 <h2 class="catalogue-title collapsed" id="catalogueToggle2">+ CLASSICS</h2>
             </div>
@@ -129,7 +220,7 @@
                         <div class="catalogue-grid">
                             <div class="catalogue-item">
                                 <div class="catalogue-product-image">
-                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-04.png" alt="Frame 5">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 5">
                                 </div>
                                 <div class="catalogue-details">
                                     <div class="catalogue-specs">
@@ -142,7 +233,7 @@
                             </div>
                             <div class="catalogue-item">
                                 <div class="catalogue-product-image">
-                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 6">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-06.png" alt="Frame 6">
                                 </div>
                                 <div class="catalogue-details">
                                     <div class="catalogue-specs">
@@ -157,54 +248,97 @@
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
         <!-- Textured Category -->
         <div class="catalogue-item">
             <div class="catalogue-header">
-                <h2 class="catalogue-title collapsed" id="catalogueToggle2">+ TEXTURED</h2>
+                <h2 class="catalogue-title collapsed" id="catalogueToggle3">+ TEXTURED</h2>
             </div>
-            <div class="catalogue-content" id="dropdownCatalogue2">
-                <div class="catalogue-section">
-                    <div class="catalogue-image">
-                        <img class="left-width-img" src="public/assets/image/catalogue/img-03.png" alt="Painting 3">
+            <div class="catalogue-content" id="dropdownCatalogue3">
+                <div class="catalogue-details">
+                    <div class="catalogue-image-left">
+                        <img class="left-width-img" src="public/assets/image/catalogue/img-03.png" alt="Painting 1">
                     </div>
                     <div class="catalogue-info">
                         <div class="catalogue-text">
                             <div class="catalogue-intro">
-                                <h3 class="catalogue-title">MINIMALIST COLLECTION N°1</h3>
+                                <h3 class="catalogue-title">CLASSIC COLLECTION N°1</h3>
                                 <p class="catalogue-badge">Exclusive online</p>
                             </div>
-                            <p class="catalogue-description">Clean lines and simple elegance.</p>
+                            <p class="catalogue-description">A series of frames carefully crafted.</p>
+                        </div>
+                        <button class="half-width-button-2">Learn more</button>
+                        <div class="catalogue-grid">
+                            <div class="catalogue-item-2">
+                                <div class="catalogue-product-image">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 1">
+                                </div>
+                                <div class="catalogue-details-2">
+                                    <div class="catalogue-specs">
+                                        <h4 class="catalogue-name">Frame 1</h4>
+                                        <p class="catalogue-item-description">Description</p>
+                                        <p class="catalogue-price">$000</p>
+                                    </div>
+                                </div>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                            </div>
+                            <div class="catalogue-item-2">
+                                <div class="catalogue-product-image">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-06.png" alt="Frame 2">
+                                </div>
+                                <div class="catalogue-details-2">
+                                    <div class="catalogue-specs">
+                                        <h4 class="catalogue-name">Frame 2</h4>
+                                        <p class="catalogue-item-description">Description</p>
+                                        <p class="catalogue-price">$000</p>
+                                    </div>
+                                </div>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="catalogue-details-reverse">
+                    <div class="catalogue-info">
+                        <div class="catalogue-text">
+                            <div class="catalogue-intro">
+                                <h3 class="catalogue-title">CLASSIC COLLECTION N°2</h3>
+                                <p class="catalogue-badge">Exclusive online</p>
+                            </div>
+                            <p class="catalogue-description">A series of frames carefully crafted.</p>
                         </div>
                         <button class="half-width-button">Learn more</button>
                         <div class="catalogue-grid">
-                            <div class="catalogue-item">
+                            <div class="catalogue-item-2">
                                 <div class="catalogue-product-image">
-                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-04.png" alt="Frame 5">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 3">
                                 </div>
-                                <div class="catalogue-details">
+                                <div class="catalogue-details-3">
                                     <div class="catalogue-specs">
-                                        <h4 class="catalogue-name">Frame 5</h4>
+                                        <h4 class="catalogue-name">Frame 3</h4>
                                         <p class="catalogue-item-description">Description</p>
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <button class="quarter-width-button">Quick view</button>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
-                            <div class="catalogue-item">
+                            <div class="catalogue-item-2">
                                 <div class="catalogue-product-image">
-                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 6">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-06.png" alt="Frame 4">
                                 </div>
-                                <div class="catalogue-details">
+                                <div class="catalogue-details-3">
                                     <div class="catalogue-specs">
-                                        <h4 class="catalogue-name">Frame 6</h4>
+                                        <h4 class="catalogue-name">Frame 4</h4>
                                         <p class="catalogue-item-description">Description</p>
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <button class="quarter-width-button">Quick view</button>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
                         </div>
+                    </div>
+                    <div class="catalogue-image-right">
+                        <img class="left-width-img" src="public/assets/image/catalogue/img-04.png" alt="Painting 2">
                     </div>
                 </div>
             </div>
@@ -212,50 +346,93 @@
         <!-- Ornate Category -->
         <div class="catalogue-item">
             <div class="catalogue-header">
-                <h2 class="catalogue-title collapsed" id="catalogueToggle2">+ ORNATE</h2>
+                <h2 class="catalogue-title collapsed" id="catalogueToggle4">+ ORNATE</h2>
             </div>
-            <div class="catalogue-content" id="dropdownCatalogue2">
-                <div class="catalogue-section">
-                    <div class="catalogue-image">
-                        <img class="left-width-img" src="public/assets/image/catalogue/img-03.png" alt="Painting 3">
+            <div class="catalogue-content" id="dropdownCatalogue4">
+                <div class="catalogue-details">
+                    <div class="catalogue-image-left">
+                        <img class="left-width-img" src="public/assets/image/catalogue/img-03.png" alt="Painting 1">
                     </div>
                     <div class="catalogue-info">
                         <div class="catalogue-text">
                             <div class="catalogue-intro">
-                                <h3 class="catalogue-title">MINIMALIST COLLECTION N°1</h3>
+                                <h3 class="catalogue-title">CLASSIC COLLECTION N°1</h3>
                                 <p class="catalogue-badge">Exclusive online</p>
                             </div>
-                            <p class="catalogue-description">Clean lines and simple elegance.</p>
+                            <p class="catalogue-description">A series of frames carefully crafted.</p>
+                        </div>
+                        <button class="half-width-button-2">Learn more</button>
+                        <div class="catalogue-grid">
+                            <div class="catalogue-item-2">
+                                <div class="catalogue-product-image">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 1">
+                                </div>
+                                <div class="catalogue-details-2">
+                                    <div class="catalogue-specs">
+                                        <h4 class="catalogue-name">Frame 1</h4>
+                                        <p class="catalogue-item-description">Description</p>
+                                        <p class="catalogue-price">$000</p>
+                                    </div>
+                                </div>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                            </div>
+                            <div class="catalogue-item-2">
+                                <div class="catalogue-product-image">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-06.png" alt="Frame 2">
+                                </div>
+                                <div class="catalogue-details-2">
+                                    <div class="catalogue-specs">
+                                        <h4 class="catalogue-name">Frame 2</h4>
+                                        <p class="catalogue-item-description">Description</p>
+                                        <p class="catalogue-price">$000</p>
+                                    </div>
+                                </div>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="catalogue-details-reverse">
+                    <div class="catalogue-info">
+                        <div class="catalogue-text">
+                            <div class="catalogue-intro">
+                                <h3 class="catalogue-title">CLASSIC COLLECTION N°2</h3>
+                                <p class="catalogue-badge">Exclusive online</p>
+                            </div>
+                            <p class="catalogue-description">A series of frames carefully crafted.</p>
                         </div>
                         <button class="half-width-button">Learn more</button>
                         <div class="catalogue-grid">
-                            <div class="catalogue-item">
+                            <div class="catalogue-item-2">
                                 <div class="catalogue-product-image">
-                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-04.png" alt="Frame 5">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 3">
                                 </div>
-                                <div class="catalogue-details">
+                                <div class="catalogue-details-3">
                                     <div class="catalogue-specs">
-                                        <h4 class="catalogue-name">Frame 5</h4>
+                                        <h4 class="catalogue-name">Frame 3</h4>
                                         <p class="catalogue-item-description">Description</p>
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <button class="quarter-width-button">Quick view</button>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
-                            <div class="catalogue-item">
+                            <div class="catalogue-item-2">
                                 <div class="catalogue-product-image">
-                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 6">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-06.png" alt="Frame 4">
                                 </div>
-                                <div class="catalogue-details">
+                                <div class="catalogue-details-3">
                                     <div class="catalogue-specs">
-                                        <h4 class="catalogue-name">Frame 6</h4>
+                                        <h4 class="catalogue-name">Frame 4</h4>
                                         <p class="catalogue-item-description">Description</p>
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <button class="quarter-width-button">Quick view</button>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
                         </div>
+                    </div>
+                    <div class="catalogue-image-right">
+                        <img class="left-width-img" src="public/assets/image/catalogue/img-04.png" alt="Painting 2">
                     </div>
                 </div>
             </div>
@@ -263,50 +440,93 @@
         <!-- Floaters Category -->
         <div class="catalogue-item">
             <div class="catalogue-header">
-                <h2 class="catalogue-title collapsed" id="catalogueToggle2">+ FLOATERS</h2>
+                <h2 class="catalogue-title collapsed" id="catalogueToggle5">+ FLOATERS</h2>
             </div>
-            <div class="catalogue-content" id="dropdownCatalogue2">
-                <div class="catalogue-section">
-                    <div class="catalogue-image">
-                        <img class="left-width-img" src="public/assets/image/catalogue/img-03.png" alt="Painting 3">
+            <div class="catalogue-content" id="dropdownCatalogue5">
+                <div class="catalogue-details">
+                    <div class="catalogue-image-left">
+                        <img class="left-width-img" src="public/assets/image/catalogue/img-03.png" alt="Painting 1">
                     </div>
                     <div class="catalogue-info">
                         <div class="catalogue-text">
                             <div class="catalogue-intro">
-                                <h3 class="catalogue-title">MINIMALIST COLLECTION N°1</h3>
+                                <h3 class="catalogue-title">CLASSIC COLLECTION N°1</h3>
                                 <p class="catalogue-badge">Exclusive online</p>
                             </div>
-                            <p class="catalogue-description">Clean lines and simple elegance.</p>
+                            <p class="catalogue-description">A series of frames carefully crafted.</p>
+                        </div>
+                        <button class="half-width-button-2">Learn more</button>
+                        <div class="catalogue-grid">
+                            <div class="catalogue-item-2">
+                                <div class="catalogue-product-image">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 1">
+                                </div>
+                                <div class="catalogue-details-2">
+                                    <div class="catalogue-specs">
+                                        <h4 class="catalogue-name">Frame 1</h4>
+                                        <p class="catalogue-item-description">Description</p>
+                                        <p class="catalogue-price">$000</p>
+                                    </div>
+                                </div>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                            </div>
+                            <div class="catalogue-item-2">
+                                <div class="catalogue-product-image">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-06.png" alt="Frame 2">
+                                </div>
+                                <div class="catalogue-details-2">
+                                    <div class="catalogue-specs">
+                                        <h4 class="catalogue-name">Frame 2</h4>
+                                        <p class="catalogue-item-description">Description</p>
+                                        <p class="catalogue-price">$000</p>
+                                    </div>
+                                </div>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="catalogue-details-reverse">
+                    <div class="catalogue-info">
+                        <div class="catalogue-text">
+                            <div class="catalogue-intro">
+                                <h3 class="catalogue-title">CLASSIC COLLECTION N°2</h3>
+                                <p class="catalogue-badge">Exclusive online</p>
+                            </div>
+                            <p class="catalogue-description">A series of frames carefully crafted.</p>
                         </div>
                         <button class="half-width-button">Learn more</button>
                         <div class="catalogue-grid">
-                            <div class="catalogue-item">
+                            <div class="catalogue-item-2">
                                 <div class="catalogue-product-image">
-                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-04.png" alt="Frame 5">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 3">
                                 </div>
-                                <div class="catalogue-details">
+                                <div class="catalogue-details-3">
                                     <div class="catalogue-specs">
-                                        <h4 class="catalogue-name">Frame 5</h4>
+                                        <h4 class="catalogue-name">Frame 3</h4>
                                         <p class="catalogue-item-description">Description</p>
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <button class="quarter-width-button">Quick view</button>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
-                            <div class="catalogue-item">
+                            <div class="catalogue-item-2">
                                 <div class="catalogue-product-image">
-                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 6">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-06.png" alt="Frame 4">
                                 </div>
-                                <div class="catalogue-details">
+                                <div class="catalogue-details-3">
                                     <div class="catalogue-specs">
-                                        <h4 class="catalogue-name">Frame 6</h4>
+                                        <h4 class="catalogue-name">Frame 4</h4>
                                         <p class="catalogue-item-description">Description</p>
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <button class="quarter-width-button">Quick view</button>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
                         </div>
+                    </div>
+                    <div class="catalogue-image-right">
+                        <img class="left-width-img" src="public/assets/image/catalogue/img-04.png" alt="Painting 2">
                     </div>
                 </div>
             </div>
@@ -314,57 +534,98 @@
         <!-- Bold Category -->
         <div class="catalogue-item">
             <div class="catalogue-header">
-                <h2 class="catalogue-title collapsed" id="catalogueToggle3">+ BOLD</h2>
+                <h2 class="catalogue-title collapsed" id="catalogueToggle6">+ BOLD</h2>
             </div>
-            <div class="catalogue-content" id="dropdownCatalogue3">
-                <div class="catalogue-section">
-                    <div class="catalogue-image">
-                        <img class="left-width-img" src="public/assets/image/catalogue/img-06.png" alt="Painting 4">
+            <div class="catalogue-content" id="dropdownCatalogue6">
+                <div class="catalogue-details">
+                    <div class="catalogue-image-left">
+                        <img class="left-width-img" src="public/assets/image/catalogue/img-03.png" alt="Painting 1">
                     </div>
                     <div class="catalogue-info">
                         <div class="catalogue-text">
                             <div class="catalogue-intro">
-                                <h3 class="catalogue-title">CONTEMPORARY COLLECTION N°1</h3>
+                                <h3 class="catalogue-title">CLASSIC COLLECTION N°1</h3>
                                 <p class="catalogue-badge">Exclusive online</p>
                             </div>
-                            <p class="catalogue-description">Modern designs for the future.</p>
+                            <p class="catalogue-description">A series of frames carefully crafted.</p>
+                        </div>
+                        <button class="half-width-button-2">Learn more</button>
+                        <div class="catalogue-grid">
+                            <div class="catalogue-item-2">
+                                <div class="catalogue-product-image">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 1">
+                                </div>
+                                <div class="catalogue-details-2">
+                                    <div class="catalogue-specs">
+                                        <h4 class="catalogue-name">Frame 1</h4>
+                                        <p class="catalogue-item-description">Description</p>
+                                        <p class="catalogue-price">$000</p>
+                                    </div>
+                                </div>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                            </div>
+                            <div class="catalogue-item-2">
+                                <div class="catalogue-product-image">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-06.png" alt="Frame 2">
+                                </div>
+                                <div class="catalogue-details-2">
+                                    <div class="catalogue-specs">
+                                        <h4 class="catalogue-name">Frame 2</h4>
+                                        <p class="catalogue-item-description">Description</p>
+                                        <p class="catalogue-price">$000</p>
+                                    </div>
+                                </div>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="catalogue-details-reverse">
+                    <div class="catalogue-info">
+                        <div class="catalogue-text">
+                            <div class="catalogue-intro">
+                                <h3 class="catalogue-title">CLASSIC COLLECTION N°2</h3>
+                                <p class="catalogue-badge">Exclusive online</p>
+                            </div>
+                            <p class="catalogue-description">A series of frames carefully crafted.</p>
                         </div>
                         <button class="half-width-button">Learn more</button>
                         <div class="catalogue-grid">
-                            <div class="catalogue-item">
+                            <div class="catalogue-item-2">
                                 <div class="catalogue-product-image">
-                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-04.png" alt="Frame 7">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 3">
                                 </div>
-                                <div class="catalogue-details">
+                                <div class="catalogue-details-3">
                                     <div class="catalogue-specs">
-                                        <h4 class="catalogue-name">Frame 7</h4>
+                                        <h4 class="catalogue-name">Frame 3</h4>
                                         <p class="catalogue-item-description">Description</p>
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <button class="quarter-width-button">Quick view</button>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
-                            <div class="catalogue-item">
+                            <div class="catalogue-item-2">
                                 <div class="catalogue-product-image">
-                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-05.png" alt="Frame 8">
+                                    <img class="catalogue-img" src="public/assets/image/catalogue/img-06.png" alt="Frame 4">
                                 </div>
-                                <div class="catalogue-details">
+                                <div class="catalogue-details-3">
                                     <div class="catalogue-specs">
-                                        <h4 class="catalogue-name">Frame 8</h4>
+                                        <h4 class="catalogue-name">Frame 4</h4>
                                         <p class="catalogue-item-description">Description</p>
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <button class="quarter-width-button">Quick view</button>
+                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
                         </div>
+                    </div>
+                    <div class="catalogue-image-right">
+                        <img class="left-width-img" src="public/assets/image/catalogue/img-04.png" alt="Painting 2">
                     </div>
                 </div>
             </div>
         </div>
     </section>
-
-
     <section class="about-grid-section">
         <picture>
             <source srcset="public/assets/image/gallery/svg-03-m.svg" media="(max-width: 767px)">

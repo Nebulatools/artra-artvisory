@@ -14,6 +14,18 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             toggle: document.getElementById('catalogueToggle3'),
             content: document.getElementById('dropdownCatalogue3')
+        },
+        {
+            toggle: document.getElementById('catalogueToggle4'),
+            content: document.getElementById('dropdownCatalogue4')
+        },
+        {
+            toggle: document.getElementById('catalogueToggle5'),
+            content: document.getElementById('dropdownCatalogue5')
+        },
+        {
+            toggle: document.getElementById('catalogueToggle6'),
+            content: document.getElementById('dropdownCatalogue6')
         }
     ];
 
