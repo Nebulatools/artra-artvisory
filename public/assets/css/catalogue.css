@@ -479,6 +479,7 @@ border-bottom: 1px solid #000;
 	display: flex;
 	flex-direction: column;
 	gap: 24px;
+	padding: 20px 20px 20px 20px;
 	margin-bottom: 30px;
 }
 
@@ -623,7 +624,7 @@ border-bottom: 1px solid #000;
 	cursor: pointer;
 	text-align: left;
 	padding: 15px 24px;
-	margin-top: auto;
+	margin-top: 2px;
 	width: 100%;
 	border-top: 1px solid #000;
 	border-left: none;

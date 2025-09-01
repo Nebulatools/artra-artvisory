@@ -30,10 +30,6 @@
         <meta name="google" content="notranslate">
         <title>ARTRA | <?= $title; ?></title>
         <link rel="stylesheet" href="public/assets/css/styles.css">
-
-
-
 		<script src="public/assets/js/menu.js" defer></script>
         <script src="public/assets/js/catalogue.js" defer></script>
-        
     </head>

@@ -17,7 +17,7 @@
 .artwork-item-3,
 .artwork-item-4 {
 	width: 100%;
-	max-width: 350px;
+	max-width: 360px;
 	border-top: none;
 	border-left: 1px solid #000;
 	border-right: 1px solid #000;
@@ -89,7 +89,7 @@
 	}
 
 	.artwork-item {
-		width: 300px;
+		width: 100%;
 		border-top: none;
 		border-left: 1px solid #000;
 		border-right: 1px solid #000;
@@ -98,7 +98,7 @@
 	}
 
 	.artwork-item-2 {
-		width: 300px;
+		width: 100%;
 		border-top: none;
 		border-left: none;
 		border-right: 1px solid #000;
@@ -107,7 +107,7 @@
 	}
 
 	.artwork-item-3 {
-		width: 300px;
+		width: 100%;
 		border-top: none;
 		border-left: 1px solid #000;
 		border-right: 1px solid #000;
@@ -116,7 +116,7 @@
 	}
 
 	.artwork-item-4 {
-		width: 300px;
+		width: 100%;
 		border-top: none;
 		border-left: none;
 		border-right: 1px solid #000;
@@ -150,7 +150,7 @@
 	}
 
 	.artwork-item {
-		width: 317px;
+		width: 100%;
 		border-top: none;
 		border-left: 1px solid #000;
 		border-right: 1px solid #000;
@@ -160,7 +160,7 @@
 	.artwork-item-2,
 	.artwork-item-3,
 	.artwork-item-4 {
-		width: 317px;
+		width: 100%;
 		border-top: none;
 		border-left: none;
 		border-right: 1px solid #000;

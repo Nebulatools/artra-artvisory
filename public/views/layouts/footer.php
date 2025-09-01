@@ -31,8 +31,6 @@
                     </div>
                 </div>
             </div>
-            <!-- <script src="script.js"></script> -->
-            <!-- <script src="public/assets/js/main.js"></script> -->
         </footer>
     </body>
 </html>
