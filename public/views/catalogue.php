@@ -82,7 +82,7 @@
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                                <a class="quarter-width-button-3" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
                             <div class="catalogue-item-2">
                                 <div class="catalogue-product-image">
@@ -95,7 +95,7 @@
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                                <a class="quarter-width-button-3" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
                         </div>
                     </div>
@@ -176,7 +176,7 @@
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                                <a class="quarter-width-button-3" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
                             <div class="catalogue-item-2">
                                 <div class="catalogue-product-image">
@@ -189,7 +189,7 @@
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                                <a class="quarter-width-button-3" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
                         </div>
                     </div>
@@ -320,7 +320,7 @@
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                                <a class="quarter-width-button-3" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
                             <div class="catalogue-item-2">
                                 <div class="catalogue-product-image">
@@ -333,7 +333,7 @@
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                                <a class="quarter-width-button-3" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
                         </div>
                     </div>
@@ -414,7 +414,7 @@
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                                <a class="quarter-width-button-3" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
                             <div class="catalogue-item-2">
                                 <div class="catalogue-product-image">
@@ -427,7 +427,7 @@
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                                <a class="quarter-width-button-3" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
                         </div>
                     </div>
@@ -508,7 +508,7 @@
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                                <a class="quarter-width-button-3" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
                             <div class="catalogue-item-2">
                                 <div class="catalogue-product-image">
@@ -521,7 +521,7 @@
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                                <a class="quarter-width-button-3" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
                         </div>
                     </div>
@@ -602,7 +602,7 @@
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                                <a class="quarter-width-button-3" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
                             <div class="catalogue-item-2">
                                 <div class="catalogue-product-image">
@@ -615,7 +615,7 @@
                                         <p class="catalogue-price">$000</p>
                                     </div>
                                 </div>
-                                <a class="quarter-width-button-2" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
+                                <a class="quarter-width-button-3" href="<?= BASE_URL; ?>frame_detail">Quick view</a>
                             </div>
                         </div>
                     </div>
