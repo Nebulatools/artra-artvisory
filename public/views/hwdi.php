@@ -169,7 +169,7 @@
             </div>
             <div class="about-right-column-1">
                 <picture>
-                    <source srcset="public/assets/image/hwdi/img-04-m.png" media="(max-width: 767px)">
+                    <source srcset="public/assets/image/hwdi/img-04.png" media="(max-width: 767px)">
                     <img class="about-interior-image" src="public/assets/image/hwdi/img-04.png" alt="Framed Work">
                 </picture>
             </div>
