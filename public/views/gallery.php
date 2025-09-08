@@ -13,10 +13,10 @@
     <section class="title-section">
             <h2 class="title">COMING SOON</h2>
     </section>
-    <section class="grid-section">
+    <section class="grid-section-1">
         <picture>
             <source srcset="public/assets/image/gallery/svg-03-m.svg" media="(max-width: 767px)">
-            <img class="full-width-svg" src="public/assets/image/gallery/svg-03.svg" alt="Geometric">
+            <img class="full-width-svg-2" src="public/assets/image/gallery/svg-03.svg" alt="Geometric">
         </picture>
     </section>
 </main>

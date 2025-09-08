@@ -1,43 +1,14 @@
 /* MOBILE DEVICES (320 - 767) */
-.grid-section {
+.grid-section-1 {
 	position: relative;
 	justify-content: center;
 	align-items: center;
 }
 
-.grid-content {
-	width: 100%;
-	height: auto;
-	margin-top: -20px;
-	display: flex;
-	overflow: hidden;
-	justify-content: center;
-	align-items: center;
-}
-
-.full-width-svg {
-	width: 100%;
-	height: auto;
-	object-fit: contain;
-	display: flex;
-	align-items: center;
-	align-content: center;
-	align-self: stretch;
-	flex-wrap: wrap;
-}
-
 /* TABLET DEVICES (768 - 1,023) */
 @media screen and (min-width: 768px) {
-	.grid-content {
-		width: 100%;
-		justify-content: center;
-		align-items: center;
-	}
 }
 
 /* DESKTOP DEVICES (1,024 - 1,920++) */
 @media screen and (min-width: 1024px) {
-	.grid-content {
-		width: 100%;
-	}
 }

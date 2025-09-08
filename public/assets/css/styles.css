@@ -477,6 +477,17 @@ body {
 	object-fit: cover;
 }
 
+.full-width-svg-2 {
+	width: 100%;
+	height: auto;
+	object-fit: contain;
+	display: flex;
+	align-items: center;
+	align-content: center;
+	align-self: stretch;
+	flex-wrap: wrap;
+}
+
 
 
 
