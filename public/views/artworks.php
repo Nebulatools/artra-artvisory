@@ -13,46 +13,46 @@
     <section class="title-section">
             <h2 class="title">COMING SOON</h2>
     </section>
-    <section class="artwork-section">
-        <div class="artwork-grid">
-            <div class="artwork-item">
-                <div class="artwork-image">
+    <section class="artwork-section-1">
+        <div class="artwork-grid-1">
+            <div class="artwork-item-1">
+                <div class="artwork-image-1">
                     <img class="column-img" src="public/assets/image/artworks/img-03.png" alt="Artwork 1">
                 </div>
-                <div class="artwork-details">
-                    <h3 class="artwork-title">Artwork 1</h3>
-                    <p class="artwork-description">Description</p><br>
-                    <span class="artwork-specs">Collection</span>
+                <div class="artwork-details-1">
+                    <h3 class="artwork-title-1">Artwork 1</h3>
+                    <p class="artwork-description-1">Description</p><br>
+                    <span class="artwork-specs-1">Collection</span>
                 </div>
             </div>
             <div class="artwork-item-2">
-                <div class="artwork-image">
+                <div class="artwork-image-1">
                     <img class="column-img" src="public/assets/image/artworks/img-03.png" alt="Artwork 2">
                 </div>
-                <div class="artwork-details">
-                    <h3 class="artwork-title">Artwork 2</h3>
-                    <p class="artwork-description">Description</p><br>
-                    <span class="artwork-specs">Collection</span>
+                <div class="artwork-details-1">
+                    <h3 class="artwork-title-1">Artwork 2</h3>
+                    <p class="artwork-description-1">Description</p><br>
+                    <span class="artwork-specs-1">Collection</span>
                 </div>
             </div>
             <div class="artwork-item-3">
-                <div class="artwork-image">
+                <div class="artwork-image-1">
                     <img class="column-img" src="public/assets/image/artworks/img-03.png" alt="Artwork 3">
                 </div>
-                <div class="artwork-details">
-                    <h3 class="artwork-title">Artwork 3</h3>
-                    <p class="artwork-description">Description</p><br>
-                    <span class="artwork-specs">Collection</span>
+                <div class="artwork-details-1">
+                    <h3 class="artwork-title-1">Artwork 3</h3>
+                    <p class="artwork-description-1">Description</p><br>
+                    <span class="artwork-specs-1">Collection</span>
                 </div>
             </div>
             <div class="artwork-item-4">
-                <div class="artwork-image">
+                <div class="artwork-image-1">
                     <img class="column-img" src="public/assets/image/artworks/img-03.png" alt="Artwork 4">
                 </div>
-                <div class="artwork-details">
-                    <h3 class="artwork-title">Artwork 4</h3>
-                    <p class="artwork-description">Description</p><br>
-                    <span class="artwork-specs">Collection</span>
+                <div class="artwork-details-1">
+                    <h3 class="artwork-title-1">Artwork 4</h3>
+                    <p class="artwork-description-1">Description</p><br>
+                    <span class="artwork-specs-1">Collection</span>
                 </div>
             </div>
         </div>
