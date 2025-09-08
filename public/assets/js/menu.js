@@ -1,9 +1,7 @@
 // Dropdown Menu JavaScript
-
 document.addEventListener('DOMContentLoaded', function() {
     const menuToggle = document.getElementById('menuToggle');
     const dropdownMenu = document.getElementById('dropdownMenu');
-    
     let isMenuOpen = false;
 
     // Toggle menu on click
@@ -28,7 +26,7 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
     // Close menu when clicking on menu links
-    const menuLinks = dropdownMenu.querySelectorAll('.menu-link');
+    const menuLinks = dropdownMenu.querySelectorAll('.menu-link-1');
     menuLinks.forEach(link => {
         link.addEventListener('click', function(e) {
             e.preventDefault();
@@ -57,7 +55,7 @@ document.addEventListener('DOMContentLoaded', function() {
         setTimeout(() => {
             dropdownMenu.classList.add('active');
             isMenuOpen = true;
-            menuToggle.style.color = '#666';
+            menuToggle.style.color = '#333';
         }, 10);
     }
 
