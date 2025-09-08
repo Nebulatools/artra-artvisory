@@ -29,7 +29,7 @@
                     <h2 class="highlights-title">COMING SOON.<br>EXHIBIT 1.<br><br></h2>
                 </div>
                 <div class="card-image">
-                    <img src="public/assets/image/home/img-03.png" alt="Exhibit" class="image-placeholder catalogue-img">
+                    <img src="public/assets/image/home/img-03.png" alt="Exhibit" class="highlight-img">
                 </div>
             </div>
             <div class="highlights-card-2">
@@ -37,7 +37,7 @@
                     <h2 class="highlights-title">DISCOVER OUR<br>CATALOGUE.<br><br></h2>
                 </div>
                 <div class="card-image">
-                    <img src="public/assets/image/home/img-04.png" alt="Catalogue" class="image-placeholder catalogue-img">
+                    <img src="public/assets/image/home/img-04.png" alt="Catalogue" class="highlight-img">
                 </div>
             </div>
             <div class="highlights-card">
@@ -45,7 +45,7 @@
                     <h2 class="highlights-title">COMING SOON.<br>ARTISTS & WORKS.</h2>
                 </div>
                 <div class="card-image">
-                    <img src="public/assets/image/home/img-05.png" alt="Artist" class="image-placeholder catalogue-img">
+                    <img src="public/assets/image/home/img-05.png" alt="Artist" class="highlight-img">
                 </div>
             </div>
         </div>
