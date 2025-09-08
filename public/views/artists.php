@@ -13,7 +13,7 @@
     <section class="title-section">
             <h2 class="title">COMING SOON</h2>
     </section>
-    <section class="artist-section">
+    <section class="artist-section-1">
         <picture>
             <source srcset="public/assets/image/artists/img-03-m.png" media="(max-width: 767px)">
             <img class="full-width-img" src="public/assets/image/artists/img-03.png" alt="Artist">
