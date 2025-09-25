@@ -105,7 +105,7 @@
 }
 
 .banner-section-1 {
-    background: #F2F2F2;
+    background: #EDF851;
     border-top: 1px solid #000;
     border-bottom: 1px solid #000;
     overflow: hidden;
@@ -144,6 +144,12 @@
 @media screen and (min-width: 1024px) {
     .nav-header-1 {
         padding: 20px 40px;
+    }
+
+    .nav-logo-1 {
+        max-width: 200px;
+        margin-top: 15px;
+        margin-bottom: 15px;
     }
 
     .menu-link-1 {

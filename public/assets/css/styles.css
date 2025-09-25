@@ -156,7 +156,7 @@ body {
 .about-item-6,
 .about-item-7 {
 	width: 100%;
-	max-width: 360px;
+	max-width: 330px;
 	border-top: none;
 	border-left: 1px solid #000;
 	border-right: 1px solid #000;
@@ -169,7 +169,7 @@ body {
 
 .about-item-8 {
 	width: 100%;
-	max-width: 360px;
+	max-width: 330px;
 	border-top: none;
 	border-left: 1px solid #000;
 	border-right: 1px solid #000;
@@ -1607,7 +1607,7 @@ body {
 	}
 
 	.frames-section {
-		padding: 0 40px;
+		padding: 0 100px;
 	}
 
 	.about-item {

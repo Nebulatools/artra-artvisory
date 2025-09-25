@@ -2,14 +2,16 @@
     <section class="main-section">
         <div class="home-content">
             <div class="home-image">
-                <picture>
-                    <source srcset="public/assets/image/home/img-01.png" media="(max-width: 767px)">
-                    <img class="full-width-img-2" src="public/assets/image/home/img-01.png" alt="Framing Studio">
-                </picture>
+                <a class="full-width-img-2" href="<?= BASE_URL; ?>how-we-do-it">
+                    <picture>
+                        <source srcset="public/assets/image/home/img-01.png" media="(max-width: 767px)">
+                        <img class="full-width-img-2" src="public/assets/image/home/img-01.png" alt="Framing Studio">
+                    </picture>
+                </a>
             </div>
         </div>
     </section>
-    <section class="title-section-2">
+    <section class="title-section-3">
         <h2 class="title">NEW FRAMES.</h2>
     </section>
     <section class="home-section">
@@ -26,31 +28,37 @@
         <div class="highlights-grid">
             <div class="highlights-card">
                 <div class="highlights-header">
-                    <h2 class="highlights-title">COMING SOON.<br>EXHIBIT 1.<br><br></h2>
+                    <h2 class="highlights-title">DISCOVER<br>OUR WORKS.</h2>
                 </div>
                 <div class="card-image">
-                    <img src="public/assets/image/home/img-03.png" alt="Exhibit" class="highlight-img">
+                    <a class="highlight-img" href="<?= BASE_URL; ?>artworks">
+                        <img class="highlight-img" src="public/assets/image/home/img-03.png" alt="Exhibit">
+                    </a>
                 </div>
             </div>
             <div class="highlights-card-2">
                 <div class="highlights-header">
-                    <h2 class="highlights-title">DISCOVER OUR<br>CATALOGUE.<br><br></h2>
+                    <h2 class="highlights-title">CATALOGUE<br>HIGHLIGHTS.</h2>
                 </div>
                 <div class="card-image">
-                    <img src="public/assets/image/home/img-04.png" alt="Catalogue" class="highlight-img">
+                    <a class="highlight-img" href="<?= BASE_URL; ?>catalogue">
+                        <img class="highlight-img" src="public/assets/image/home/img-04.png" alt="Catalogue">
+                    </a>
                 </div>
             </div>
             <div class="highlights-card">
                 <div class="highlights-header">
-                    <h2 class="highlights-title">COMING SOON.<br>ARTISTS & WORKS.</h2>
+                    <h2 class="highlights-title">HOW WE<br>DO IT.</h2>
                 </div>
                 <div class="card-image">
-                    <img src="public/assets/image/home/img-05.png" alt="Artist" class="highlight-img">
+                    <a class="highlight-img" href="<?= BASE_URL; ?>how-we-do-it">
+                        <img class="highlight-img" src="public/assets/image/home/img-05.png" alt="Artist">
+                    </a>
                 </div>
             </div>
         </div>
     </section>
-    <section class="title-section-2">
+    <section class="title-section-3">
         <h2 class="title">OUR TOP PICKS.</h2>
     </section>
     <section class="frames-section">
@@ -95,6 +103,10 @@
                     <a class="about-specs" href="<?= BASE_URL; ?>frame_detail">Specs</a>
                 </div>
             </div>
+        </div>
+    </section>
+    <section class="frames-section">
+        <div class="frames-grid">
             <div class="about-item-5">
                 <div class="about-image">
                     <img class="about-img" src="public/assets/image/frames/frm-05.png" alt="Frame 5">
@@ -137,12 +149,12 @@
             </div>
         </div>
     </section>
-    <section class="about-grid-section">
+    <!-- <section class="about-grid-section">
         <picture>
             <source srcset="public/assets/image/home/svg-01-m.svg" media="(max-width: 767px)">
             <img class="full-width-svg" src="public/assets/image/home/svg-01.svg" alt="Geometric">
         </picture>
-    </section>
+    </section> -->
     <section class="about-section">
         <div class="about-grid">
             <div class="about-left-column-1">

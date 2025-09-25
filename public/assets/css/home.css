@@ -19,11 +19,12 @@
 	background: #F2F2F2;
 }
 
-.title-section-2 {
-	border-top: 1px solid #000;
-	border-bottom: 1px solid #000;
+.title-section-3 {
+	border: 1px solid #000;
 	display: flex;
-	padding: 5px 20px 20px;
+	margin-left: 100px;
+	margin-right: 100px;
+	padding: 20px 40px;
 	text-align: left;
 	overflow: hidden;
 	white-space: nowrap;
@@ -32,7 +33,6 @@
 .home-content-2 {
 	width: 100%;
 	height: auto;
-	margin: 0 auto;
 	position: relative;
 	border-left: 1px solid #000;
 	border-right: 1px solid #000;
@@ -971,10 +971,11 @@ body {
 @media screen and (min-width: 1024px) {
 	.home-section,
 	.highlights-section {
-		padding: 0 40px;
+		padding: 0 100px;
 	}
 
 	.home-image {
+		padding: 0 100px;
 		height: 475px;
 	}
 
