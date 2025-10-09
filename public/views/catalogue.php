@@ -5,11 +5,11 @@
             <img class="main-sign" src="public/assets/image/catalogue/svg-02.svg" alt="Signature">
         </div>
     </section>
-    <section class="back-section-2">
+    <!-- <section class="back-section-2">
         <div class="back-content">
             <a class="back-button" href="<?= BASE_URL; ?>">Go Back</a>
         </div>
-    </section>
+    </section> -->
     <section class="catalogue-section">
         <!-- Standards Category -->
         <div class="catalogue-item">
@@ -626,10 +626,10 @@
             </div>
         </div>
     </section>
-    <section class="about-grid-section">
+    <!-- <section class="about-grid-section">
         <picture>
             <source srcset="public/assets/image/gallery/svg-03-m.svg" media="(max-width: 767px)">
             <img class="full-width-svg" src="public/assets/image/gallery/svg-03.svg" alt="Geometric">
         </picture>
-    </section>
+    </section> -->
 </main>

@@ -1,35 +1,41 @@
 /* MOBILE DEVICES (320 - 767) */
 .artwork-section-1 {
-	padding: 0 20px;
+	/* padding: 0 20px; */
+	--lateral: clamp(0px, 0vw, 0px);
+	padding-inline: var(--lateral);
 }
 
 .artwork-grid-1 {
-	display: flex;
+	/* display: flex;
 	flex-wrap: wrap;
 	width: 100%;
 	margin: 0 auto;
 	flex-direction: column;
+	align-items: center; */
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+	gap: clamp(0px, vw, 30px);
+	width: min(100%, 3000px);
+	margin-inline: auto;
 	align-items: center;
 }
 
-.artwork-item-1,
-.artwork-item-2,
-.artwork-item-3,
-.artwork-item-4 {
+.artwork-item {
 	width: 100%;
-	max-width: 360px;
-	border-top: none;
+	border-top: 1px solid #000;
 	border-left: 1px solid #000;
 	border-right: 1px solid #000;
-	border-bottom: 1px solid #000;
+	border-bottom: none;
 	background: #F2F2F2;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
 }
 
-.artwork-item-4:last-child {
-	border-bottom: none;
+.artwork-grid-1 > [class^="artwork-item"] {
+  width: 100%;
+  max-width: none;
+  box-sizing: border-box;
 }
 
 .artwork-image-1 {
@@ -72,24 +78,24 @@
 
 /* TABLET DEVICES (768 - 1,023) */
 @media screen and (min-width: 768px) {
-	.artwork-section-1 {
+	/* .artwork-section-1 {
 		padding: 0 30px;
-	}
+	} */
 
 	.artwork-grid-1 {
 		flex-direction: row;
 		justify-content: center;
 	}
 
-	.artwork-item-1 {
+	.artwork-item {
 		width: 100%;
-		border-top: none;
+		/* border-top: none;
 		border-left: 1px solid #000;
 		border-right: 1px solid #000;
-		border-bottom: 1px solid #000;
+		border-bottom: 1px solid #000; */
 	}
 
-	.artwork-item-2 {
+	/* .artwork-item-2 {
 		width: 100%;
 		border-top: none;
 		border-left: none;
@@ -111,7 +117,7 @@
 		border-left: none;
 		border-right: 1px solid #000;
 		border-bottom: none;
-	}
+	} */
 
 	.artwork-image-1 {
 		height: 400px;
@@ -130,23 +136,24 @@
 
 /* DESKTOP DEVICES (1,024 - 1,920++) */
 @media screen and (min-width: 1024px) {
-	.artwork-section-1 {
+	/* .artwork-section-1 {
 		padding: 0 40px;
-	}
+	} */
 
 	.artwork-grid-1 {
-		justify-content: flex-start;
+		/* justify-content: flex-start; */
+		grid-template-columns: repeat(4, minmax(0, fr));
 	}
 
-	.artwork-item-1 {
+	.artwork-item {
 		width: 100%;
-		border-top: none;
+		border-top: 1px solid #000;
 		border-left: 1px solid #000;
 		border-right: 1px solid #000;
 		border-bottom: none;
 	}
 
-	.artwork-item-2,
+	/* .artwork-item-2,
 	.artwork-item-3,
 	.artwork-item-4 {
 		width: 100%;
@@ -154,7 +161,7 @@
 		border-left: none;
 		border-right: 1px solid #000;
 		border-bottom: none;
-	}
+	} */
 
 	.artwork-image-1 {
 		height: 475px;

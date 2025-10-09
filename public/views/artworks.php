@@ -5,17 +5,17 @@
             <img class="main-sign" src="public/assets/image/artworks/svg-02.svg" alt="Signature">
         </div>
     </section>
-    <section class="back-section">
+    <!-- <section class="back-section">
         <div class="back-content">
             <a class="back-button" href="<?= BASE_URL; ?>">Go Back</a>
         </div>
-    </section>
-    <section class="title-section">
-            <h2 class="title">COMING SOON</h2>
+    </section> -->
+    <section class="title-section-1">
+            <h2 class="title-1">COMING SOON</h2>
     </section>
     <section class="artwork-section-1">
         <div class="artwork-grid-1">
-            <div class="artwork-item-1">
+            <div class="artwork-item">
                 <div class="artwork-image-1">
                     <img class="column-img" src="public/assets/image/artworks/img-03.png" alt="Artwork 1">
                 </div>
@@ -25,7 +25,7 @@
                     <span class="artwork-specs-1">Collection</span>
                 </div>
             </div>
-            <div class="artwork-item-2">
+            <div class="artwork-item">
                 <div class="artwork-image-1">
                     <img class="column-img" src="public/assets/image/artworks/img-03.png" alt="Artwork 2">
                 </div>
@@ -35,7 +35,7 @@
                     <span class="artwork-specs-1">Collection</span>
                 </div>
             </div>
-            <div class="artwork-item-3">
+            <div class="artwork-item">
                 <div class="artwork-image-1">
                     <img class="column-img" src="public/assets/image/artworks/img-03.png" alt="Artwork 3">
                 </div>
@@ -45,7 +45,7 @@
                     <span class="artwork-specs-1">Collection</span>
                 </div>
             </div>
-            <div class="artwork-item-4">
+            <div class="artwork-item">
                 <div class="artwork-image-1">
                     <img class="column-img" src="public/assets/image/artworks/img-03.png" alt="Artwork 4">
                 </div>

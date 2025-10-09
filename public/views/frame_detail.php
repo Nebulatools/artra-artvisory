@@ -5,11 +5,11 @@
             <img class="main-sign" src="public/assets/image/frame_detail/svg-02.svg" alt="Signature">
         </div>
     </section>
-    <section class="back-section">
+    <!-- <section class="back-section">
         <div class="back-content">
             <a class="back-button" href="<?= BASE_URL; ?>">Go Back</a>
         </div>
-    </section>
+    </section> -->
     <section class="title-section">
             <h2 class="title">DISCOVER THE PIECE</h2>
     </section>
@@ -50,10 +50,10 @@
             </div>
         </div>
     </section>
-    <section class="grid-section">
+    <!-- <section class="grid-section">
         <picture>
             <source srcset="public/assets/image/gallery/svg-03-m.svg" media="(max-width: 767px)">
             <img class="full-width-svg" src="public/assets/image/gallery/svg-03.svg" alt="Geometric">
         </picture>
-    </section>
+    </section> -->
 </main>

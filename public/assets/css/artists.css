@@ -1,4 +1,22 @@
 /* MOBILE DEVICES (320 - 767) */
+.title-section-1 {
+   display: flex;
+   text-align: left;
+   overflow: hidden;
+   padding: 20px 0px 20px;
+   white-space: nowrap;
+}
+
+.title-1 {
+   font-family: 'Sohne';
+   font-weight: 500;
+   font-size: 20px;
+   line-height: 1;
+   text-transform: uppercase;
+   text-align: left;
+   color: #000;
+}
+
 .artist-section-1 {
 	position: relative;
 	align-items: center;
@@ -7,6 +25,13 @@
 
 /* TABLET DEVICES (768 - 1,023) */
 @media screen and (min-width: 768px) {
+	.title-section-1 {
+		padding: 0px 0px 20px;
+	}
+
+	.title-1 {
+		font-size: 40px;
+	}
 }
 
 /* DESKTOP DEVICES (1,024 - 1,920++) */

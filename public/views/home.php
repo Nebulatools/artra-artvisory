@@ -63,7 +63,7 @@
     </section>
     <section class="frames-section">
         <div class="frames-grid">
-            <div class="about-item">
+            <div class="about-item-1">
                 <div class="about-image">
                     <img class="about-img" src="public/assets/image/frames/frm-01.png" alt="Frame 1">
                 </div>
@@ -73,7 +73,7 @@
                     <a class="about-specs" href="<?= BASE_URL; ?>frame_detail">Specs</a>
                 </div>
             </div>
-            <div class="about-item-2">
+            <div class="about-item-1">
                 <div class="about-image">
                     <img class="about-img" src="public/assets/image/frames/frm-02.png" alt="Frame 2">
                 </div>
@@ -83,7 +83,7 @@
                     <a class="about-specs" href="<?= BASE_URL; ?>frame_detail">Specs</a>
                 </div>
             </div>
-            <div class="about-item-3">
+            <div class="about-item-1">
                 <div class="about-image">
                     <img class="about-img" src="public/assets/image/frames/frm-03.png" alt="Frame 3">
                 </div>
@@ -93,7 +93,7 @@
                     <a class="about-specs" href="<?= BASE_URL; ?>frame_detail">Specs</a>
                 </div>
             </div>
-            <div class="about-item-4">
+            <div class="about-item-1">
                 <div class="about-image">
                     <img class="about-img" src="public/assets/image/frames/frm-04.png" alt="Frame 4">
                 </div>
@@ -107,7 +107,7 @@
     </section>
     <section class="frames-section">
         <div class="frames-grid">
-            <div class="about-item-5">
+            <div class="about-item-1">
                 <div class="about-image">
                     <img class="about-img" src="public/assets/image/frames/frm-05.png" alt="Frame 5">
                 </div>
@@ -117,7 +117,7 @@
                     <a class="about-specs" href="<?= BASE_URL; ?>frame_detail">Specs</a>
                 </div>
             </div>
-            <div class="about-item-6">
+            <div class="about-item-1">
                 <div class="about-image">
                     <img class="about-img" src="public/assets/image/frames/frm-06.png" alt="Frame 6">
                 </div>
@@ -127,7 +127,7 @@
                     <a class="about-specs" href="<?= BASE_URL; ?>frame_detail">Specs</a>
                 </div>
             </div>
-            <div class="about-item-7">
+            <div class="about-item-1">
                 <div class="about-image">
                     <img class="about-img" src="public/assets/image/frames/frm-07.png" alt="Frame 7">
                 </div>
@@ -137,7 +137,7 @@
                     <a class="about-specs" href="<?= BASE_URL; ?>frame_detail">Specs</a>
                 </div>
             </div>
-            <div class="about-item-8">
+            <div class="about-item-0 about-item-1">
                 <div class="about-image">
                     <img class="about-img" src="public/assets/image/frames/frm-08.png" alt="Frame 8">
                 </div>

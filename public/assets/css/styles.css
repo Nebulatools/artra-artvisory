@@ -57,6 +57,8 @@ body {
 .main-content {
 	background: #F2F2F2;
 	max-width: 100%;
+	margin-left: 0px;
+	margin-right: 0px;
 }
 
 .main-img {
@@ -112,7 +114,11 @@ body {
 }
 
 .title-section-2 {
-	padding: 20px 16px;
+	border-top: 1px solid #000;
+	border-left: 1px solid #000;
+	border-right: 1px solid #000;
+	padding: 20px 20px;
+	display: flex;
 	text-align: left;
 	overflow: hidden;
 	white-space: nowrap;
@@ -136,16 +142,46 @@ body {
 } */
 
 .frames-section {
-	padding: 0 20px;
+	/* padding: 20px; */
+	--lateral: clamp(0px, 0vw, 0px);
+	padding-inline: var(--lateral);
 }
 
 .frames-grid {
-	display: flex;
+	/* display: flex;
 	flex-wrap: wrap;
 	width: 100%;
 	margin: 0 auto;
 	flex-direction: column;
+	align-items: center; */
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+	gap: clamp(0px, vw, 30px);
+	width: min(100%, 3000px);
+	margin-inline: auto;
 	align-items: center;
+}
+
+.about-item-0 {
+	border-bottom: 1px solid #000 !important;
+}
+
+.about-item-1 {
+	width: 100%;
+	border-top: 1px solid #000;
+	border-left: 1px solid #000;
+	border-right: 1px solid #000;
+	border-bottom: none;
+	background: #F2F2F2;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.frames-grid > [class^="artwork-item-1"] {
+  width: 100%;
+  max-width: none;
+  box-sizing: border-box;
 }
 
 .about-item,
@@ -1013,10 +1049,6 @@ body {
 }
 
 /* Main Content */
-.main-content {
-	max-width: 100%;
-	padding: 0;
-}
 
 .grid-container-2 {
 	margin-top: -20px;
@@ -1278,10 +1310,6 @@ body {
 		padding: 24px;
 	} */
 
-	.main-content {
-		max-width: 100%;
-	}
-
 	.three-columns-section {
 		padding: 30px;
 	}
@@ -1347,16 +1375,17 @@ body {
 	}
 
 	.frames-section {
-		padding: 0 30px;
+		margin: 0px;
 	}
 
 	.frames-grid {
-		display: flex;
+		/* display: flex;
 		flex-wrap: wrap;
 		width: 100%;
 		margin: 0 auto;
 		flex-direction: row;
-		align-items: center;
+		align-items: center; */
+		grid-template-columns: repeat(4, minmax(0, fr));
 	}
 
 	.about-item,
@@ -1527,6 +1556,8 @@ body {
 
 	.main-content {
 		max-width: 100%;
+		margin-left: 100px;
+		margin-right: 100px;
 	}
 
 	.three-columns-section {
@@ -1606,8 +1637,8 @@ body {
 		font-size: 45px;
 	}
 
-	.frames-section {
-		padding: 0 100px;
+	.about-item-0 {
+		border-bottom: none !important;
 	}
 
 	.about-item {

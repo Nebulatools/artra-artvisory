@@ -1,11 +1,10 @@
 /* MOBILE DEVICES (320 - 767) */
 .main-section {
-	padding: 0px;
-	margin-bottom: 0px;
+	margin: 0px;
 }
 
 .home-section {
-	padding: 0 20px;
+	padding: 0px;
 	margin-bottom: 0px;
 }
 
@@ -14,17 +13,13 @@
 	height: 100%;
 	margin: 0 auto;
 	position: relative;
-	border-left: 1px solid #000;
-	border-right: 1px solid #000;
-	background: #F2F2F2;
 }
 
 .title-section-3 {
-	border: 1px solid #000;
+	border-left: 1px solid #000;
+	border-right: 1px solid #000;
 	display: flex;
-	margin-left: 100px;
-	margin-right: 100px;
-	padding: 20px 40px;
+	padding: 20px 20px;
 	text-align: left;
 	overflow: hidden;
 	white-space: nowrap;
@@ -37,7 +32,6 @@
 	border-left: 1px solid #000;
 	border-right: 1px solid #000;
 	border-bottom: 1px solid #000;
-	background: #F2F2F2;
 }
 
 .home-image {
@@ -60,7 +54,7 @@
 }
 
 .highlights-section {
-	padding: 0 20px;
+	padding: 0px;
 }
 
 .highlights-grid {
@@ -85,7 +79,7 @@
 }
 
 .highlights-header {
-	padding: 0px 0px 0px 0px;
+	padding: 0px;
 }
 
 .highlights-title {
@@ -96,11 +90,10 @@
 	letter-spacing: -0.01em;
 	text-transform: uppercase;
 	color: #000;
-	border-bottom: 1px solid #000;
 }
 
 .frame-highlight {
-	padding: 0 40px;
+	padding: 0px;
 }
 
 .title-content .artwork-img {
@@ -237,7 +230,7 @@
 
 /* Artworks Collection */
 .artworks-collection {
-	padding: 0 40px;
+	padding: 0px;
 }
 
 .artworks-grid {
@@ -614,6 +607,7 @@ body {
 	overflow: hidden;
 	flex-grow: 1;
     display: flex;
+	border-top: 1px solid #000;
 	border-bottom: 1px solid #000;
 }
 
@@ -635,7 +629,7 @@ body {
 
 /* Three Columns Section - Mobile */
 .three-columns-section {
-	padding: 0 16px;
+	padding: 0px;
 	border-left: 1px solid #000;
 	border-right: 1px solid #000;
 	margin-bottom: 20px;
@@ -690,7 +684,7 @@ body {
 
 /* Artworks Collection */
 .artworks-collection {
-	padding: 0 20px;
+	padding: 0px;
 }
 
 .artworks-grid {
@@ -796,16 +790,11 @@ body {
 @media screen and (min-width: 768px) {
 	.home-section,
 	.highlights-section {
-		padding: 0 30px;
-	}
-
-	.home-content {
-		border-left: none;
-		border-right: none;
+		padding: 0px;
 	}
 
 	.home-image {
-		height: 400px;
+		height: auto;
 	}
 
 	.highlights-grid {
@@ -919,7 +908,7 @@ body {
 
 	/* Artworks Collection */
 	.artworks-collection {
-		padding: 0 30px;
+		padding: 0px;
 	}
 
 	.artworks-grid {
@@ -971,12 +960,11 @@ body {
 @media screen and (min-width: 1024px) {
 	.home-section,
 	.highlights-section {
-		padding: 0 100px;
+		padding: 0px;
 	}
 
 	.home-image {
-		padding: 0 100px;
-		height: 475px;
+		height: auto;
 	}
 
 	.highlights-grid {
@@ -1065,7 +1053,7 @@ body {
 
 	/* Artworks Collection */
 	.artworks-collection {
-		padding: 0 40px;
+		padding: 0px;
 	}
 
 	.artworks-grid {

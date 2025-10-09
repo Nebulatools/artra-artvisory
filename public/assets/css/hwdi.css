@@ -1,6 +1,6 @@
 /* MOBILE DEVICES (320 - 767) */
 .about-section {
-   padding: 0 20px;
+   padding: 0px;
 }
 
 .about-grid {
@@ -14,7 +14,7 @@
    position: relative;
    max-width: 100%;
    border-bottom: none;
-   padding: 20px;
+   padding: 20px 20px;
 }
 
 .about-header {
@@ -88,9 +88,9 @@
 
 .title-section {
    border-top: none;
-   border-bottom: 1px solid #000000;
+   border-bottom: none;
    display: flex;
-   padding: 5px 20px 20px;
+   padding: 20px 20px;
    text-align: left;
    overflow: hidden;
    white-space: nowrap;
@@ -165,7 +165,7 @@
 /* TABLET DEVICES (768 - 1,023) */
 @media screen and (min-width: 768px) {
    .about-section {
-      padding: 0 30px;
+      padding: 0px;
    }
 
    .about-grid {
@@ -190,7 +190,7 @@
    }
 
    .about-content {
-      padding: 22px;
+      padding: 0px;
    }
 
    .about-title {
@@ -231,9 +231,6 @@
 /* DESKTOP DEVICES (1,024 - 1,920++) */
 @media screen and (min-width: 1024px) {
    .about-section {
-      padding: 0 0px;
-      margin-left: 100px;
-      margin-right: 100px;
       border-top: 1px solid #000;
    }
 
