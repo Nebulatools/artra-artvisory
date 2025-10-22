@@ -2,6 +2,7 @@
 function configureRoutes($router) {
     $router->add('/', ['controller' => 'Controller', 'action' => 'index']);
     $router->add('/home', ['controller' => 'Controller', 'action' => 'home']);
+    $router->add('/about', ['controller' => 'Controller', 'action' => 'about']);
     $router->add('/artworks', ['controller' => 'Controller', 'action' => 'artworks']);
     $router->add('/artists', ['controller' => 'Controller', 'action' => 'artists']);
     $router->add('/how-we-do-it', ['controller' => 'Controller', 'action' => 'hwdi']);

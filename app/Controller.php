@@ -14,6 +14,9 @@ class Controller {
 	public function home() {
 		$this->render('home', 'Home');
 	}
+	public function about() {
+		$this->render('about', 'About');
+	}
 	public function artworks() {
 		$this->render('artworks', 'Artworks');
 	}
