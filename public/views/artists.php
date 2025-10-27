@@ -1,8 +1,8 @@
 <main class="main-content">
     <section class="main-section">
         <div class="main-title">
-            <img class="main-img" src="public/assets/image/artists/svg-01.svg" alt="Title">
-            <img class="main-sign" src="public/assets/image/artists/svg-02.svg" alt="Signature">
+            <img class="main-img" src="<?= BASE_URL; ?>/public/assets/image/artists/svg-01.svg" alt="Title">
+            <img class="main-sign" src="<?= BASE_URL; ?>/public/assets/image/artists/svg-02.svg" alt="Signature">
         </div>
     </section>
     <!-- <section class="back-section">
@@ -15,8 +15,8 @@
     </section>
     <section class="artist-section-1">
         <picture>
-            <source srcset="public/assets/image/artists/img-03-m.png" media="(max-width: 767px)">
-            <img class="full-width-img" src="public/assets/image/artists/img-03.png" alt="Artist">
+            <source srcset="<?= BASE_URL; ?>/public/assets/image/artists/img-03-m.png" media="(max-width: 767px)">
+            <img class="full-width-img" src="<?= BASE_URL; ?>/public/assets/image/artists/img-03.png" alt="Artist">
         </picture>
     </section>
 </main>

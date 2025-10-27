@@ -1,22 +1,22 @@
 <main class="main-content">
     <section class="main-section">
         <div class="main-title">
-            <img class="main-img" src="public/assets/image/frame_detail/svg-01.svg" alt="Title">
-            <img class="main-sign" src="public/assets/image/frame_detail/svg-02.svg" alt="Signature">
+            <img class="main-img" src="<?= BASE_URL; ?>/public/assets/image/frame_detail/svg-01.svg" alt="Title">
+            <img class="main-sign" src="<?= BASE_URL; ?>/public/assets/image/frame_detail/svg-02.svg" alt="Signature">
         </div>
     </section>
-    <!-- <section class="back-section">
+    <section class="back-section">
         <div class="back-content">
-            <a class="back-button" href="<?= BASE_URL; ?>">Go Back</a>
+            <a class="back-button" href="<?= BASE_URL; ?>frames">Go Back</a>
         </div>
-    </section> -->
+    </section>
     <section class="title-section">
             <h2 class="title">DISCOVER THE PIECE</h2>
     </section>
     <section class="frame-section">
         <div class="frame-content">
             <div class="frame-left-column">
-                <img class="frame-img" src="public/assets/image/frame_detail/img-03.png" alt="Frame 1">
+                <img class="frame-img" src="<?= BASE_URL; ?>/public/assets/image/frame_detail/img-03.png" alt="Frame 1">
             </div>
             <div class="frame-right-column">
                 <div class="frame-card">
@@ -38,12 +38,12 @@
                 <div class="frame-grid">
                     <div class="frame-item-30">
                         <div class="frame-image-30">
-                            <img class="frame-img" src="public/assets/image/frame_detail/img-04.png" alt="Frame 1">
+                            <img class="frame-img" src="<?= BASE_URL; ?>/public/assets/image/frame_detail/img-04.png" alt="Frame 1">
                         </div>
                     </div>
                     <div class="frame-item-31">
                         <div class="frame-image-30">
-                            <img class="frame-img" src="public/assets/image/frame_detail/img-05.png" alt="Frame 2">
+                            <img class="frame-img" src="<?= BASE_URL; ?>/public/assets/image/frame_detail/img-05.png" alt="Frame 2">
                         </div>
                     </div>
                 </div>
@@ -52,8 +52,8 @@
     </section>
     <!-- <section class="grid-section">
         <picture>
-            <source srcset="public/assets/image/gallery/svg-03-m.svg" media="(max-width: 767px)">
-            <img class="full-width-svg" src="public/assets/image/gallery/svg-03.svg" alt="Geometric">
+            <source srcset="<?= BASE_URL; ?>/public/assets/image/gallery/svg-03-m.svg" media="(max-width: 767px)">
+            <img class="full-width-svg" src="<?= BASE_URL; ?>/public/assets/image/gallery/svg-03.svg" alt="Geometric">
         </picture>
     </section> -->
 </main>

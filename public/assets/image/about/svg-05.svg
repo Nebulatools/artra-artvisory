@@ -1,0 +1,72 @@
+<svg width="630" height="452" viewBox="0 0 630 452" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="630" y="451" width="90" height="90" transform="rotate(-180 630 451)" stroke="black"/>
+<rect x="540" y="451" width="90" height="90" transform="rotate(-180 540 451)" stroke="black"/>
+<rect x="450" y="451" width="90" height="90" transform="rotate(-180 450 451)" stroke="black"/>
+<rect x="360" y="451" width="90" height="90" transform="rotate(-180 360 451)" stroke="black"/>
+<rect x="270" y="451" width="90" height="90" transform="rotate(-180 270 451)" stroke="black"/>
+<rect x="180" y="451" width="90" height="90" transform="rotate(-180 180 451)" stroke="black"/>
+<rect x="90" y="451" width="90" height="90" transform="rotate(-180 90 451)" stroke="black"/>
+<rect x="630" y="361" width="90" height="90" transform="rotate(-180 630 361)" stroke="black"/>
+<rect x="540" y="361" width="90" height="90" transform="rotate(-180 540 361)" stroke="black"/>
+<rect x="450" y="361" width="90" height="90" transform="rotate(-180 450 361)" stroke="black"/>
+<rect x="360" y="361" width="90" height="90" transform="rotate(-180 360 361)" stroke="black"/>
+<rect x="270" y="361" width="90" height="90" transform="rotate(-180 270 361)" stroke="black"/>
+<rect x="180" y="361" width="90" height="90" transform="rotate(-180 180 361)" stroke="black"/>
+<rect x="90" y="361" width="90" height="90" transform="rotate(-180 90 361)" stroke="black"/>
+<rect x="630" y="271" width="90" height="90" transform="rotate(-180 630 271)" stroke="black"/>
+<g clip-path="url(#clip0_405_586)">
+<circle cx="495" cy="226" r="45" transform="rotate(-180 495 226)" stroke="black"/>
+</g>
+<rect x="540" y="271" width="90" height="90" transform="rotate(-180 540 271)" stroke="black"/>
+<rect x="450" y="271" width="90" height="90" transform="rotate(-180 450 271)" stroke="black"/>
+<g clip-path="url(#clip1_405_586)">
+<line x1="270.354" y1="180.646" x2="360.156" y2="270.449" stroke="black"/>
+</g>
+<rect x="270" y="271" width="90" height="90" transform="rotate(-90 270 271)" stroke="black"/>
+<g clip-path="url(#clip2_405_586)">
+<line x1="179.646" y1="270.646" x2="269.449" y2="180.844" stroke="black"/>
+</g>
+<rect x="270" y="271" width="90" height="90" transform="rotate(-180 270 271)" stroke="black"/>
+<rect x="180" y="271" width="90" height="90" transform="rotate(-180 180 271)" stroke="black"/>
+<rect x="90" y="271" width="90" height="90" transform="rotate(-180 90 271)" stroke="black"/>
+<rect x="630" y="181" width="90" height="90" transform="rotate(-180 630 181)" stroke="black"/>
+<rect x="540" y="181" width="90" height="90" transform="rotate(-180 540 181)" stroke="black"/>
+<g clip-path="url(#clip3_405_586)">
+<circle cx="405" cy="136" r="45" transform="rotate(-180 405 136)" stroke="black"/>
+</g>
+<rect x="450" y="181" width="90" height="90" transform="rotate(-180 450 181)" stroke="black"/>
+<rect x="360" y="181" width="90" height="90" transform="rotate(-180 360 181)" stroke="black"/>
+<g clip-path="url(#clip4_405_586)">
+<line x1="179.646" y1="180.646" x2="269.449" y2="90.8439" stroke="black"/>
+</g>
+<rect x="270" y="181" width="90" height="90" transform="rotate(-180 270 181)" stroke="black"/>
+<g clip-path="url(#clip5_405_586)">
+<line x1="90.3536" y1="90.6464" x2="180.156" y2="180.449" stroke="black"/>
+</g>
+<rect x="90" y="181" width="90" height="90" transform="rotate(-90 90 181)" stroke="black"/>
+<rect x="90" y="181" width="90" height="90" transform="rotate(-180 90 181)" stroke="black"/>
+<rect x="630" y="91" width="90" height="90" transform="rotate(-180 630 91)" stroke="black"/>
+<rect x="540" y="91" width="90" height="90" transform="rotate(-180 540 91)" stroke="black"/>
+<rect x="450" y="91" width="90" height="90" transform="rotate(-180 450 91)" stroke="black"/>
+<rect x="360" y="91" width="90" height="90" transform="rotate(-180 360 91)" stroke="black"/>
+<defs>
+<clipPath id="clip0_405_586">
+<rect x="540" y="271" width="90" height="90" transform="rotate(-180 540 271)" fill="white"/>
+</clipPath>
+<clipPath id="clip1_405_586">
+<rect x="270" y="271" width="90" height="90" transform="rotate(-90 270 271)" fill="white"/>
+</clipPath>
+<clipPath id="clip2_405_586">
+<rect x="270" y="271" width="90" height="90" transform="rotate(-180 270 271)" fill="white"/>
+</clipPath>
+<clipPath id="clip3_405_586">
+<rect x="450" y="181" width="90" height="90" transform="rotate(-180 450 181)" fill="white"/>
+</clipPath>
+<clipPath id="clip4_405_586">
+<rect x="270" y="181" width="90" height="90" transform="rotate(-180 270 181)" fill="white"/>
+</clipPath>
+<clipPath id="clip5_405_586">
+<rect x="90" y="181" width="90" height="90" transform="rotate(-90 90 181)" fill="white"/>
+</clipPath>
+</defs>
+</svg>

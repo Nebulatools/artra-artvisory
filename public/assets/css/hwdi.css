@@ -96,17 +96,6 @@
    white-space: nowrap;
 }
 
-.title {
-   font-family: 'Sohne';
-   font-weight: 500;
-   font-size: 40px;
-   line-height: 0.9;
-   text-transform: uppercase;
-   text-align: left;
-   color: #000;
-   margin-top: 0.5rem;
-}
-
 .about-geometric {
    position: relative;
    width: 100%;
@@ -214,10 +203,6 @@
       min-height: 555px;
       object-fit: cover;
    }
-
-   /* .title-section {
-      padding: 20px 30px;
-   } */
 
    .title-section {
       padding: 5px 30px 22px;

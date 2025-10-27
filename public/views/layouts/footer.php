@@ -17,13 +17,13 @@
                 <div class="footer-right-1">
                     <div class="footer-links-1">
                         <div class="footer-link-group-1">
-                            <a class="footer-link-1" href="<?= BASE_URL; ?>catalogue">FRAMING STUDIO</a>
+                            <a class="footer-link-1" href="<?= BASE_URL; ?>how-we-do-it">FRAMING STUDIO</a>
                             <a class="footer-link-1" href="<?= BASE_URL; ?>artworks">ARTWORKS</a>
                             <!-- <a class="footer-link-1" href="<?= BASE_URL; ?>artists">ARTISTS</a> -->
                             <a class="footer-link-1" href="<?= BASE_URL; ?>gallery">GALLERY</a>
                         </div>
                         <div class="footer-link-group-1">
-                            <a class="footer-link-1" href="<?= BASE_URL; ?>how-we-do-it">ABOUT</a>
+                            <a class="footer-link-1" href="<?= BASE_URL; ?>about">ABOUT</a>
                             <!-- <a class="footer-link-1" href="#">FAQ</a> -->
                             <a class="footer-link-1" href="#">CONTACT</a>
                             <a class="footer-link-1" href="https://instagram.com/artra.artvisory/">INSTAGRAM</a>
