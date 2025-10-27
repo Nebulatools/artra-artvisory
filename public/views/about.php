@@ -63,8 +63,8 @@
             </div>
             <div class="dual-right-column-10">
                 <picture>
-                    <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-04.png" media="(max-width: 767px)">
-                    <img class="dual-right-image-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-04.png" alt="Framed Work">
+                    <source srcset="<?= BASE_URL; ?>/public/assets/image/about/img-03.png" media="(max-width: 767px)">
+                    <img class="dual-right-image-10" src="<?= BASE_URL; ?>/public/assets/image/about/img-03.png" alt="Framed Work">
                 </picture>
             </div>
         </div>
@@ -73,8 +73,8 @@
         <div class="dual-grid-10">
             <div class="dual-left-column-11">
                 <picture>
-                    <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-05-m.png" media="(max-width: 767px)">
-                    <img class="dual-left-image-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-05.png" alt="Street style with sneakers">
+                    <source srcset="<?= BASE_URL; ?>/public/assets/image/about/img-04.jpg" media="(max-width: 767px)">
+                    <img class="dual-left-image-10" src="<?= BASE_URL; ?>/public/assets/image/about/img-04.jpg" alt="Street style with sneakers">
                 </picture>
             </div>
             <div class="dual-right-column-11">
@@ -117,8 +117,8 @@
             </div>
             <div class="dual-right-column-10">
                 <picture>
-                    <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-04.png" media="(max-width: 767px)">
-                    <img class="dual-right-image-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-04.png" alt="Framed Work">
+                    <source srcset="<?= BASE_URL; ?>/public/assets/image/about/img-05.jpg" media="(max-width: 767px)">
+                    <img class="dual-right-image-10" src="<?= BASE_URL; ?>/public/assets/image/about/img-05.jpg" alt="Framed Work">
                 </picture>
             </div>
         </div>
