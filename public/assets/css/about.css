@@ -1,5 +1,5 @@
 /* MOBILE DEVICES (320 - 767) */
-.main-content-2 {
+.main-about-20 {
    max-width: 100%;
    background: #F2F2F2;
 }
@@ -272,7 +272,7 @@
 
 /* DESKTOP DEVICES (1,024 - 1,920++) */
 @media screen and (min-width: 1024px) {
-   .main-content-2 {
+   .main-about-20 {
       margin-left: 100px;
       margin-right: 100px;
    }

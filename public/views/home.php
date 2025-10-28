@@ -1,14 +1,12 @@
-<main class="main-home-10">
+<main class="home-main-10">
     <section class="home-section-10">
-        <div class="home-content-10">
-            <div class="home-image-10">
-                <a class="full-width-img-10" href="<?= BASE_URL; ?>about">
-                    <picture>
-                        <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-01.png" media="(max-width: 767px)">
-                        <img class="full-width-img-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-01.png" alt="About Us">
-                    </picture>
-                </a>
-            </div>
+        <div class="home-image-10">
+            <a class="home-link-10" href="<?= BASE_URL; ?>about">
+                <picture>
+                    <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-01.png" media="(max-width: 767px)">
+                    <img class="home-full-img-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-01.png" alt="About Us">
+                </picture>
+            </a>
         </div>
     </section>
     <!-- <section class="title-section-10">
@@ -44,7 +42,7 @@
                 </div>
                 <div class="card-image-10">
                     <a class="home-img-10" href="<?= BASE_URL; ?>how-we-do-it">
-                        <img class="home-img-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-04.png" alt="Catalogue">
+                        <img class="home-img-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-04.jpg" alt="Catalogue">
                     </a>
                 </div>
             </div>
@@ -82,8 +80,8 @@
             </div>
             <div class="dual-right-column-10">
                 <picture>
-                    <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-04.png" media="(max-width: 767px)">
-                    <img class="dual-right-image-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-04.png" alt="Framed Work">
+                    <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-04.jpg" media="(max-width: 767px)">
+                    <img class="dual-right-image-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-04.jpg" alt="Framed Work">
                 </picture>
             </div>
         </div>
@@ -114,7 +112,7 @@
             </div>
         </div>
     </section>
-    <section class="dual-section-10">
+    <section class="dual-section-11">
         <div class="dual-grid-10">
             <div class="dual-left-column-10">
                 <div class="dual-content-10">
@@ -136,8 +134,8 @@
             </div>
             <div class="dual-right-column-10">
                 <picture>
-                    <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-04.png" media="(max-width: 767px)">
-                    <img class="dual-right-image-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-04.png" alt="Framed Work">
+                    <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-04.jpg" media="(max-width: 767px)">
+                    <img class="dual-right-image-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-04.jpg" alt="Framed Work">
                 </picture>
             </div>
         </div>
@@ -146,15 +144,13 @@
         <h1 class="title-10">UPCOMING GALLERY.</h1>
     </section>
     <section class="home-section-10">
-        <div class="home-content-10">
-            <div class="home-image-10">
-                <a class="full-width-img-10" href="<?= BASE_URL; ?>frames">
-                    <picture>
-                        <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-02.png" media="(max-width: 767px)">
-                        <img class="full-width-img-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-02.png" alt="Our Top Picks">
-                    </picture>
-                </a>
-            </div>
+        <div class="home-image-11">
+            <a class="home-link-10" href="<?= BASE_URL; ?>frames">
+                <picture>
+                    <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-08.jpg" media="(max-width: 767px)">
+                    <img class="home-full-img-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-08.jpg" alt="Our Top Picks">
+                </picture>
+            </a>
         </div>
     </section>
 </main>

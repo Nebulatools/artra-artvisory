@@ -1,6 +1,6 @@
-<main class="main-content-2">
-    <section class="main-section-2">
-        <div class="main-title-2">
+<main class="main-about-20">
+    <section class="about-title-section-20">
+        <div class="about-title-20">
             <img class="main-img" src="<?= BASE_URL; ?>/public/assets/image/about/svg-01.svg" alt="Title">
             <img class="main-sign" src="<?= BASE_URL; ?>/public/assets/image/about/svg-02.svg" alt="Signature">
         </div>
