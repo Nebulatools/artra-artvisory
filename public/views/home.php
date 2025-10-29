@@ -32,7 +32,7 @@
                 </div>
                 <div class="card-image-10">
                     <a class="home-img-10" href="<?= BASE_URL; ?>artworks">
-                        <img class="home-img-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-03.png" alt="Exhibit">
+                        <img class="home-img-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-02.png" alt="Exhibit">
                     </a>
                 </div>
             </div>
@@ -42,7 +42,7 @@
                 </div>
                 <div class="card-image-10">
                     <a class="home-img-10" href="<?= BASE_URL; ?>how-we-do-it">
-                        <img class="home-img-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-04.jpg" alt="Catalogue">
+                        <img class="home-img-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-03.png" alt="Catalogue">
                     </a>
                 </div>
             </div>
@@ -52,7 +52,7 @@
                 </div>
                 <div class="card-image-10">
                     <a class="home-img-10" href="<?= BASE_URL; ?>gallery">
-                        <img class="home-img-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-05.png" alt="Artist">
+                        <img class="home-img-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-04.png" alt="Artist">
                     </a>
                 </div>
             </div>
@@ -80,8 +80,8 @@
             </div>
             <div class="dual-right-column-10">
                 <picture>
-                    <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-04.jpg" media="(max-width: 767px)">
-                    <img class="dual-right-image-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-04.jpg" alt="Framed Work">
+                    <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-05.png" media="(max-width: 767px)">
+                    <img class="dual-right-image-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-05.png" alt="Framed Work">
                 </picture>
             </div>
         </div>
@@ -90,8 +90,8 @@
         <div class="dual-grid-10">
             <div class="dual-left-column-11">
                 <picture>
-                    <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-05-m.png" media="(max-width: 767px)">
-                    <img class="dual-left-image-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-05.png" alt="Street style with sneakers">
+                    <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-06.png" media="(max-width: 767px)">
+                    <img class="dual-left-image-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-06.png" alt="Street style with sneakers">
                 </picture>
             </div>
             <div class="dual-right-column-11">
@@ -134,8 +134,8 @@
             </div>
             <div class="dual-right-column-10">
                 <picture>
-                    <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-04.jpg" media="(max-width: 767px)">
-                    <img class="dual-right-image-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-04.jpg" alt="Framed Work">
+                    <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-07.png" media="(max-width: 767px)">
+                    <img class="dual-right-image-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-07.png" alt="Framed Work">
                 </picture>
             </div>
         </div>
@@ -147,8 +147,8 @@
         <div class="home-image-11">
             <a class="home-link-10" href="<?= BASE_URL; ?>frames">
                 <picture>
-                    <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-08.jpg" media="(max-width: 767px)">
-                    <img class="home-full-img-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-08.jpg" alt="Our Top Picks">
+                    <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-08.png" media="(max-width: 767px)">
+                    <img class="home-full-img-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-08.png" alt="Our Top Picks">
                 </picture>
             </a>
         </div>

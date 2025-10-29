@@ -2,10 +2,10 @@
     <section class="about-title-section-20">
         <div class="about-title-20">
             <img class="main-img" src="<?= BASE_URL; ?>/public/assets/image/about/svg-01.svg" alt="Title">
-            <img class="main-sign" src="<?= BASE_URL; ?>/public/assets/image/about/svg-02.svg" alt="Signature">
+            <!-- <img class="main-sign" src="<?= BASE_URL; ?>/public/assets/image/about/svg-02.svg" alt="Signature"> -->
         </div>
     </section>
-    <section class="about-section-2">
+    <!-- <section class="about-section-2">
         <div class="about-grid-2">
             <div class="about-left-column-2">
                 <div class="about-content-2">
@@ -39,23 +39,41 @@
                 <img class="about-interior-image" src="<?= BASE_URL; ?>/public/assets/image/about/img-03.png" alt="Framing & Mounting">
             </div>
         </div>
-    </section>
-
+    </section> -->
 	 <section class="dual-section-10">
         <div class="dual-grid-10">
             <div class="dual-left-column-10">
                 <div class="dual-content-10">
                     <div class="dual-header-10">
-                        <h2 class="left-title-10">Art ● Space ● Light</h2>
+                        <!-- <h2 class="left-title-10">Art ● Space ● Light</h2> -->
                     </div>
                     <div class="left-description-10">
-                        <p class="left-text-10">
+                        <!-- <p class="left-text-10">
                             We frame with perspective—a quiet<br>
                             conversation between art, space, and light.<br>
                             Each piece is considered for how it lives<br>
                             in the room: distance, wall, rhythm.<br>
                             Simple on the surface, precise underneath—<br>
                             so the art feels inevitable where it hangs.
+                        </p> -->
+                        <p class="about-subtitle-2">About Us</p>
+                        <p class="about-text-2">
+                            Our mission is to frame the art into a different perspective;<br>
+                            a dialogue between art, space and frame.
+                        </p>
+                        <p class="about-text-2">
+                            We cherish every chance to achieve this, employing<br>
+                            artistic expression, narrative, and provocative public<br>
+                            interventions.
+                        </p><br>
+                        <p class="about-subtitle-2">Framing & Mounting</p>
+                        <p class="about-text-2">
+                            Choose from our wide range of mouldings: anything<br>
+                            from natural wood to gilded frames.
+                        </p>
+                        <p class="about-text-2">
+                            Window, surface or float mount it on a range of our<br>
+                            acid-free mountcards.
                         </p>
                     </div>
                 </div>
