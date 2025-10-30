@@ -1,249 +1,269 @@
-/* MOBILE DEVICES (320 - 767) */
-.about-section {
-   padding: 0px;
+/* MOBILE DEVICES (<= 600px) */
+.hwdi-main-30 {
+   max-width: 100%;
 }
 
-.about-grid {
+.hwdi-title-30 {
    display: flex;
-   margin: 0 auto;
+   text-align: left;
+   overflow: hidden;
+   padding: 20px 20px;
+   white-space: nowrap;
+}
+
+.hwdi-image-30 {
+   width: auto;
+   height: 100%;
+   position: relative;
+   overflow: hidden;
+}
+
+.hwdi-img-30 {
+   inline-size: 100%;
+   display: block;
+   border: none;
+   object-fit: cover;
+   object-position: center;
+}
+
+.dual-section-30,
+.dual-section-31 {
+   margin: 0;
+   border-top: 1px solid var(--black);
+   border-left: none;
+   border-right: none;
+   border-bottom: none;
+}
+
+.dual-grid-30 {
+   display: flex;
+   /* margin: 0 auto; */
+   margin-inline: auto;
    align-items: stretch;
    flex-direction: column;
 }
 
-.about-content {
+.dual-left-column-30 {
+   inline-size: 100%;
+   border-left: none;
+   border-right: none;
+   border-bottom: 1px solid var(--black);
+   align-items: center;
+   justify-content: center;
+}
+
+.dual-content-30 {
    position: relative;
-   max-width: 100%;
+   max-inline-size: 100%;
    border-bottom: none;
    padding: 20px 20px;
 }
 
-.about-header {
+.dual-header-30 {
    margin-bottom: 30px;
 }
 
-.about-title-1 {
-   font-family: 'CenturyItlc';
-   font-size: 24px;
+.left-title-30,
+.right-title-30 {
+   font-family: 'Sohne';
+   font-size: 18px;
    font-weight: 500;
-   color: #000;
+   color: var(--black);
+   margin: 0 0 5px 0;
    line-height: 120%;
 }
 
-.about-title-3 {
-   font-family: 'Inter', sans-serif;
-   font-weight: 500;
-   font-size: 14px;
-   line-height: 1em;
-   color: #000000;
-   margin-bottom: 4px;
-}
-
-.about-title-4 {
-   font-family: 'CenturyItlc';
-   font-size: 16px;
-   font-weight: 500;
-   color: #000;
-   line-height: 120%;
-}
-
-.about-subtitle {
-   font-family: 'CenturyItlc';
-   font-size: 16px;
-   color: #000;
-   margin: 0 0 15px 0;
-}
-
-.about-subtitle-2 {
-   font-family: 'CenturyItlc';
-   font-size: 16px;
-   font-style: italic;
-   color: #000;
-   margin: 0;
-   font-weight: 400;
-}
-
-.about-description {
+.left-description-30,
+.right-description-30 {
    font-family: 'Century Old Style Std', serif;
    font-size: 14px;
-   line-height: 1em;
-   color: #000000;
+   line-height: 14px;
+   color: var(--black);
    margin-bottom: 30px;
 }
 
-.about-description-2 {
+.about-subtitle-30 {
    font-family: 'CenturyItlc';
    font-size: 16px;
    color: #000;
-   margin-bottom: 30px;
-   line-height: 120%;
+   margin: 0 0 15px 0;
 }
 
-.about-text, .about-text-2 {
+.left-text-30,
+.right-text-30 {
    font-family: 'CenturyReg';
-   font-size: 17px;
-   color: #000;
+   font-size: 18px;
+   color: var(--black);
    line-height: 120%;
    margin: 0 0 15px 0;
 }
 
-.title-section {
-   border-top: none;
-   border-bottom: none;
-   display: flex;
-   padding: 20px 20px;
+.left-button-30,
+.right-button-30 {
+   inline-size: 100%;
+   background: var(--yellow-artra);
+   border-top: 1px solid var(--black);
+   font-family: 'Century Old Style Std', serif;
+   display: inline-block;
+   padding: 12px 24px;
+   font-size: 16px;
+   line-height: 1;
+   color: var(--black);
+   cursor: pointer;
    text-align: left;
-   overflow: hidden;
-   white-space: nowrap;
+   /* align-self: contain; */
+   align-self: stretch;
+   min-width: 200px;
 }
 
-.about-geometric {
-   position: relative;
-   width: 100%;
-   height: 60%;
-   pointer-events: none;
-   display: flex;
-   align-items: flex-end;
-   justify-content: flex-start;
-}
-
-.about-interior-image {
-   width: 100%;
-   height: 100%;
-   max-width: 100%;
-   display: block;
-   object-fit: cover;
-}
-
-.full-width-svg {
-   width: 100%;
-   height: auto;
-   object-fit: contain;
+.dual-right-column-30 {
+   inline-size: 100%;
+   border-left: none;
+   border-right: none;
    display: flex;
    align-items: center;
-   align-content: center;
-   align-self: stretch;
-   flex-wrap: wrap;
+   justify-content: center;
 }
 
-.about-left-geometric {
-   position: relative;
-   width: 100%;
-   height: 60%;
-   pointer-events: none;
+.dual-right-image-30,
+.dual-left-image-30 {
+   width: auto;
+   max-height: 650px;
+   display: block;
+   object-fit: cover;
+   object-position: center;
+}
+
+.dual-left-column-31 {
+   inline-size: 100%;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   border-bottom: 1px solid var(--black);
+   align-items: center;
+   justify-content: center;
+}
+
+.dual-right-column-31 {
+   inline-size: 100%;
+   border-left: none;
+   border-right: none;
    display: flex;
-   align-items: flex-end;
-   justify-content: flex-start;
+   flex-direction: column;
+   justify-content: space-between;
+   position: relative;
 }
 
-.about-left-geometric .column-image {
-   width: 100%;
-   max-width: 100%;
-   height: auto;
-   object-fit: contain;
-   margin-bottom: -5px;
-}
-
-.about-right-geometric .column-image {
-   width: 100%;
-   max-width: 100%;
-   height: auto;
-   object-fit: contain;
-   margin-bottom: -26px;
-}
-
-/* TABLET DEVICES (768 - 1,023) */
-@media screen and (min-width: 768px) {
-   .about-section {
-      padding: 0px;
+/* DESKTOP & TABLET DEVICES (> 600px) */
+@media screen and (min-width: 600px) {
+   .hwdi-main-30 {
+      margin-left: 100px;
+      margin-right: 100px;
    }
 
-   .about-grid {
+   .dual-section-30 {
+      margin: 0;
+      border: none;
+   }
+
+   .dual-grid-30 {
       flex-direction: row;
+      justify-content: center;
+      align-items: stretch;
+      margin-bottom: -2px;
+   }
+
+   /* .dual-left-column-30 {
+      width: 54%;
+   } */
+
+   .dual-left-column-30 {
+      width: 45%;
+      border-top: 1px solid var(--black);
+      border-left: 1px solid var(--black);
+      border-right: 1px solid var(--black);
+      border-bottom: none;
+      align-items: center;
       justify-content: center;
    }
 
-   .about-left-geometric {
+   .dual-right-column-30 {
+      width: 55%;
       margin-bottom: 2px;
-   }
-
-   .about-right-column-1 {
-      margin-bottom: 2px;
-   }
-
-   .about-right-geometric .column-image {
-      width: 100%;
-      max-width: 100%;
       height: auto;
-      object-fit: contain;
-      margin-bottom: -48px;
+      border-top: 1px solid var(--black);
+      border-left: none;
+      border-right: 1px solid var(--black);
+      border-bottom: none;
+      display: flex;
+      align-items: center;
+      justify-content: center;
    }
 
-   .about-content {
-      padding: 0px;
+   /* .dual-right-column-31 {
+      width: 46%;
+   } */
+
+   .dual-left-column-31 {
+      width: 55%;
+      border-top: 1px solid var(--black);
+      border-left: 1px solid var(--black);
+      border-right: 1px solid var(--black);
+      border-bottom: none;
+      align-items: center;
+      justify-content: center;
    }
 
-   .about-title {
-      font-size: 30px;
+   .dual-right-column-31 {
+      width: 45%;
+      margin-bottom: 2px;
+      border-top: 1px solid var(--black);
+      border-left: none;
+      border-right: 1px solid var(--black);
+      border-bottom: none;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      position: relative;
    }
 
-   .about-subtitle {
+   .left-title-30,
+   .right-title-30 {
       font-size: 18px;
    }
 
-   .about-text {
-      font-size: 18px;
+   .left-text-30,
+   .right-text-30 {
+      font-size: 16px;
    }
 
-   .about-text-2 {
-      font-size: 12px;
-      line-height: 140%;
-   }
-
-   .about-interior-image {
-      min-height: 555px;
-      object-fit: cover;
-   }
-
-   .title-section {
-      padding: 5px 30px 22px;
-   }
-
-   .title-2 {
-      font-size: 36px;
-   }
-}
-
-/* DESKTOP DEVICES (1,024 - 1,920++) */
-@media screen and (min-width: 1024px) {
-   .about-section {
-      border-top: 1px solid #000;
-   }
-
-   .about-content {
+   .dual-content-30 {
       padding: 24px;
    }
 
-   .about-title {
-      font-size: 36px;
+   .hwdi-subtitle-30 {
+      font-size: 18px;
    }
 
-   .about-subtitle {
-      font-size: 21px;
-   }
-
-   .about-text {
-      font-size: 21px;
-   }
-
-   .about-interior-image {
+   .hwdi-img-31 {
       min-height: 650px;
+      object-fit: cover;
    }
 
-   .title-section {
-      padding: 5px 40px 24px;
+   .left-button-30,
+   .right-button-30 {
+      margin-top: 365px;
+      /* align-self: stretch;
+         margin-top: auto; */
    }
 
-   .title-2 {
-      font-size: 45px;
+   .dual-right-image-30,
+   .dual-left-image-30 {
+      inline-size: 100%;
+      /* width: auto;
+      height: 650px; */
+      display: block;
+      object-fit: cover;
+      object-position: center;
    }
 }
