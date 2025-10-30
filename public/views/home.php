@@ -51,7 +51,7 @@
                     <h2 class="title-11">OUR TOP<br>PICKS.</h2>
                 </div>
                 <div class="card-image-10">
-                    <a class="home-img-10" href="<?= BASE_URL; ?>gallery">
+                    <a class="home-img-10" href="<?= BASE_URL; ?>frames">
                         <img class="home-img-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-04.png" alt="Artist">
                     </a>
                 </div>

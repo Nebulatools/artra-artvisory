@@ -299,6 +299,7 @@ body {
 
 	.home-header-10 {
 		display: flex;
+
 		overflow-wrap: anywhere;
 		/* overflow-wrap: break-word; */
 	}
@@ -324,6 +325,7 @@ body {
 
 	.title-11 {
 		font-size: 36px;
+		line-height: 36px;
 
 	}
 
