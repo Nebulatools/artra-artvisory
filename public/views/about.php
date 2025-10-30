@@ -1,8 +1,7 @@
-<main class="main-about-20">
-    <section class="about-title-section-20">
-        <div class="about-title-20">
-            <img class="main-img" src="<?= BASE_URL; ?>/public/assets/image/about/svg-01.svg" alt="Title">
-            <!-- <img class="main-sign" src="<?= BASE_URL; ?>/public/assets/image/about/svg-02.svg" alt="Signature"> -->
+<main class="about-main-20">
+    <section class="about-section-20">
+        <div class="about-image-20">
+            <img class="about-img-20" src="<?= BASE_URL; ?>/public/assets/image/about/svg-01.svg" alt="Title">
         </div>
     </section>
     <!-- <section class="about-section-2">
@@ -40,14 +39,14 @@
             </div>
         </div>
     </section> -->
-	 <section class="dual-section-10">
-        <div class="dual-grid-10">
-            <div class="dual-left-column-10">
-                <div class="dual-content-10">
-                    <div class="dual-header-10">
+    <section class="dual-section-20">
+        <div class="dual-grid-20">
+            <div class="dual-left-column-20">
+                <div class="dual-content-20">
+                    <div class="dual-header-20">
                         <!-- <h2 class="left-title-10">Art ● Space ● Light</h2> -->
                     </div>
-                    <div class="left-description-10">
+                    <div class="left-description-20">
                         <!-- <p class="left-text-10">
                             We frame with perspective—a quiet<br>
                             conversation between art, space, and light.<br>
@@ -56,52 +55,52 @@
                             Simple on the surface, precise underneath—<br>
                             so the art feels inevitable where it hangs.
                         </p> -->
-                        <p class="about-subtitle-2">About Us</p>
-                        <p class="about-text-2">
+                        <p class="about-subtitle-20">About Us</p>
+                        <p class="left-text-20">
                             Our mission is to frame the art into a different perspective;<br>
                             a dialogue between art, space and frame.
                         </p>
-                        <p class="about-text-2">
+                        <p class="left-text-20">
                             We cherish every chance to achieve this, employing<br>
                             artistic expression, narrative, and provocative public<br>
                             interventions.
                         </p><br>
-                        <p class="about-subtitle-2">Framing & Mounting</p>
-                        <p class="about-text-2">
+                        <p class="about-subtitle-20">Framing & Mounting</p>
+                        <p class="left-text-20">
                             Choose from our wide range of mouldings: anything<br>
                             from natural wood to gilded frames.
                         </p>
-                        <p class="about-text-2">
+                        <p class="left-text-20">
                             Window, surface or float mount it on a range of our<br>
                             acid-free mountcards.
                         </p>
                     </div>
                 </div>
-                <a class="left-button-10">Design First</a>
+                <a class="left-button-20">Design First</a>
             </div>
-            <div class="dual-right-column-10">
+            <div class="dual-right-column-20">
                 <picture>
                     <source srcset="<?= BASE_URL; ?>/public/assets/image/about/img-03.png" media="(max-width: 767px)">
-                    <img class="dual-right-image-10" src="<?= BASE_URL; ?>/public/assets/image/about/img-03.png" alt="Framed Work">
+                    <img class="dual-right-image-20" src="<?= BASE_URL; ?>/public/assets/image/about/img-03.png" alt="Framed Work">
                 </picture>
             </div>
         </div>
     </section>
-    <section class="dual-section-10">
-        <div class="dual-grid-10">
-            <div class="dual-left-column-11">
+    <section class="dual-section-20">
+        <div class="dual-grid-20">
+            <div class="dual-left-column-21">
                 <picture>
                     <source srcset="<?= BASE_URL; ?>/public/assets/image/about/img-04.jpg" media="(max-width: 767px)">
-                    <img class="dual-left-image-10" src="<?= BASE_URL; ?>/public/assets/image/about/img-04.jpg" alt="Street style with sneakers">
+                    <img class="dual-left-image-20" src="<?= BASE_URL; ?>/public/assets/image/about/img-04.jpg" alt="Street style with sneakers">
                 </picture>
             </div>
-            <div class="dual-right-column-11">
-                <div class="dual-content-10">
-                    <div class="dual-header-10">
-                        <h2 class="right-title-10">Human Craft, Lasting Care</h2>
+            <div class="dual-right-column-21">
+                <div class="dual-content-20">
+                    <div class="dual-header-20">
+                        <h2 class="right-title-20">Human Craft, Lasting Care</h2>
                     </div>
-                    <div class="right-description-10">
-                        <p class="right-text-10">
+                    <div class="right-description-20">
+                        <p class="right-text-20">
                             Measured by eye, finished by hand.<br>
                             Balanced proportion, clean joins, dust-free<br>
                             clarity—workmanship that lets the piece endure<br>
@@ -109,19 +108,19 @@
                         </p>
                     </div>
                 </div>
-                <a class="right-button-10">Hand Assembly</a>
+                <a class="right-button-20">Hand Assembly</a>
             </div>
         </div>
     </section>
-    <section class="dual-section-10">
-        <div class="dual-grid-10">
-            <div class="dual-left-column-10">
-                <div class="dual-content-10">
-                    <div class="dual-header-10">
-                        <h2 class="left-title-10">Composition as Promise</h2>
+    <section class="dual-section-20">
+        <div class="dual-grid-20">
+            <div class="dual-left-column-20">
+                <div class="dual-content-20">
+                    <div class="dual-header-20">
+                        <h2 class="left-title-20">Composition as Promise</h2>
                     </div>
-                    <div class="left-description-10">
-                        <p class="left-text-10">
+                    <div class="left-description-20">
+                        <p class="left-text-20">
                             We protect what matters—lasting materials,<br>
                             invisible joins, revealing light.<br>
                             Detail by detail, the presentation steps back<br>
@@ -131,18 +130,14 @@
                         </p>
                     </div>
                 </div>
-                <a class="left-button-10">Ready to Hang</a>
+                <a class="left-button-20">Ready to Hang</a>
             </div>
-            <div class="dual-right-column-10">
+            <div class="dual-right-column-20">
                 <picture>
                     <source srcset="<?= BASE_URL; ?>/public/assets/image/about/img-05.jpg" media="(max-width: 767px)">
-                    <img class="dual-right-image-10" src="<?= BASE_URL; ?>/public/assets/image/about/img-05.jpg" alt="Framed Work">
+                    <img class="dual-right-image-20" src="<?= BASE_URL; ?>/public/assets/image/about/img-05.jpg" alt="Framed Work">
                 </picture>
             </div>
         </div>
     </section>
-
-
-
-
 </main>
