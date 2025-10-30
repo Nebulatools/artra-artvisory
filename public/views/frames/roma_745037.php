@@ -30,11 +30,7 @@
                         <p class="frame-text-2">A fusion of traditional carvings enveloped in high gloss lacquer. Meet our brightest, boldest Lavo additions yet.</p>
                         <div class="frame-description-2"></div>
                         <p class="frame-text-3">Sustainability</p>
-                        <p class="frame-text-4">This moulding was made in Italy in accordance with the highest EU material and production standards and will be shipped to you using nearly 100% recycled materials.
-
-We are committed to sourcing natural, environmentally sustainable woods, we use only water-based paints, and our wood paste is 100% natural, composed of fine wood particles, natural oils, and glues.
-
-Roma also partners with One Tree Planted and the Nature Conservancy to positively impact communities and ecosystems all over the world.</p>
+                        <p class="frame-text-4">This moulding was made in Italy in accordance with the highest EU material and production standards to positively impact communities and ecosystems all over the world.</p>
                     </div>
                 </div>
                 <button class="cta-button-3">Get a Quote</button>

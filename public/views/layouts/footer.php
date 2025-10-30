@@ -20,7 +20,8 @@
                             <a class="footer-link-1" href="<?= BASE_URL; ?>how-we-do-it">FRAMING STUDIO</a>
                             <a class="footer-link-1" href="<?= BASE_URL; ?>artworks">ARTWORKS</a>
                             <!-- <a class="footer-link-1" href="<?= BASE_URL; ?>artists">ARTISTS</a> -->
-                            <a class="footer-link-1" href="<?= BASE_URL; ?>gallery">GALLERY</a>
+                            <!-- <a class="footer-link-1" href="<?= BASE_URL; ?>gallery">GALLERY</a> -->
+                            <a class="footer-link-1" href="<?= BASE_URL; ?>frames">OUR TOP PICKS</a>
                         </div>
                         <div class="footer-link-group-1">
                             <a class="footer-link-1" href="<?= BASE_URL; ?>about">ABOUT</a>

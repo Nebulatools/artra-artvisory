@@ -2,9 +2,9 @@
     <section class="main-section">
         <div class="main-title">
             <img class="main-img" src="<?= BASE_URL; ?>/public/assets/image/frames/svg-01.svg" alt="Title">
-            <img class="main-sign" src="<?= BASE_URL; ?>/public/assets/image/frames/svg-02.svg" alt="Signature">
         </div>
     </section>
+    <br>
     <section class="title-section-2">
         <h2 class="title">DISCOVER SOME OF OUR FRAMES.</h2>
     </section>
@@ -32,7 +32,7 @@
             </div>
             <div class="about-item-1">
                 <div class="about-image">
-                    <img class="about-img" src="<?= BASE_URL; ?>/public/assets/image/frames/frm-03.png" alt="Frame 3">
+                    <img class="about-img" src="<?= BASE_URL; ?>/public/assets/image/frames/869048.png" alt="Frame 3">
                 </div>
                 <div class="about-details">
                     <h3 class="about-title-2">Frame 3</h3>
@@ -42,7 +42,7 @@
             </div>
             <div class="about-item-1">
                 <div class="about-image">
-                    <img class="about-img" src="<?= BASE_URL; ?>/public/assets/image/frames/frm-04.png" alt="Frame 4">
+                    <img class="about-img" src="<?= BASE_URL; ?>/public/assets/image/frames/606052.png" alt="Frame 4">
                 </div>
                 <div class="about-details">
                     <h3 class="about-title-2">Frame 4</h3>
@@ -56,7 +56,7 @@
         <div class="frames-grid">
             <div class="about-item-1">
                 <div class="about-image">
-                    <img class="about-img" src="<?= BASE_URL; ?>/public/assets/image/frames/frm-05.png" alt="Frame 5">
+                    <img class="about-img" src="<?= BASE_URL; ?>/public/assets/image/frames/253552.png" alt="Frame 5">
                 </div>
                 <div class="about-details">
                     <h3 class="about-title-2">Frame 5</h3>
@@ -66,7 +66,7 @@
             </div>
             <div class="about-item-1">
                 <div class="about-image">
-                    <img class="about-img" src="<?= BASE_URL; ?>/public/assets/image/frames/frm-06.png" alt="Frame 6">
+                    <img class="about-img" src="<?= BASE_URL; ?>/public/assets/image/frames/203299.png" alt="Frame 6">
                 </div>
                 <div class="about-details">
                     <h3 class="about-title-2">Frame 6</h3>
@@ -76,7 +76,7 @@
             </div>
             <div class="about-item-1">
                 <div class="about-image">
-                    <img class="about-img" src="<?= BASE_URL; ?>/public/assets/image/frames/frm-07.png" alt="Frame 7">
+                    <img class="about-img" src="<?= BASE_URL; ?>/public/assets/image/frames/303800.png" alt="Frame 7">
                 </div>
                 <div class="about-details">
                     <h3 class="about-title-2">Frame 7</h3>
@@ -86,7 +86,7 @@
             </div>
             <div class="about-item-0 about-item-1">
                 <div class="about-image">
-                    <img class="about-img" src="<?= BASE_URL; ?>/public/assets/image/frames/frm-08.png" alt="Frame 8">
+                    <img class="about-img" src="<?= BASE_URL; ?>/public/assets/image/frames/752.png" alt="Frame 8">
                 </div>
                 <div class="about-details">
                     <h3 class="about-title-2">Frame 8</h3>
