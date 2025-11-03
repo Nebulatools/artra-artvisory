@@ -9,26 +9,11 @@
             </a>
         </div>
     </section>
-    <!-- <section class="title-section-10">
-        <h1 class="title-10">OUR TOP PICKS.</h1>
-    </section>
-    <section class="home-section-10">
-        <div class="home-content-10">
-            <div class="home-image-10">
-                <a class="full-width-img-10" href="<?= BASE_URL; ?>frames">
-                    <picture>
-                        <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-02.png" media="(max-width: 767px)">
-                        <img class="full-width-img-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-02.png" alt="Our Top Picks">
-                    </picture>
-                </a>
-            </div>
-        </div>
-    </section> -->
     <section class="home-section-10">
         <div class="home-grid-10">
             <div class="home-card-10">
                 <div class="home-header-10">
-                    <h2 class="title-11">DISCOVER<br>OUR WORKS.</h2>
+                    <h2 class="home-title-10">DISCOVER<br>OUR WORKS</h2>
                 </div>
                 <div class="card-image-10">
                     <a class="home-img-10" href="<?= BASE_URL; ?>artworks">
@@ -38,7 +23,7 @@
             </div>
             <div class="home-card-11">
                 <div class="home-header-10">
-                    <h2 class="title-11">HOW WE<br>DO IT.</h2>
+                    <h2 class="home-title-10">HOW WE<br>DO IT</h2>
                 </div>
                 <div class="card-image-10">
                     <a class="home-img-10" href="<?= BASE_URL; ?>how-we-do-it">
@@ -48,7 +33,7 @@
             </div>
             <div class="home-card-10">
                 <div class="home-header-10">
-                    <h2 class="title-11">OUR TOP<br>PICKS.</h2>
+                    <h2 class="home-title-10">OUR TOP<br>PICKS</h2>
                 </div>
                 <div class="card-image-10">
                     <a class="home-img-10" href="<?= BASE_URL; ?>frames">
@@ -63,10 +48,10 @@
             <div class="dual-left-column-10">
                 <div class="dual-content-10">
                     <div class="dual-header-10">
-                        <h2 class="left-title-10">Art ● Space ● Light</h2>
+                        <h2 class="home-subtitle-10">Art ● Space ● Light</h2>
                     </div>
-                    <div class="left-description-10">
-                        <p class="left-text-10">
+                    <div class="home-description-10">
+                        <p class="home-text-10">
                             We frame with perspective—a quiet<br>
                             conversation between art, space, and light.<br>
                             Each piece is considered for how it lives<br>
@@ -76,7 +61,7 @@
                         </p>
                     </div>
                 </div>
-                <a class="left-button-10">Design First</a>
+                <a class="home-button-10">Design First</a>
             </div>
             <div class="dual-right-column-10">
                 <picture>
@@ -97,10 +82,10 @@
             <div class="dual-right-column-11">
                 <div class="dual-content-10">
                     <div class="dual-header-10">
-                        <h2 class="right-title-10">Human Craft, Lasting Care</h2>
+                        <h2 class="home-subtitle-10">Human Craft, Lasting Care</h2>
                     </div>
-                    <div class="right-description-10">
-                        <p class="right-text-10">
+                    <div class="home-description-10">
+                        <p class="home-text-10">
                             Measured by eye, finished by hand.<br>
                             Balanced proportion, clean joins, dust-free<br>
                             clarity—workmanship that lets the piece endure<br>
@@ -108,7 +93,7 @@
                         </p>
                     </div>
                 </div>
-                <a class="right-button-10">Hand Assembly</a>
+                <a class="home-button-10">Hand Assembly</a>
             </div>
         </div>
     </section>
@@ -117,10 +102,10 @@
             <div class="dual-left-column-10">
                 <div class="dual-content-10">
                     <div class="dual-header-10">
-                        <h2 class="left-title-10">Composition as Promise</h2>
+                        <h2 class="home-subtitle-10">Composition as Promise</h2>
                     </div>
-                    <div class="left-description-10">
-                        <p class="left-text-10">
+                    <div class="home-description-10">
+                        <p class="home-text-10">
                             We protect what matters—lasting materials,<br>
                             invisible joins, revealing light.<br>
                             Detail by detail, the presentation steps back<br>
@@ -130,7 +115,7 @@
                         </p>
                     </div>
                 </div>
-                <a class="left-button-10">Ready to Hang</a>
+                <a class="home-button-10">Ready to Hang</a>
             </div>
             <div class="dual-right-column-10">
                 <picture>
@@ -140,11 +125,11 @@
             </div>
         </div>
     </section>
-    <section class="title-section-10">
-        <h1 class="title-10">UPCOMING GALLERY.</h1>
+    <section class="home-section-11">
+        <h1 class="home-title-11">UPCOMING GALLERY.</h1>
     </section>
     <section class="home-section-10">
-        <div class="home-image-11">
+        <div class="home-image-10">
             <a class="home-link-10" href="<?= BASE_URL; ?>frames">
                 <picture>
                     <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-08.png" media="(max-width: 767px)">
