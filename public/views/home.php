@@ -48,7 +48,7 @@
             <div class="dual-left-column-10">
                 <div class="dual-content-10">
                     <div class="dual-header-10">
-                        <h2 class="home-subtitle-10">Art ● Space ● Light</h2>
+                        <h2 class="home-subtitle-10">Art - Space - Light</h2>
                     </div>
                     <div class="home-description-10">
                         <p class="home-text-10">
@@ -66,7 +66,7 @@
             <div class="dual-right-column-10">
                 <picture>
                     <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-05.png" media="(max-width: 767px)">
-                    <img class="dual-right-image-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-05.png" alt="Framed Work">
+                    <img class="dual-img-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-05.png" alt="Framed Work">
                 </picture>
             </div>
         </div>
@@ -76,7 +76,7 @@
             <div class="dual-left-column-11">
                 <picture>
                     <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-06.png" media="(max-width: 767px)">
-                    <img class="dual-left-image-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-06.png" alt="Street style with sneakers">
+                    <img class="dual-img-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-06.png" alt="Street style with sneakers">
                 </picture>
             </div>
             <div class="dual-right-column-11">
@@ -120,7 +120,7 @@
             <div class="dual-right-column-10">
                 <picture>
                     <source srcset="<?= BASE_URL; ?>/public/assets/image/home/img-07.png" media="(max-width: 767px)">
-                    <img class="dual-right-image-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-07.png" alt="Framed Work">
+                    <img class="dual-img-10" src="<?= BASE_URL; ?>/public/assets/image/home/img-07.png" alt="Framed Work">
                 </picture>
             </div>
         </div>
