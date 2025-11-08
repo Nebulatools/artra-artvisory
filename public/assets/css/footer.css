@@ -1,15 +1,13 @@
-/* MOBILE DEVICES (320 - 767) */
 .footer {
-	background: #F2F2F2;
-	border-top: 1px solid #000;
 	padding: 20px;
+	background: var(--white-gray);
+	border-top: 1px solid var(--black);
 }
 
 .footer-content-1 {
 	width: 100%;
-	margin: 0 auto;
 	display: flex;
-	gap: 30px;
+	margin: 0 auto;
 	flex-direction: column;
 }
 
@@ -17,7 +15,6 @@
 	flex: 1;
 	display: flex;
 	flex-direction: column;
-	gap: 30px;
 }
 
 .footer-about-1 {
@@ -28,94 +25,61 @@
 	margin-bottom: 30px;
 }
 
-.footer-title-1 {
-	font-family: 'Inter', sans-serif;
-	font-weight: 500;
+.footer-link-1,
+.footer-title-1,
+.footer-address-1,
+.footer-copyright-1,
+.footer-description-1 {
 	font-size: 16px;
+	font-weight: 500;
 	line-height: 1em;
-	color: #000;
+}
+
+.footer-title-1 {
 	margin-bottom: 8px;
+	font-family: 'Inter', sans-serif;
 }
 
 .footer-address-1 {
 	font-family: 'Century Old Style Std', serif;
-	font-size: 16px;
-	line-height: 1em;
-	color: #000;
 }
 
 .footer-description-1 {
 	font-family: 'Century Old Style Std', serif;
-	font-size: 16px;
-	line-height: 1.1;
-	color: #000;
 }
 
 .footer-copyright-1 {
 	font-family: 'Inter', sans-serif;
-	font-weight: 500;
-	font-size: 16px;
-	line-height: 1em;
-	margin-top: 50px;
-	color: #000;
+	margin-top: clamp(60px, 4vw, 120px);
 }
 
-.footer-right-1 {
+.footer-right-1,
+.footer-links-1,
+.footer-link-group-1 {
 	display: flex;
-	gap: 30px;
 	flex-direction: column;
 }
 
 .footer-links-1 {
-	display: flex;
 	gap: 30px;
-	flex-direction: column;
 }
 
 .footer-link-group-1 {
-	display: flex;
-	flex-direction: column;
 	gap: 10px;
 }
 
 .footer-link-1 {
-	font-family: 'Inter', sans-serif;
-	font-weight: 500;
-	font-size: 16px;
-	line-height: 1em;
-	color: #000;
+	color: var(--black);
 	text-decoration: none;
 	transition: opacity 0.3s ease;
+	font-family: 'Inter', sans-serif;
 }
 
 .footer-link-1:hover {
 	opacity: 0.7;
 }
 
-/* TABLET DEVICES (768 - 1,023) */
-@media screen and (min-width: 768px) {
-	.footer {
-		padding: 22px 30px;
-	}
-
-	.footer-content-1,
-	.footer-right-1,
-	.footer-links-1 {
-		gap: 80px;
-		flex-direction: row;
-	}
-
-	.footer-left-1 {
-		gap: 80px;	
-	}
-
-	.footer-copyright-1 {
-		margin-top: 80px;	
-	}
-}
-
-/* DESKTOP DEVICES (1,024 - 1,920++) */
-@media screen and (min-width: 1024px) {
+@media screen and (min-width: 600px) {
 	.footer {
 		padding: 24px 40px;
 		margin-left: 122px;
@@ -129,9 +93,6 @@
 	.footer-right-1,
 	.footer-links-1 {
 		gap: 128px;
-	}
-
-	.footer-copyright-1 {
-		margin-top: 128px;
+		flex-direction: row;
 	}
 }
