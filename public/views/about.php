@@ -4,80 +4,20 @@
             <img class="about-img-20" src="<?= BASE_URL; ?>/public/assets/image/about/svg-01.svg" alt="Title">
         </div>
     </section>
-    <!-- <section class="about-section-2">
-        <div class="about-grid-2">
-            <div class="about-left-column-2">
-                <div class="about-content-2">
-                    <div class="about-header-2">
-                        <h2 class="about-title-1">Bespoke Artvisory</h2>
-                    </div>
-                    <div class="about-description-2">
-                        <p class="about-subtitle-2">About Us</p>
-                        <p class="about-text-2">
-                            Our mission is to frame the art into a different perspective;<br>
-                            a dialogue between art, space and frame.
-                        </p>
-                        <p class="about-text-2">
-                            We cherish every chance to achieve this, employing<br>
-                            artistic expression, narrative, and provocative public<br>
-                            interventions.
-                        </p><br>
-                        <p class="about-subtitle-2">Framing & Mounting</p>
-                        <p class="about-text-2">
-                            Choose from our wide range of mouldings: anything<br>
-                            from natural wood to gilded frames.
-                        </p>
-                        <p class="about-text-2">
-                            Window, surface or float mount it on a range of our<br>
-                            acid-free mountcards.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <div class="about-right-column-1">
-                <img class="about-interior-image" src="<?= BASE_URL; ?>/public/assets/image/about/img-03.png" alt="Framing & Mounting">
-            </div>
-        </div>
-    </section> -->
     <section class="dual-section-20">
         <div class="dual-grid-20">
             <div class="dual-left-column-20">
                 <div class="dual-content-20">
-                    <div class="dual-header-20">
-                        <!-- <h2 class="left-title-10">Art ● Space ● Light</h2> -->
-                    </div>
+                    <div class="dual-header-20"></div>
                     <div class="left-description-20">
-                        <!-- <p class="left-text-10">
-                            We frame with perspective—a quiet<br>
-                            conversation between art, space, and light.<br>
-                            Each piece is considered for how it lives<br>
-                            in the room: distance, wall, rhythm.<br>
-                            Simple on the surface, precise underneath—<br>
-                            so the art feels inevitable where it hangs.
-                        </p> -->
-                        <p class="about-subtitle-20">About Us</p>
+                        <p class="about-subtitle-20">Bespoke Artvisory</p>
+                        <br>
                         <p class="left-text-20">
-                            Our mission is to frame the art into a different perspective;<br>
-                            a dialogue between art, space and frame.
-                        </p>
-                        <!-- <p class="left-text-20">
-                            We cherish every chance to achieve this, employing<br>
-                            artistic expression, narrative, and provocative public<br>
-                            interventions.
-                        </p><br> -->
-                        <p class="left-text-20">
-                            We value every chance to craft that dialogue, using<br>
-                            materials, proportion, and light—studio-made and<br>
-                            conservation-minded.
-                        </p><br>
-                        <p class="about-subtitle-20">Framing & Mounting</p>
-                        <p class="left-text-20">
-                            Choose from our wide range of mouldings: anything<br>
-                            from natural wood to gilded frames.
-                        </p>
-                        <p class="left-text-20">
-                            Window, surface or float mount it on a range of our<br>
-                            acid-free mountcards.
+                            ARTRA exists in the space between art and emotion.<br>
+                            We frame with perspective&#8212; shaping how art lives<br>
+                            in its environment, how it breathes with light, with<br>
+                            space&#8212; how it meets the eye.<br>
+                            Every decision is deliberate: proportion, texture, color.
                         </p>
                     </div>
                 </div>
@@ -100,18 +40,19 @@
             </div>
             <div class="dual-right-column-21">
                 <div class="dual-content-20">
-                    <div class="dual-header-20">
-                        <h2 class="right-title-20">Design Consullation</h2>
-                    </div>
+                    <div class="dual-header-20"></div>
                     <div class="right-description-20">
                         <p class="right-text-20">
-                            Bring your piece to the studio. We test mat widths, colours,<br>
-                            profiles, and glass together until the composition feels right.<br>
-                            Once approved, we build to conservation standards.
+                            ARTRA was born from the need to honor what art makes us<br>
+                            feel. From the belief that a frame is not a boundary, but a<br>
+                            continuation of the story.<br>
+                            It shapes how a piece is seen, how it lives in its space, and<br>
+                            how it moves those who encounter it. Because every frame<br>
+                            tells a story: of perspective, of presence,<br>
+                            of dialogue between art and its surroundings.
                         </p>
                     </div>
                 </div>
-                <a class="right-button-20">Composition chosen together</a>
             </div>
         </div>
     </section>
@@ -119,20 +60,28 @@
         <div class="dual-grid-20">
             <div class="dual-left-column-20">
                 <div class="dual-content-20">
-                    <div class="dual-header-20">
-                        <h2 class="left-title-20">Specialised Workshop</h2>
-                    </div>
+                    <div class="dual-header-20"></div>
                     <div class="left-description-20">
                         <p class="left-text-20">
-                            Your approved composition is hand-assembled<br>
-                            by specialists. We cut and mitre sourced<br>
-                            profiles, prepare acid-free mountboard,<br>
-                            fit glazing, and finish to conservation<br>
-                            standards—clean, precise, ready to hang.
+                            We believe framing si a form of storytelling - a dialogue<br>
+                            between craft, color and emotion.<br>
+                            Every piece deserves a frame that understands it &#8212; its<br>
+                            rhythm, its quietness or loudness, its intent.
+                            <br><br>
+                            Our process is slow, deliberate and deeply human.<br>
+                            <i>Measured by eye guided by feeling.</i>
+                            <br><br>
+                            We design with emotion and precision, shaping not just<br>
+                            how art its seen , but how it lives within a space.<br>
+                            To frame is to listen &#8212; to the art, the room the person<br>
+                            behind it.
+                            <br><br><br>
+                            BECAUSE PRESENTATION IS NOT JUST AN<br>
+                            AFTERTHOUGHT &#8212; ITS THE FINAL ACT OF<br>
+                            CREATION.
                         </p>
                     </div>
                 </div>
-                <a class="left-button-20">From idea to perfect hang</a>
             </div>
             <div class="dual-right-column-20">
                 <picture>

@@ -17,13 +17,13 @@
         <link rel="preload" href="<?= BASE_URL; ?>/public/assets/font/Sohne-Kraftig.otf" as="font" type="font/otf" crossorigin>
         <meta property="og:title" content="ARTRA | <?= $title; ?>">
         <meta property="og:description" content="Curated works and printed editions. Framing and mounting studio.">
-        <meta property="og:image" content="<?= BASE_URL; ?>/public/assets/image/home/img-01.png">
+        <meta property="og:image" content="https://artra-artvisory.com/public/assets/image/home/img-01.png">
         <meta property="og:url" content="https://artra-artvisory.com/">
         <meta property="og:type" content="article">
         <meta name="twitter:card" content="summary_large_image">
         <meta name="twitter:title" content="ARTRA | <?= $title; ?>">
         <meta name="twitter:description" content="Curated works and printed editions. Framing and mounting studio.">
-        <meta name="twitter:image" content="<?= BASE_URL; ?>/public/assets/image/home/img-01.png">
+        <meta name="twitter:image" content="https://artra-artvisory.com/public/assets/image/home/img-01.png">
         <meta name="author" content="Artra Gallery">
         <!-- <meta name="google-site-verification" content="VERIFICATION_CODE" /> -->
         <meta name="keywords" content="Curated works printed editions. Framing mounting studio.">
