@@ -4,24 +4,27 @@
             <img class="hwdi-img-30" src="<?= BASE_URL; ?>/public/assets/image/hwdi/svg-01.svg" alt="Title">
         </div>
     </section>
+    <section class="hwdi-section-31">
+        <div class="hwdi-image-31">
+            <picture>
+                <source srcset="<?= BASE_URL; ?>/public/assets/image/hwdi/img-02.png" media="(max-width: 767px)">
+                <img class="hwdi-full-img-30" src="<?= BASE_URL; ?>/public/assets/image/hwdi/img-02.png" alt="Our Top Picks">
+            </picture>
+        </div>
+    </section>
     <section class="dual-section-30">
         <div class="dual-grid-30">
             <div class="dual-left-column-30">
                 <div class="dual-content-30">
-                    <div class="dual-header-30">
-                        <h2 class="left-title-30"></h2>
-                    </div>
                     <div class="left-description-30">
                         <p class="left-text-30">
-                            1. Bring the piece – We take precise measurements.
+                            Our process is both intuitive and methodical.<br>
+                            From concept sketch to final installation.<br>
+                            We prototype, test and refine- balancing color, grain and scale&#8212;<br>
+                            every line reconsidered until it feels right, until the piece feels
+                            inevitable.
                             <br><br>
-                            2. Design consult – Try samples: moulding profiles,<br>
-                            mountboard tones, and glazing.
-                            <br><br>
-                            3. Approve the composition – Selection first; nothing is built yet.
-                            <br><br>
-                            4. Workshop assembly & install – Hand-built to conservation<br>
-                            standards, delivered and hung level.
+                            <i>Like it always belonged there.</i>
                         </p>
                     </div>
                 </div>
@@ -44,20 +47,14 @@
             </div>
             <div class="dual-right-column-31">
                 <div class="dual-content-30">
-                    <div class="dual-header-30">
-                        <h2 class="right-title-30"></h2>
-                    </div>
                     <div class="right-description-30">
                         <p class="right-text-30">
-                            Your piece is in expert hands—measured with care,<br>
-                            considered in light and space, and built with conservation<br>
-                            materials. We refine margins, tones, and glass until the<br>
-                            composition feels inevitable. The frame steps back, the art<br>
-                            steps forward—calm, clear, and made to last.
+                            What we create is not decoration but dialogue&#8212; between<br>
+                            craft and concepts, between hand and material, between<br>
+                            what's seen and what's felt.
                         </p>
                     </div>
                 </div>
-                <a class="right-button-30">Expert hands. Conservation care. Gallery-level finish. Art that leads the room.</a>
             </div>
         </div>
     </section>
