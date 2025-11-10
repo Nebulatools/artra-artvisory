@@ -1,59 +1,125 @@
-<main class="main-content">
-    <section class="main-section">
-        <div class="main-title">
-            <img class="main-img" src="<?= BASE_URL; ?>/public/assets/image/artworks/svg-01.svg" alt="Title">
+<main class="artworks-main-40">
+    <section class="artworks-section-40">
+        <div class="artworks-image-40">
+            <img class="artworks-img-40" src="<?= BASE_URL; ?>/public/assets/image/about/svg-01.svg" alt="Title">
         </div>
     </section>
-    <br>
-    <!-- <section class="back-section">
-        <div class="back-content">
-            <a class="back-button" href="<?= BASE_URL; ?>">Go Back</a>
+    <section class="artworks-section-41">
+        <div class="artworks-image-41">
+            <picture>
+                <source srcset="<?= BASE_URL; ?>/public/assets/image/gallery/img-03.png" media="(max-width: 767px)">
+                <img class="artworks-full-img-40" src="<?= BASE_URL; ?>/public/assets/image/gallery/img-03.png" alt="Our Top Picks">
+            </picture>
         </div>
-    </section> -->
-    <!-- <section class="title-section-1">
-            <h2 class="title-1">COMING SOON</h2>
-    </section> -->
-    <section class="artwork-section-1">
-        <div class="artwork-grid-1">
-            <div class="artwork-item">
-                <div class="artwork-image-1">
-                    <img class="column-img" src="<?= BASE_URL; ?>/public/assets/image/artworks/img-02.png" alt="Artwork 1">
-                </div>
-                <div class="artwork-details-1">
-                    <h3 class="artwork-title-1">Artwork 1</h3>
-                    <p class="artwork-description-1">Description</p><br>
-                    <span class="artwork-specs-1">Collection</span>
+    </section>
+    <section class="artworks-section-42">
+        <h1 class="artworks-title-41">UPCOMING GALLERY.</h1>
+    </section>
+    <section class="dual-section-40">
+        <div class="dual-grid-40">
+            <div class="dual-left-column-41">
+                <picture>
+                    <source srcset="<?= BASE_URL; ?>/public/assets/image/artworks/img-02.png" media="(max-width: 767px)">
+                    <img class="dual-left-image-40" src="<?= BASE_URL; ?>/public/assets/image/artworks/img-02.png" alt="Artwork 1">
+                </picture>
+            </div>
+            <div class="dual-right-column-41">
+                <div class="dual-content-40">
+                    <div class="dual-header-40">WORK #01</div>
+                    <div class="dual-title-40">Collection</div>
+                    <p class="dual-description-40">Standards</p>
+                    <div class="dual-separator-40"></div><br>
+                    <div class="dual-title-40">Size</div>
+                    <p class="dual-description-40">W 7/8" H 1 1/4" R 1"</p>
+                    <div class="dual-separator-40"></div><br>
+                    <div class="dual-title-40">Color</div>
+                    <p class="dual-description-40">Maple</p>
+                    <div class="dual-separator-40"></div><br>
+                    <div class="dual-title-40">Finish</div>
+                    <p class="dual-description-40">Laminated</p>
+                    <div class="dual-separator-40"></div><br>
                 </div>
             </div>
-            <div class="artwork-item">
-                <div class="artwork-image-1">
-                    <img class="column-img" src="<?= BASE_URL; ?>/public/assets/image/artworks/img-03.png" alt="Artwork 2">
-                </div>
-                <div class="artwork-details-1">
-                    <h3 class="artwork-title-1">Artwork 2</h3>
-                    <p class="artwork-description-1">Description</p><br>
-                    <span class="artwork-specs-1">Collection</span>
+        </div>
+    </section>
+    <section class="dual-section-40">
+        <div class="dual-grid-40">
+            <div class="dual-left-column-40">
+                <div class="dual-content-40">
+                    <div class="dual-header-40">WORK #02</div>
+                    <div class="dual-title-40">Collection</div>
+                    <p class="dual-description-40">Standards</p>
+                    <div class="dual-separator-40"></div><br>
+                    <div class="dual-title-40">Size</div>
+                    <p class="dual-description-40">W 7/8" H 1 1/4" R 1"</p>
+                    <div class="dual-separator-40"></div><br>
+                    <div class="dual-title-40">Color</div>
+                    <p class="dual-description-40">Maple</p>
+                    <div class="dual-separator-40"></div><br>
+                    <div class="dual-title-40">Finish</div>
+                    <p class="dual-description-40">Laminated</p>
+                    <div class="dual-separator-40"></div><br>
                 </div>
             </div>
-            <div class="artwork-item">
-                <div class="artwork-image-1">
-                    <img class="column-img" src="<?= BASE_URL; ?>/public/assets/image/artworks/img-04.png" alt="Artwork 3">
-                </div>
-                <div class="artwork-details-1">
-                    <h3 class="artwork-title-1">Artwork 3</h3>
-                    <p class="artwork-description-1">Description</p><br>
-                    <span class="artwork-specs-1">Collection</span>
+            <div class="dual-right-column-40">
+                <picture>
+                    <source srcset="<?= BASE_URL; ?>/public/assets/image/artworks/img-03.png" media="(max-width: 767px)">
+                    <img class="dual-right-image-40" src="<?= BASE_URL; ?>/public/assets/image/artworks/img-03.png" alt="Framed Work">
+                </picture>
+            </div>
+        </div>
+    </section>
+    <section class="dual-section-40">
+        <div class="dual-grid-40">
+            <div class="dual-left-column-41">
+                <picture>
+                    <source srcset="<?= BASE_URL; ?>/public/assets/image/artworks/img-04.png" media="(max-width: 767px)">
+                    <img class="dual-left-image-40" src="<?= BASE_URL; ?>/public/assets/image/artworks/img-04.png" alt="Artwork 1">
+                </picture>
+            </div>
+            <div class="dual-right-column-41">
+                <div class="dual-content-40">
+                    <div class="dual-header-40">WORK #03</div>
+                    <div class="dual-title-40">Collection</div>
+                    <p class="dual-description-40">Standards</p>
+                    <div class="dual-separator-40"></div><br>
+                    <div class="dual-title-40">Size</div>
+                    <p class="dual-description-40">W 7/8" H 1 1/4" R 1"</p>
+                    <div class="dual-separator-40"></div><br>
+                    <div class="dual-title-40">Color</div>
+                    <p class="dual-description-40">Maple</p>
+                    <div class="dual-separator-40"></div><br>
+                    <div class="dual-title-40">Finish</div>
+                    <p class="dual-description-40">Laminated</p>
+                    <div class="dual-separator-40"></div><br>
                 </div>
             </div>
-            <div class="artwork-item">
-                <div class="artwork-image-1">
-                    <img class="column-img" src="<?= BASE_URL; ?>/public/assets/image/artworks/img-05.png" alt="Artwork 4">
+        </div>
+    </section>
+    <section class="dual-section-40">
+        <div class="dual-grid-40">
+            <div class="dual-left-column-40">
+                <div class="dual-content-40">
+                    <div class="dual-header-40">WORK #04</div>
+                    <div class="dual-title-40">Collection</div>
+                    <p class="dual-description-40">Standards</p>
+                    <div class="dual-separator-40"></div><br>
+                    <div class="dual-title-40">Size</div>
+                    <p class="dual-description-40">W 7/8" H 1 1/4" R 1"</p>
+                    <div class="dual-separator-40"></div><br>
+                    <div class="dual-title-40">Color</div>
+                    <p class="dual-description-40">Maple</p>
+                    <div class="dual-separator-40"></div><br>
+                    <div class="dual-title-40">Finish</div>
+                    <p class="dual-description-40">Laminated</p>
+                    <div class="dual-separator-40"></div><br>
                 </div>
-                <div class="artwork-details-1">
-                    <h3 class="artwork-title-1">Artwork 4</h3>
-                    <p class="artwork-description-1">Description</p><br>
-                    <span class="artwork-specs-1">Collection</span>
-                </div>
+            </div>
+            <div class="dual-right-column-40">
+                <picture>
+                    <source srcset="<?= BASE_URL; ?>/public/assets/image/artworks/img-05.png" media="(max-width: 767px)">
+                    <img class="dual-right-image-40" src="<?= BASE_URL; ?>/public/assets/image/artworks/img-05.png" alt="Framed Work">
+                </picture>
             </div>
         </div>
     </section>

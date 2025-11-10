@@ -48,17 +48,28 @@
             <div class="dual-left-column-10">
                 <div class="dual-content-10">
                     <div class="dual-header-10">
-                        <h2 class="home-subtitle-10">Art - Space - Light</h2>
+                        <h2 class="home-subtitle-10">Art, Space and Light</h2>
                     </div>
                     <div class="home-description-10">
                         <p class="home-text-10">
-                            We frame with perspective—a quiet<br>
-                            conversation between art, space, and light.<br>
-                            Each piece is considered for how it lives<br>
-                            in the room: distance, wall, rhythm.<br>
-                            Simple on the surface, precise underneath—<br>
-                            so the art feels inevitable where it hangs.
+                            At ARTRA every frame begins as a design dialogue.
+                            <br><br>
+                            We combine technical mastery with creative intuition-<br>
+                            experimenting with materials, textures and finishes
+                            to find the perfect balance.<br>
+                            From floaters to shadow boxes, every decision is intentional.<br>
+                            Our creative team turns every artwork into a statement,<br>
+                            always with purpose.
+                            <br><br>
+                            We design frames like architects design spaces&#8212; with<br>
+                            balance, rhythm and intent.<br>
+                            Every edge, join and material choice is deliberate.
+                            <br><br>
                         </p>
+                        <i>
+                            The result: frames that disappear into the art while quietly defining the<br>
+                            room around it.
+                        </i>
                     </div>
                 </div>
                 <a class="home-button-10">Design First</a>
@@ -86,10 +97,11 @@
                     </div>
                     <div class="home-description-10">
                         <p class="home-text-10">
-                            Measured by eye, finished by hand.<br>
-                            Balanced proportion, clean joins, dust-free<br>
-                            clarity—workmanship that lets the piece endure<br>
-                            and be seen as itself, today and years from now.
+                            Every join, every edge is shaped with intent and patience.<br>
+                            The goal &#8212; is permanence. The kind that lets the art<br>
+                            breathe freely.<br>
+                            We obsess over the unseen details so the work commands<br>
+                            its space with clarity and grace.
                         </p>
                     </div>
                 </div>
