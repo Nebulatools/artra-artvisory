@@ -79,10 +79,12 @@
             </div>
             <div class="dual-right-column-20">
                 <div class="dual-right-image-20">
-                    <picture>
-                        <source srcset="<?= BASE_URL; ?>public/assets/image/about/img-04-m.png" media="(max-width: 678px)">
-                        <img class="dual-img-20" src="<?= BASE_URL; ?>public/assets/image/about/img-04.png" alt="About Image">
-                    </picture>
+                    <div class="dual-right-image-20">
+                        <picture>
+                            <source srcset="<?= BASE_URL; ?>public/assets/image/about/img-04-m.png" media="(max-width: 678px)">
+                            <img class="dual-img-20" src="<?= BASE_URL; ?>public/assets/image/about/img-04.png" alt="About Image">
+                        </picture>
+                    </div>
                 </div>
             </div>
         </div>
