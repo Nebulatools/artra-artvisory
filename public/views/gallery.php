@@ -20,8 +20,8 @@
         <div class="dual-grid-40">
             <div class="dual-left-column-41">
                 <picture>
-                    <source srcset="<?= BASE_URL; ?>/public/assets/image/gallery/img-05.png" media="(max-width: 767px)">
-                    <img class="dual-left-image-40" src="<?= BASE_URL; ?>/public/assets/image/gallery/img-05.png" alt="Street style with sneakers">
+                    <source srcset="<?= BASE_URL; ?>/public/assets/image/gallery/img-04.png" media="(max-width: 767px)">
+                    <img class="dual-left-image-40" src="<?= BASE_URL; ?>/public/assets/image/gallery/img-04.png" alt="Street style with sneakers">
                 </picture>
             </div>
             <div class="dual-right-column-41">
@@ -56,8 +56,8 @@
             </div>
             <div class="dual-right-column-40">
                 <picture>
-                    <source srcset="<?= BASE_URL; ?>/public/assets/image/gallery/img-04.png" media="(max-width: 767px)">
-                    <img class="dual-right-image-40" src="<?= BASE_URL; ?>/public/assets/image/gallery/img-04.png" alt="Framed Work">
+                    <source srcset="<?= BASE_URL; ?>/public/assets/image/gallery/img-05.png" media="(max-width: 767px)">
+                    <img class="dual-right-image-40" src="<?= BASE_URL; ?>/public/assets/image/gallery/img-05.png" alt="Framed Work">
                 </picture>
             </div>
         </div>

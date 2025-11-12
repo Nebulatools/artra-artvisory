@@ -54,6 +54,133 @@
 	--fs-title-15: clamp(28px, calc(12px + 1.1vw), 48px);
 }
 
+/* MOBILE DEVICES ( <= 678px ) */
+.main-1 {
+	width: 100%;
+	height: auto;
+	padding-inline: var(--gutter);
+	max-width: var(--site-max-width);
+}
+
+.image-1 {
+	overflow: auto;
+	position: relative;
+	block-size: fit-content;
+}
+
+.img-1 {
+	width: 100%;
+	height: auto;
+	border: none;
+	display: block;
+	object-fit: cover;
+	object-position: center;
+}
+
+.dual-section-1,
+.dual-section-2 {
+	margin: 0;
+	border: none;
+	padding-top: 0;
+	padding-bottom: 0;
+	padding-left: var(--gutter);
+	padding-right: var(--gutter);
+}
+
+.dual-grid-1 {
+	display: flex;
+	margin-inline: auto;
+	flex-direction: row;
+	align-items: stretch;
+	justify-content: center;
+}
+
+.dual-left-column-1 {
+	width: 45%;
+	align-items: center;
+	justify-content: center;
+	border-top: 1px solid var(--black);
+	border-left: 1px solid var(--black);
+	border-right: 1px solid var(--black);
+	border-bottom: none;
+}
+
+.dual-content-1 {
+	padding: 15px;
+	position: relative;
+	border-bottom: none;
+	max-inline-size: 100%;
+}
+
+.dual-description-1 {
+	font-size: 10px;
+	line-height: 1.1em;
+	color: var(--black);
+	font-family: 'CenturyReg';
+}
+
+.dual-right-column-1 {
+	width: 55%;
+	height: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	border-top: 1px solid var(--black);
+	border-left: none;
+	border-right: 1px solid var(--black);
+	border-bottom: none;
+}
+
+.dual-image-1 {
+	overflow: auto;
+	position: relative;
+	block-size: fit-content;
+}
+
+.dual-img-1 {
+	width: 100%;
+	height: 100%;
+	border: none;
+	display: block;
+	max-height: 650px;
+	object-fit: cover;
+	object-position: center;
+}
+
+.dual-left-column-2 {
+	width: 55%;
+	align-items: center;
+	justify-content: center;
+	border-top: 1px solid var(--black);
+	border-left: 1px solid var(--black);
+	border-right: 1px solid var(--black);
+	border-bottom: none;
+}
+
+.dual-right-column-2 {
+	width: 45%;
+	display: flex;
+	position: relative;
+	flex-direction: column;
+	justify-content: space-between;
+	border-top: 1px solid var(--black);
+	border-left: none;
+	border-right: 1px solid var(--black);
+	border-bottom: none;
+}
+
+/* DESKTOP DEVICES ( > 678px ) */
+@media screen and (min-width: 678px) {
+	.dual-content-1 {
+		padding: 30px 60px 30px 30px;
+	}
+
+	.dual-description-1 {
+		font-size: 16px;
+		line-height: 1.1em;
+	}
+}
+
 
 
 
