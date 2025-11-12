@@ -2,7 +2,6 @@
     <section class="main-section">
         <div class="main-title">
             <img class="main-img" src="<?= BASE_URL; ?>/public/assets/image/frame_detail/svg-01.svg" alt="Title">
-            <img class="main-sign" src="<?= BASE_URL; ?>/public/assets/image/frame_detail/svg-02.svg" alt="Signature">
         </div>
     </section>
     <section class="back-section">

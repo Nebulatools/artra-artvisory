@@ -2,7 +2,6 @@
     <section class="gallery-section-40">
         <div class="gallery-image-40">
             <img class="gallery-img-40" src="<?= BASE_URL; ?>/public/assets/image/gallery/svg-01.svg" alt="Title">
-            <img class="gallery-img-40" src="<?= BASE_URL; ?>/public/assets/image/gallery/svg-02.svg" alt="Signature">
         </div>
     </section>
     <section class="gallery-title-section-40">

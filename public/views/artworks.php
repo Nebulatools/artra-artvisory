@@ -2,7 +2,6 @@
     <section class="artworks-section-50">
         <div class="artworks-image-50">
             <img class="artworks-img-50" src="<?= BASE_URL; ?>/public/assets/image/artworks/svg-01.svg" alt="Title">
-            <img class="artworks-img-50" src="<?= BASE_URL; ?>/public/assets/image/artworks/svg-02.svg" alt="Signature">
         </div>
     </section>
     <section class="dual-section-50">

@@ -1,7 +1,7 @@
 <main class="about-main-20">
     <section class="about-section-20">
         <div class="about-image-20">
-            <img class="about-img-20" src="<?= BASE_URL; ?>/public/assets/image/about/svg-01.svg" alt="Title">
+            <img class="about-img-20" src="<?= BASE_URL; ?>public/assets/image/about/svg-01.svg" alt="Title">
         </div>
     </section>
     <section class="dual-section-20">
@@ -21,8 +21,8 @@
             <div class="dual-right-column-20">
                 <div class="dual-right-image-20">
                     <picture>
-                        <source srcset="<?= BASE_URL; ?>/public/assets/image/about/img-02.png" media="(max-width: 767px)">
-                        <img class="dual-img-20" src="<?= BASE_URL; ?>/public/assets/image/about/img-02.png" alt="Framed Work">
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/about/img-02.png" media="(max-width: 678px)">
+                        <img class="dual-img-20" src="<?= BASE_URL; ?>public/assets/image/about/img-02.png" alt="About Image">
                     </picture>
                 </div>
             </div>
@@ -33,8 +33,8 @@
             <div class="dual-left-column-21">
                 <div class="dual-left-image-20">
                     <picture>
-                        <source srcset="<?= BASE_URL; ?>/public/assets/image/about/img-03.png" media="(max-width: 767px)">
-                        <img class="dual-img-20" src="<?= BASE_URL; ?>/public/assets/image/about/img-03.png" alt="Street style with sneakers">
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/about/img-03.png" media="(max-width: 678px)">
+                        <img class="dual-img-20" src="<?= BASE_URL; ?>public/assets/image/about/img-03.png" alt="About Image">
                     </picture>
                 </div>
             </div>
@@ -80,8 +80,8 @@
             <div class="dual-right-column-20">
                 <div class="dual-right-image-20">
                     <picture>
-                        <source srcset="<?= BASE_URL; ?>/public/assets/image/about/img-04.png" media="(max-width: 767px)">
-                        <img class="dual-img-20" src="<?= BASE_URL; ?>/public/assets/image/about/img-04.png" alt="Framed Work">
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/about/img-04-m.png" media="(max-width: 678px)">
+                        <img class="dual-img-20" src="<?= BASE_URL; ?>public/assets/image/about/img-04.png" alt="About Image">
                     </picture>
                 </div>
             </div>
