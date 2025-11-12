@@ -1,7 +1,7 @@
 <main class="gallery-main-40">
     <section class="gallery-section-40">
         <div class="gallery-image-40">
-            <img class="gallery-img-40" src="<?= BASE_URL; ?>/public/assets/image/gallery/svg-01.svg" alt="Title">
+            <img class="gallery-img-40" src="<?= BASE_URL; ?>public/assets/image/gallery/svg-01.svg" alt="Title">
         </div>
     </section>
     <section class="gallery-title-section-40">
@@ -10,27 +10,31 @@
     <section class="gallery-section-41">
         <div class="gallery-image-41">
             <picture>
-                <source srcset="<?= BASE_URL; ?>/public/assets/image/gallery/img-03.png" media="(max-width: 767px)">
-                <img class="gallery-full-img-40" src="<?= BASE_URL; ?>/public/assets/image/gallery/img-03.png" alt="Our Top Picks">
+                <source srcset="<?= BASE_URL; ?>public/assets/image/gallery/img-02.png" media="(max-width: 678px)">
+                <img class="gallery-full-img-40" src="<?= BASE_URL; ?>public/assets/image/gallery/img-02.png" alt="Gallery Image">
             </picture>
         </div>
     </section>
     <section class="dual-section-40">
         <div class="dual-grid-40">
             <div class="dual-left-column-41">
-                <picture>
-                    <source srcset="<?= BASE_URL; ?>/public/assets/image/gallery/img-04.png" media="(max-width: 767px)">
-                    <img class="dual-left-image-40" src="<?= BASE_URL; ?>/public/assets/image/gallery/img-04.png" alt="Street style with sneakers">
-                </picture>
+                <div class="dual-left-image-40">
+                    <picture>
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/gallery/img-03.png" media="(max-width: 678px)">
+                        <img class="dual-img-40" src="<?= BASE_URL; ?>public/assets/image/gallery/img-03.png" alt="Gallery Image">
+                    </picture>
+                </div>
             </div>
             <div class="dual-right-column-41">
                 <div class="dual-content-40">
                     <div class="right-description-40">
-                        <p class="right-text-40">
-                            What we create is not decoration but dialogue&#8212; between<br>
-                            craft and concepts, between hand and material, between<br>
-                            what's seen and what's felt.
-                        </p>
+                        Our gallery and framing studio coexist &#8212; one
+                        celebrates art; the other refines how it's seen.
+                        <br><br>
+                        We forge alliances with artists from around the world
+                        whose work moves us &#8212; sharing their vision through
+                        curated exhibitions that invite emotion, connection
+                        and conversation.
                     </div>
                 </div>
             </div>
@@ -41,23 +45,22 @@
             <div class="dual-left-column-40">
                 <div class="dual-content-40">
                     <div class="left-description-40">
-                        <p class="left-text-40">
-                            Our process is both intuitive and methodical.<br>
-                            From concept sketch to final installation.<br>
-                            We prototype, test and refine- balancing color, grain and scale&#8212;<br>
-                            every line reconsidered until it feels right, until the piece feels
-                            inevitable.
-                            <br><br>
-                            <i>Like it always belonged there.</i>
-                        </p>
+                        We live for the moment art meets a room &#8212; from
+                        prints to pieces you can walk around: photography,
+                        textiles, paintings and quiet interventions. Each
+                        chosen for how it interacts with the space.
+                        <br><br>
+                        <i>Coming Soon...</i>
                     </div>
                 </div>
             </div>
             <div class="dual-right-column-40">
-                <picture>
-                    <source srcset="<?= BASE_URL; ?>/public/assets/image/gallery/img-05.png" media="(max-width: 767px)">
-                    <img class="dual-right-image-40" src="<?= BASE_URL; ?>/public/assets/image/gallery/img-05.png" alt="Framed Work">
-                </picture>
+                <div class="dual-right-image-40">
+                    <picture>
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/gallery/img-04.png" media="(max-width: 678px)">
+                        <img class="dual-img-40" src="<?= BASE_URL; ?>public/assets/image/gallery/img-04.png" alt="Gallery Image">
+                    </picture>
+                </div>
             </div>
         </div>
     </section>

@@ -1,14 +1,14 @@
 <main class="hwdi-main-30">
     <section class="hwdi-section-30">
         <div class="hwdi-image-30">
-            <img class="hwdi-img-30" src="<?= BASE_URL; ?>/public/assets/image/hwdi/svg-01.svg" alt="Title">
+            <img class="hwdi-img-30" src="<?= BASE_URL; ?>public/assets/image/hwdi/svg-01.svg" alt="Title">
         </div>
     </section>
     <section class="hwdi-section-31">
         <div class="hwdi-image-31">
             <picture>
-                <source srcset="<?= BASE_URL; ?>/public/assets/image/hwdi/img-02.png" media="(max-width: 767px)">
-                <img class="hwdi-full-img-30" src="<?= BASE_URL; ?>/public/assets/image/hwdi/img-02.png" alt="Our Top Picks">
+                <source srcset="<?= BASE_URL; ?>public/assets/image/hwdi/img-02.png" media="(max-width: 678px)">
+                <img class="hwdi-full-img-30" src="<?= BASE_URL; ?>public/assets/image/hwdi/img-02.png" alt="How We Do It Image">
             </picture>
         </div>
     </section>
@@ -33,8 +33,8 @@
             <div class="dual-right-column-30">
                 <div class="dual-right-image-30">
                     <picture>
-                        <source srcset="<?= BASE_URL; ?>/public/assets/image/hwdi/img-03.png" media="(max-width: 767px)">
-                        <img class="dual-img-30" src="<?= BASE_URL; ?>/public/assets/image/hwdi/img-03.png" alt="Framed Work">
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/hwdi/img-03.png" media="(max-width: 678px)">
+                        <img class="dual-img-30" src="<?= BASE_URL; ?>public/assets/image/hwdi/img-03.png" alt="How We Do It Image">
                     </picture>
                 </div>
             </div>
@@ -45,8 +45,8 @@
             <div class="dual-left-column-31">
                 <div class="dual-left-image-30">
                     <picture>
-                        <source srcset="<?= BASE_URL; ?>/public/assets/image/hwdi/img-04.png" media="(max-width: 767px)">
-                        <img class="dual-img-30" src="<?= BASE_URL; ?>/public/assets/image/hwdi/img-04.png" alt="Street style with sneakers">
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/hwdi/img-04.png" media="(max-width: 678px)">
+                        <img class="dual-img-30" src="<?= BASE_URL; ?>public/assets/image/hwdi/img-04.png" alt="How We Do It Image">
                     </picture>
                 </div>
             </div>
