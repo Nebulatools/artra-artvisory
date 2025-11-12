@@ -50,7 +50,7 @@
 }
 
 .dual-content-20 {
-   padding: 20px;
+   padding: 15px;
    position: relative;
    border-bottom: none;
    max-inline-size: 100%;
@@ -58,7 +58,7 @@
 
 .left-description-20,
 .right-description-20 {
-   font-size: 12px;
+   font-size: 10px;
    line-height: 1.1em;
    color: var(--black);
    font-family: 'CenturyReg';
