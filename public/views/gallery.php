@@ -5,7 +5,7 @@
         </div>
     </section>
     <section class="gallery-title-section-40">
-            <h2 class="gallery-title-40">COMING SOON</h2>
+            <h1 class="gallery-title-40">COMING SOON</h1>
     </section>
     <section class="gallery-section-41">
         <div class="gallery-image-41">

@@ -183,6 +183,12 @@
 
 
 
+body {
+	margin: 0;
+	color: var(--black);
+	background: var(--white-gray);
+	-webkit-font-smoothing: antialiased;
+}
 
 
 /* Estilos existentes mantenidos */

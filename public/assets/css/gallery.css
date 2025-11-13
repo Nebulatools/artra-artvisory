@@ -26,19 +26,24 @@
    display: flex;
    text-align: left;
    overflow: hidden;
-   padding: 20px 0px 20px;
+   padding: 20px 20px;
    white-space: nowrap;
+   margin-left: var(--gutter);
+	margin-right: var(--gutter);
+	border-top: 1px solid var(--black);
+   border-left: 1px solid var(--black);
+   border-right: 1px solid var(--black);
+   border-bottom: none;
 }
 
 .gallery-title-40 {
-   font-family: 'Sohne';
-   font-weight: 500;
-   font-size: 20px;
-   /* font-size: 40px; */
-   line-height: 1;
-   text-transform: uppercase;
    text-align: left;
-   color: #000;
+   font-size: 18px;
+	font-weight: 500;
+   line-height: 1.1em;
+   color: var(--black);
+   text-transform: uppercase;
+   font-family: 'Sohne';
 }
 
 .gallery-section-41 {
@@ -161,9 +166,12 @@
       padding: 30px 60px 30px 30px;
    }
 
+   .gallery-title-40 {
+      font-size: 28px;
+   }
+
    .left-description-40,
    .right-description-40 {
       font-size: 16px;
-      line-height: 1.1em;
    }
 }
