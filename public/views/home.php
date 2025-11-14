@@ -62,16 +62,16 @@
                         At ARTRA every frame begins as a design dialogue.
                         <br><br>
                         We combine technical mastery with creative
-                        intuition &#8212;experimenting with materials,
+                        intuition &#8212; experimenting with materials,
                         textures and finishes to find the perfect balance.<br>
-                        What sets us apart is the eye behind every frame&#8212;
-                        a sense of proportion, texture and emotion that
-                        defines our work.<br>
                         From floaters to shadow boxes, every decision
-                        is intentional.
+                        is deliberately shaped.
                         <br><br>
-                        We design frames like architects design spaces &#8212;
-                        with balance, rhythm and intent.
+                        <i>
+                            What sets us apart is the eye behind every
+                            frame &#8212; a sense of proportion, texture
+                            and emotion that defines our work.
+                        </i>
                     </div>
                 </div>
             </div>
@@ -100,14 +100,16 @@
                     <div class="dual-description-10">
                         <b class="dual-subtitle-10">Human Craft, Lasting Care</b>
                         <br><br><br>
-                        We don't just frame art &#8212; we compose experiences.
+                        Every join, every edge is shaped with patience and vision.<br>
+                        We obsess over the unseen details &#8212; the quiet
+                        decisions that give a piece its sense of depth and harmony.<br>
+                        The goal is permanence &#8212; the kind that lets
+                        the art breathe freely.
                         <br><br>
-                        Every join, every edge is shaped with intent
-                        and patience.<br>
-                        The goal is permanence &#8212;the kind that lets the art
-                        breathe freely.<br>
-                        We obsess over the unseen details&#8212; until the piece
-                        feels spatial and timeless.
+                        <i>
+                            Because framing isn't about holding the art in
+                            place, but giving it a space to live.
+                        </i>
                     </div>
                 </div>
             </div>
@@ -120,10 +122,17 @@
                     <div class="dual-description-10">
                         <b class="dual-subtitle-10">Composition as Promise</b>
                         <br><br><br>
+                        We don't just frame art &#8212; we compose experiences.
+                        <br><br>
                         We protect what matters &#8212; lasting materials,
-                        invisible joins, and revealing light.<br>
-                        Every composition is a promise &#8212; shaped
-                        with intention, meant to last beyond time.
+                        stable structures, and revealing light.<br>
+                        Every composition is a promise &#8212; shaped with
+                        purpose, meant to live beyond trends and time.
+                        <br><br>
+                        <i>
+                            We design frames the way architects design
+                            spaces &#8212; with balance, rhythm and intent.
+                        </i>
                     </div>
                 </div>
             </div>

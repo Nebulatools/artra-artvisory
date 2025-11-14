@@ -10,11 +10,16 @@
                 <div class="dual-content-20">
                     <div class="left-description-20">
                         ARTRA was born from the need to honor what art
-                        makes us feel &#8212;from the belief that a frame is
+                        makes us feel &#8212; from the belief that a frame is
                         not a boundary, but a continuation of the story.<br>
                         Think sculptural textures, deep tones, and bold
-                        simplicity&#8212; frames that do more than surround art;
-                        they complete it.
+                        simplicity &#8212; frames that do more than surround
+                        the art; they complete it.
+                        <br><br>
+                        <i>
+                            To frame is to listen &#8212; to the art,
+                            the room, the person behind it.
+                        </i>
                     </div>
                 </div>
             </div>
@@ -41,11 +46,15 @@
             <div class="dual-right-column-21">
                 <div class="dual-content-20">
                     <div class="right-description-20">
-                        ARTRA exists in the space between art and emotion.<br>
-                        We frame with perspective &#8212;shaping how art
+                        ARTRA exists in the space where art meets emotion.<br>
+                        We frame with perspective &#8212; shaping how a piece
                         lives in its environment, how it breathes with light,
-                        with space&#8212; how it meets the eye.
-                        Every decision is deliberate: proportion, texture, color.
+                        with space &#8212; how it meets the eye. Every
+                        decision is deliberate: proportion, texture, color.
+                        <br><br>
+                        <i>
+                            Design that doesn't interrupt, but clarifies.
+                        </i>
                     </div>
                 </div>
             </div>
@@ -61,19 +70,14 @@
                         Every piece deserves a frame that understands it &#8212;
                         its rhythm, its quietness or loudness, its intent.<br>
                         Our process is slow, deliberate and deeply human &#8212;
-                        measured by eye, guided by feeling.
+                        measured by the eye, guided by feeling.<br>
+                        We design with emotion and precision, shaping not just
+                        how art its seen, but how it lives within a space.
                         <br><br>
                         <i>
-                            We design with emotion and precision,
-                            shaping not just how art its seen,
-                            but how it lives within a space.<br>
-                            To frame is to listen &#8212; to the art,
-                            the room the person behind it.
-                        </i>                          
-                        <br><br><br>
-                        BECAUSE PRESENTATION IS NOT JUST AN
-                        AFTERTHOUGHT &#8212; ITS THE FINAL ACT OF
-                        CREATION.
+                            Because presentation is not just an
+                            afterthought &#8212; it's the final act of creation.
+                        </i>
                     </div>
                 </div>
             </div>
