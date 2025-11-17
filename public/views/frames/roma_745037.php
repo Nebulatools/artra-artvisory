@@ -1,17 +1,22 @@
-<main class="main-content">
-    <section class="main-section">
-        <div class="main-title">
-            <img class="main-img" src="<?= BASE_URL; ?>/public/assets/image/frame_detail/svg-01.svg" alt="Title">
+<main class="frames-main-60">
+    <section class="frames-section-60">
+        <div class="frames-image-60">
+            <img class="frames-img-60" src="<?= BASE_URL; ?>public/assets/image/frame_detail/svg-01.svg" alt="Title">
         </div>
     </section>
+
     <section class="back-section">
         <div class="back-content">
             <a class="back-button" href="<?= BASE_URL; ?>frames">Go Back</a>
         </div>
     </section>
-    <section class="title-section">
-            <h2 class="title">DISCOVER THE PIECE</h2>
+
+    <section class="frames-title-section-60">
+            <h1 class="frames-title-60">DISCOVER THE PIECE</h1>
     </section>
+
+
+
     <section class="frame-section">
         <div class="frame-content">
             <div class="frame-left-column">
@@ -49,10 +54,4 @@
             </div>
         </div>
     </section>
-    <!-- <section class="grid-section">
-        <picture>
-            <source srcset="<?= BASE_URL; ?>/public/assets/image/gallery/svg-03-m.svg" media="(max-width: 767px)">
-            <img class="full-width-svg" src="<?= BASE_URL; ?>/public/assets/image/gallery/svg-03.svg" alt="Geometric">
-        </picture>
-    </section> -->
 </main>
