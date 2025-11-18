@@ -17,16 +17,17 @@
 .nav-left-1 {
     flex: 1;
     text-align: left;
+    padding-top: 30px;
     position: relative;
 }
 
 .nav-menu-1 {
     cursor: pointer;
-    font-weight: 500;
+    font-weight: 600;
     color: var(--black);
     font-family: 'Sohne';
     transition: color 0.3s ease;
-    font-size: clamp(16px, calc(12px + 1.1vw), 16px);
+    font-size: clamp(16px, calc(12px + 1.1vw), 20px);
 }
 
 .nav-menu-1:hover {
@@ -39,9 +40,10 @@
 }
 
 .nav-logo-1 {
+    width: 100%;
     height: auto;
     align-self: center;
-    max-width: clamp(120px, 4vw, 200px);
+    max-width: clamp(200px, 4vw, 500px);
     margin-top: clamp(16px, calc(12px + 1.1vw), 16px);
     margin-bottom: clamp(16px, calc(12px + 1.1vw), 16px);
 }

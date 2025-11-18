@@ -204,6 +204,27 @@
    border-bottom: none;
 }
 
+.dual-left-column-62 {
+   width: 45%;
+   align-items: center;
+   justify-content: center;
+   border-top: none;
+   border-left: 1px solid var(--black);
+   border-right: none;
+   border-bottom: none;
+}
+
+.dual-right-column-62 {
+   width: 55%;
+   position: relative;
+   flex-direction: column;
+   justify-content: space-between;
+   border-top: 1px solid var(--black);
+   border-left: none;
+   border-right: none;
+   border-bottom: none;
+}
+
 /* DESKTOP DEVICES ( > 678px ) */
 @media screen and (min-width: 678px) {
    .dual-header-60 {

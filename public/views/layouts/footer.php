@@ -15,15 +15,15 @@
                 <div class="footer-right-1">
                     <div class="footer-links-1">
                         <div class="footer-link-group-1">
+                            <a class="footer-link-1" href="<?= BASE_URL; ?>">HOME</a>
+                            <a class="footer-link-1" href="<?= BASE_URL; ?>about">ABOUT US</a>
                             <a class="footer-link-1" href="<?= BASE_URL; ?>how-we-do-it">HOW WE DO IT</a>
-                            <a class="footer-link-1" href="<?= BASE_URL; ?>artworks">ARTWORKS</a>
-                            <!-- <a class="footer-link-1" href="<?= BASE_URL; ?>frames">OUR TOP PICKS</a> -->
-                            <a class="footer-link-1" href="<?= BASE_URL; ?>gallery">GALLERY</a>
+                            <a class="footer-link-1" href="<?= BASE_URL; ?>frames">OUR TOP PICKS</a>
                             <!-- <a class="footer-link-1" href="<?= BASE_URL; ?>artists">ARTISTS</a> -->
-                            
                         </div>
                         <div class="footer-link-group-1">
-                            <a class="footer-link-1" href="<?= BASE_URL; ?>about">ABOUT US</a>
+                            <a class="footer-link-1" href="<?= BASE_URL; ?>artworks">ARTWORKS</a>
+                            <a class="footer-link-1" href="<?= BASE_URL; ?>gallery">GALLERY</a>
                             <!-- <a class="footer-link-1" href="<?= BASE_URL; ?>catalogue">OUR CATALOGUE</a> -->
                             <!-- <a class="footer-link-1" href="#">FAQ</a> -->
                             <a class="footer-link-1" href="#">CONTACT</a>

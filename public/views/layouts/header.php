@@ -19,25 +19,25 @@
 			<div class="menu-item-1">
 				<a class="menu-link-1" href="<?= BASE_URL; ?>about">ABOUT US</a>
 			</div>
+			<div class="menu-separator-1"></div>
+			<div class="menu-item-1">
+				<a class="menu-link-1" href="<?= BASE_URL; ?>how-we-do-it">HOW WE DO IT</a>
+			</div>
 			<!-- <div class="menu-separator-1"></div>
 			<div class="menu-item-1">
 				<a class="menu-link-1" href="<?= BASE_URL; ?>artists">ARTISTS</a>
 			</div> -->
 			<div class="menu-separator-1"></div>
 			<div class="menu-item-1">
-				<a class="menu-link-1" href="<?= BASE_URL; ?>artworks">ARTWORKS</a>
-			</div>
-			<div class="menu-separator-1"></div>
-			<div class="menu-item-1">
 				<a class="menu-link-1" href="<?= BASE_URL; ?>frames">FRAMES CATALOGUE</a>
 			</div>
 			<div class="menu-separator-1"></div>
 			<div class="menu-item-1">
-				<a class="menu-link-1" href="<?= BASE_URL; ?>gallery">GALLERY</a>
+				<a class="menu-link-1" href="<?= BASE_URL; ?>artworks">ARTWORKS</a>
 			</div>
 			<div class="menu-separator-1"></div>
 			<div class="menu-item-1">
-				<a class="menu-link-1" href="<?= BASE_URL; ?>how-we-do-it">HOW WE DO IT</a>
+				<a class="menu-link-1" href="<?= BASE_URL; ?>gallery">GALLERY</a>
 			</div>
 			<!-- <div class="menu-separator-1"></div>
 			<div class="menu-item-1">
