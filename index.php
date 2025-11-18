@@ -6,6 +6,7 @@ define('VIEWS', PAGES . '/views');
 require_once APP . '/Config.php';
 require_once APP . '/Controller.php';
 require_once APP . '/Frames.php';
+require_once APP . '/Works.php';
 require_once APP . '/Router.php';
 require_once APP . '/Routes.php';
 $router = new Router();

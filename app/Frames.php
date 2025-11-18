@@ -16,21 +16,14 @@ class Frames {
 	public function frame_745037() {
 		$this->frame_render('roma_745037', 'Frame Detail: 745037');
 	}
-
-	public function frame($id) {
-		var_dump($id);
-		switch ($id) {
-			case 745037:
-				$this->render('frame/745037', 'Frame Detail: 745037');
-				var_dump($id);
-				break;
-            case 'eliminar':
-                break; // Sale del switch
-            case 'actualizar':
-                break; // Sale del switch
-            default:
-                break; // Aunque no es estrictamente necesario aquí, es buena práctica
-		}
+	public function frame_535046() {
+		$this->frame_render('roma_535046', 'Frame Detail: 535046');
+	}
+	public function frame_869048() {
+		$this->frame_render('roma_869048', 'Frame Detail: 869048');
+	}
+	public function frame_606052() {
+		$this->frame_render('roma_606052', 'Frame Detail: 606052');
 	}
 }
 ?>

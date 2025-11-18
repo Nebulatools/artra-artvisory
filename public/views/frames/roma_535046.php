@@ -17,23 +17,25 @@
             <div class="dual-left-column-60">
                 <div class="dual-image-60">
                     <picture>
-                        <source srcset="<?= BASE_URL; ?>public/assets/image/frame_detail/745037-1.png" media="(max-width: 678px)">
-                        <img class="dual-img-61" src="<?= BASE_URL; ?>public/assets/image/frame_detail/745037-1.png" alt="Frame Image">
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/frame_detail/535046-1.png" media="(max-width: 678px)">
+                        <img class="dual-img-61" src="<?= BASE_URL; ?>public/assets/image/frame_detail/535046-1.png" alt="Frame Image">
                     </picture>
                 </div>
             </div>
             <div class="dual-right-column-60">
                 <div class="dual-content-61">
-                    <div class="dual-header-60">LAVO 745037</div>
-                    <p class="dual-title-60">Royal Lilac</p>
+                    <div class="dual-header-60">LAVO 535046</div>
+                    <p class="dual-title-60">Orient Red</p>
                     <p class="dual-description-60">W 3 1/2" H 1 1/2" R 1/2"</p>
-                    <p class="dual-description-60"><i>Gloss</i></p>
+                    <p class="dual-description-60"><i>Colorant</i></p>
                     <div class="dual-separator-60"></div>
                     <div class="dual-description-60">
                         <p class="frame-text-2">
-                            A fusion of traditional carvings enveloped in
-                            high gloss lacquer. Meet our brightest, boldest
-                            Lavo additions yet.
+                            Lavo is a bright and bold fusion of traditional
+                            carvings enveloped in modern high gloss lacquer
+                            &#8212; all created, blended and applied by
+                            master craftsmen. Available in sumptuous,
+                            electric colors.
                         </p>
                         <div class="frame-description-2"></div>
                         <p class="frame-text-3"><i>Sustainability</i></p>
@@ -49,16 +51,16 @@
                     <div class="dual-left-column-61">
                         <div class="dual-image-60">
                             <picture>
-                                <source srcset="<?= BASE_URL; ?>public/assets/image/frame_detail/745037-2.png" media="(max-width: 678px)">
-                                <img class="dual-img-62" src="<?= BASE_URL; ?>public/assets/image/frame_detail/745037-2.png" alt="Frame Image">
+                                <source srcset="<?= BASE_URL; ?>public/assets/image/frame_detail/535046-2.png" media="(max-width: 678px)">
+                                <img class="dual-img-62" src="<?= BASE_URL; ?>public/assets/image/frame_detail/535046-2.png" alt="Frame Image">
                             </picture>
                         </div>
                     </div>
                     <div class="dual-right-column-61">
                         <div class="dual-image-60">
                             <picture>
-                                <source srcset="<?= BASE_URL; ?>public/assets/image/frame_detail/745037-3.png" media="(max-width: 678px)">
-                                <img class="dual-img-62" src="<?= BASE_URL; ?>public/assets/image/frame_detail/745037-3.png" alt="Frame Image">
+                                <source srcset="<?= BASE_URL; ?>public/assets/image/frame_detail/535046-3.png" media="(max-width: 678px)">
+                                <img class="dual-img-62" src="<?= BASE_URL; ?>public/assets/image/frame_detail/535046-3.png" alt="Frame Image">
                             </picture>
                         </div>
                     </div>

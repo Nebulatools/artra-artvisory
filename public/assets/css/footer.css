@@ -1,3 +1,4 @@
+/* MOBILE DEVICES ( <= 678px ) */
 .footer {
 	padding: 20px;
 	background: var(--white-gray);
@@ -30,9 +31,9 @@
 .footer-address-1,
 .footer-copyright-1,
 .footer-description-1 {
-	font-size: 16px;
+	font-size: 14px;
 	font-weight: 500;
-	line-height: 1em;
+	line-height: 1.1em;
 }
 
 .footer-title-1 {
@@ -79,13 +80,22 @@
 	opacity: 0.7;
 }
 
-@media screen and (min-width: 600px) {
+/* DESKTOP DEVICES ( > 678px ) */
+@media screen and (min-width: 678px) {
 	.footer {
 		padding: 24px 40px;
 		margin-left: 109px;
 		margin-right: 109px;
 		border-left: 1px solid #000;
 		border-right: 1px solid #000;
+	}
+
+	.footer-link-1,
+	.footer-title-1,
+	.footer-address-1,
+	.footer-copyright-1,
+	.footer-description-1 {
+		font-size: 16px;
 	}
 
 	.footer-content-1,

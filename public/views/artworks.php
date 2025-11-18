@@ -27,17 +27,19 @@
             </div>
         </div>
     </section>
-    <section class="artworks-section-51">
-        <h1 class="artworks-title-51">UPCOMING GALLERY.</h1>
+    <section class="artworks-title-section-50">
+        <h1 class="artworks-title-50">CURATED MOMENTS.</h1>
     </section>
     <section class="dual-section-50">
         <div class="dual-grid-50">
             <div class="dual-left-column-51">
                 <div class="dual-image-50">
-                    <picture>
-                        <source srcset="<?= BASE_URL; ?>public/assets/image/artworks/img-03.png" media="(max-width: 678px)">
-                        <img class="dual-img-50" src="<?= BASE_URL; ?>public/assets/image/artworks/img-03.png" alt="Artwork Image">
-                    </picture>
+                    <a class="artworks-link-50" href="<?= BASE_URL; ?>work/01">
+                        <picture>
+                            <source srcset="<?= BASE_URL; ?>public/assets/image/artworks/img-03.png" media="(max-width: 678px)">
+                            <img class="dual-img-50" src="<?= BASE_URL; ?>public/assets/image/artworks/img-03.png" alt="Artwork Image">
+                        </picture>
+                    </a>
                 </div>
             </div>
             <div class="dual-right-column-51">
@@ -80,10 +82,12 @@
             </div>
             <div class="dual-right-column-50">
                 <div class="dual-image-50">
-                    <picture>
-                        <source srcset="<?= BASE_URL; ?>public/assets/image/artworks/img-04.png" media="(max-width: 678px)">
-                        <img class="dual-img-50" src="<?= BASE_URL; ?>public/assets/image/artworks/img-04.png" alt="Artwork Image">
-                    </picture>
+                    <a class="artworks-link-50" href="<?= BASE_URL; ?>work/02">
+                        <picture>
+                            <source srcset="<?= BASE_URL; ?>public/assets/image/artworks/img-04.png" media="(max-width: 678px)">
+                            <img class="dual-img-50" src="<?= BASE_URL; ?>public/assets/image/artworks/img-04.png" alt="Artwork Image">
+                        </picture>
+                    </a>
                 </div>
             </div>
         </div>
@@ -92,10 +96,12 @@
         <div class="dual-grid-50">
             <div class="dual-left-column-51">
                 <div class="dual-image-50">
-                    <picture>
-                        <source srcset="<?= BASE_URL; ?>public/assets/image/artworks/img-05.png" media="(max-width: 678px)">
-                        <img class="dual-img-50" src="<?= BASE_URL; ?>public/assets/image/artworks/img-05.png" alt="Artwork Image">
-                    </picture>
+                    <a class="artworks-link-50" href="<?= BASE_URL; ?>work/03">
+                        <picture>
+                            <source srcset="<?= BASE_URL; ?>public/assets/image/artworks/img-05.png" media="(max-width: 678px)">
+                            <img class="dual-img-50" src="<?= BASE_URL; ?>public/assets/image/artworks/img-05.png" alt="Artwork Image">
+                        </picture>
+                    </a>
                 </div>
             </div>
             <div class="dual-right-column-51">
@@ -138,10 +144,12 @@
             </div>
             <div class="dual-right-column-50">
                 <div class="dual-image-50">
-                    <picture>
-                        <source srcset="<?= BASE_URL; ?>public/assets/image/artworks/img-06.png" media="(max-width: 678px)">
-                        <img class="dual-img-50" src="<?= BASE_URL; ?>public/assets/image/artworks/img-06.png" alt="Artwork Image">
-                    </picture>
+                    <a class="artworks-link-50" href="<?= BASE_URL; ?>work/04">
+                        <picture>
+                            <source srcset="<?= BASE_URL; ?>public/assets/image/artworks/img-06.png" media="(max-width: 678px)">
+                            <img class="dual-img-50" src="<?= BASE_URL; ?>public/assets/image/artworks/img-06.png" alt="Artwork Image">
+                        </picture>
+                    </a>
                 </div>
             </div>
         </div>

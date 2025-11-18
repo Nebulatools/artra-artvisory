@@ -35,7 +35,7 @@
                     <h2 class="dual-title-10">DISCOVER OUR<br>CATALOGUE.</h2>
                 </div>
                 <div class="dual-image-10">
-                    <a class="dual-img-10" href="<?= BASE_URL; ?>">
+                    <a class="dual-img-10" href="<?= BASE_URL; ?>frames">
                         <img class="dual-img-10" src="<?= BASE_URL; ?>public/assets/image/home/img-04.png" alt="Home Image">
                     </a>
                 </div>

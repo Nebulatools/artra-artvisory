@@ -17,23 +17,23 @@
             <div class="dual-left-column-60">
                 <div class="dual-image-60">
                     <picture>
-                        <source srcset="<?= BASE_URL; ?>public/assets/image/frame_detail/745037-1.png" media="(max-width: 678px)">
-                        <img class="dual-img-61" src="<?= BASE_URL; ?>public/assets/image/frame_detail/745037-1.png" alt="Frame Image">
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/frame_detail/606052-1.png" media="(max-width: 678px)">
+                        <img class="dual-img-61" src="<?= BASE_URL; ?>public/assets/image/frame_detail/606052-1.png" alt="Frame Image">
                     </picture>
                 </div>
             </div>
             <div class="dual-right-column-60">
                 <div class="dual-content-61">
-                    <div class="dual-header-60">LAVO 745037</div>
-                    <p class="dual-title-60">Royal Lilac</p>
-                    <p class="dual-description-60">W 3 1/2" H 1 1/2" R 1/2"</p>
-                    <p class="dual-description-60"><i>Gloss</i></p>
+                    <div class="dual-header-60">ELEGANZA 606052</div>
+                    <p class="dual-title-60">Fog Shagreen</p>
+                    <p class="dual-description-60">W 4 1/8" H 2 1/4" R 7/8"</p>
+                    <p class="dual-description-60"><i>Colorant</i></p>
                     <div class="dual-separator-60"></div>
                     <div class="dual-description-60">
                         <p class="frame-text-2">
-                            A fusion of traditional carvings enveloped in
-                            high gloss lacquer. Meet our brightest, boldest
-                            Lavo additions yet.
+                            As the name suggests, the Eleganza Collection is
+                            classically elegant with clean geometric lines
+                            enhanced by gold and silver leaf finishes.
                         </p>
                         <div class="frame-description-2"></div>
                         <p class="frame-text-3"><i>Sustainability</i></p>
@@ -49,16 +49,16 @@
                     <div class="dual-left-column-61">
                         <div class="dual-image-60">
                             <picture>
-                                <source srcset="<?= BASE_URL; ?>public/assets/image/frame_detail/745037-2.png" media="(max-width: 678px)">
-                                <img class="dual-img-62" src="<?= BASE_URL; ?>public/assets/image/frame_detail/745037-2.png" alt="Frame Image">
+                                <source srcset="<?= BASE_URL; ?>public/assets/image/frame_detail/606052-2.png" media="(max-width: 678px)">
+                                <img class="dual-img-62" src="<?= BASE_URL; ?>public/assets/image/frame_detail/606052-2.png" alt="Frame Image">
                             </picture>
                         </div>
                     </div>
                     <div class="dual-right-column-61">
                         <div class="dual-image-60">
                             <picture>
-                                <source srcset="<?= BASE_URL; ?>public/assets/image/frame_detail/745037-3.png" media="(max-width: 678px)">
-                                <img class="dual-img-62" src="<?= BASE_URL; ?>public/assets/image/frame_detail/745037-3.png" alt="Frame Image">
+                                <source srcset="<?= BASE_URL; ?>public/assets/image/frame_detail/606052-3.png" media="(max-width: 678px)">
+                                <img class="dual-img-62" src="<?= BASE_URL; ?>public/assets/image/frame_detail/606052-3.png" alt="Frame Image">
                             </picture>
                         </div>
                     </div>

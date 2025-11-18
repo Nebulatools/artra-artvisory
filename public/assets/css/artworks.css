@@ -6,15 +6,6 @@
 	max-width: var(--site-max-width);
 }
 
-/* .artworks-section-51 {
-	margin: 0;
-	border: none;
-	padding-top: 0;
-	padding-bottom: 0;
-	padding-left: var(--gutter);
-	padding-right: var(--gutter);
-} */
-
 .artworks-image-50,
 .artworks-image-51,
 .dual-image-50 {
@@ -31,7 +22,9 @@
 
 .artworks-img-50,
 .artworks-full-img-50,
-.dual-img-50 {
+.dual-img-50,
+.dual-img-51,
+.dual-img-52 {
 	width: 100%;
 	height: auto;
 	border: none;
@@ -42,6 +35,34 @@
 
 .dual-img-50 {
    max-height: 600px;
+}
+
+.dual-img-52 {
+	max-height: 432px;
+}
+
+.artworks-title-section-50 {
+	display: flex;
+	overflow: hidden;
+	text-align: left;
+	padding: 20px 20px;
+	white-space: nowrap;
+	margin-left: var(--gutter);
+	margin-right: var(--gutter);
+	border-top: 1px solid var(--black);
+	border-left: 1px solid var(--black);
+	border-right: 1px solid var(--black);
+	border-bottom: none;
+}
+
+.artworks-title-50 {
+	text-align: left;
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 1.1em;
+	color: var(--black);
+	text-transform: uppercase;
+	font-family: 'Sohne';
 }
 
 .dual-section-50,
@@ -81,44 +102,22 @@
 
 .dual-header-50 {
 	text-align: left;
+	font-size: 20px;
 	font-weight: 500;
-	line-height: 1.05;
+	line-height: 1.1em;
 	color: var(--black);
-	font-size: var(--fs-title-15);
+	margin-bottom: 30px;
 	text-transform: uppercase;
 	font-family: 'Sohne';
-	margin-bottom: 30px;
 }
 
 .dual-description-50 {
-	line-height: 120%;
-	margin: 0 0 15px 0;
+	font-size: 10px;
+	line-height: 1.1em;
 	color: var(--black);
 	font-family: 'CenturyReg';
-	font-size: clamp(12px, calc(12px + 1.1vw), 14px);
-}
-
-/* .left-description-20,
-.right-description-20 {
-   font-size: 10px;
-   line-height: 1.1em;
-   color: var(--black);
-   font-family: 'CenturyReg';
-
-	font-size: 14px;
-	line-height: 14px;
-	margin-bottom: 30px;
-	color: var(--black);
-	font-family: 'Century Old Style Std', serif;
-
-} */
-
-.dual-text-50 {
-	line-height: 120%;
-	margin: 0 0 15px 0;
-	color: var(--black);
-	font-family: 'CenturyReg';
-	font-size: clamp(12px, calc(12px + 1.1vw), 16px);
+	/* margin: 0 0 15px 0; */
+	/* font-family: 'Century Old Style Std', serif; */
 }
 
 .dual-right-column-50 {
@@ -131,26 +130,42 @@
 	border-bottom: none;
 }
 
-.artworks-section-51 {
+.artworks-section-52 {
 	display: flex;
 	overflow: hidden;
 	text-align: left;
-	padding: 20px 20px;
+	padding: 10px;
 	white-space: nowrap;
 	margin-left: var(--gutter);
 	margin-right: var(--gutter);
+	background: var(--yellow-artra);
 	border-top: 1px solid var(--black);
 	border-left: 1px solid var(--black);
 	border-right: 1px solid var(--black);
 	border-bottom: none;
 }
 
+.artworks-button-50 {
+	padding: 0;
+	cursor: pointer;
+	font-size: 14px;
+	min-width: 100px;
+	text-align: left;
+	font-weight: bold;
+	line-height: 1.1em;
+	color: var(--black);
+	align-self: contain;
+	display: inline-block;
+	background: var(--yellow-artra);
+	font-family: 'Century Old Style Std', serif;
+}
+
 .artworks-title-51 {
 	text-align: left;
+	font-size: 24px;
 	font-weight: 500;
-	line-height: 1.05;
+	line-height: 1.1em;
 	color: var(--black);
-	font-size: var(--fs-title-15);
 	text-transform: uppercase;
 	font-family: 'Sohne';
 }
@@ -177,11 +192,10 @@
 }
 
 .dual-title-50 {
-	color: var(--black);
+	font-size: 12px;
 	font-weight: 500;
-	line-height: 1.05;
-	margin: 0 0 5px 0;
-	font-size: var(--fs-title-10);
+	line-height: 1.1em;
+	color: var(--black);
 	font-family: 'Sohne';
 }
 
@@ -192,14 +206,46 @@
 	background-color: var(--black);
 }
 
+.dual-left-column-52 {
+	width: 50%;
+	align-items: center;
+	justify-content: center;
+	border-top: 1px solid var(--black);
+	border-left: none;
+	border-right: 1px solid var(--black);
+	border-bottom: none;
+}
+
+.dual-right-column-52 {
+	width: 50%;
+	position: relative;
+	flex-direction: column;
+	justify-content: space-between;
+	border-top: 1px solid var(--black);
+	border-left: none;
+	border-right: none;
+	border-bottom: none;
+}
+
 /* DESKTOP DEVICES ( > 678px ) */
 @media screen and (min-width: 678px) {
+	.dual-header-50 {
+		font-size: clamp(22px, calc(12px + 1.1vw), 32px);
+	}
+
+	.dual-description-50 {
+		font-size: 16px;
+	}
+
+	.artworks-title-51 {
+		font-size: clamp(28px, calc(12px + 1.1vw), 48px);
+	}
+
+	.dual-title-50 {
+		font-size: 18px;
+	}
+
    .dual-content-50 {
       padding: 30px;
-   }
-
-   .left-description-50,
-   .right-description-50 {
-      font-size: 16px;
    }
 }

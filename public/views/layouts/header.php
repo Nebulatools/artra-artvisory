@@ -27,10 +27,10 @@
 			<div class="menu-item-1">
 				<a class="menu-link-1" href="<?= BASE_URL; ?>artworks">ARTWORKS</a>
 			</div>
-			<!-- <div class="menu-separator-1"></div>
+			<div class="menu-separator-1"></div>
 			<div class="menu-item-1">
 				<a class="menu-link-1" href="<?= BASE_URL; ?>frames">FRAMES CATALOGUE</a>
-			</div> -->
+			</div>
 			<div class="menu-separator-1"></div>
 			<div class="menu-item-1">
 				<a class="menu-link-1" href="<?= BASE_URL; ?>gallery">GALLERY</a>
