@@ -9,8 +9,8 @@
             &#x2B05; <a class="artworks-button-50" href="<?= BASE_URL; ?>artworks">Go Back</a>
         </div>
     </section>
-    <section class="artworks-section-51">
-        <h1 class="artworks-title-51">DISCOVER THE PIECE</h1>
+    <section class="artworks-title-section-50">
+        <h1 class="artworks-title-50">DISCOVER THE PIECE</h1>
     </section>
     <section class="dual-section-50">
         <div class="dual-grid-50">
