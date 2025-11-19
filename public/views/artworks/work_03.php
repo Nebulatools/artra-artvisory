@@ -17,8 +17,8 @@
             <div class="dual-left-column-50">
                 <div class="dual-image-50">
                     <picture>
-                        <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/01-01.png" media="(max-width: 678px)">
-                        <img class="dual-img-51" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/01-01.png" alt="Artwork Image">
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/03-01.png" media="(max-width: 678px)">
+                        <img class="dual-img-51" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/03-01.png" alt="Artwork Image">
                     </picture>
                 </div>
             </div>
@@ -39,16 +39,16 @@
                     <div class="dual-left-column-52">
                         <div class="dual-image-50">
                             <picture>
-                                <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/01-02.png" media="(max-width: 678px)">
-                                <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/01-02.png" alt="Artwork Image">
+                                <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/03-02.png" media="(max-width: 678px)">
+                                <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/03-02.png" alt="Artwork Image">
                             </picture>
                         </div>
                     </div>
                     <div class="dual-right-column-52">
                         <div class="dual-image-50">
                             <picture>
-                                <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/01-03.png" media="(max-width: 678px)">
-                                <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/01-03.png" alt="Artwork Image">
+                                <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/03-03.png" media="(max-width: 678px)">
+                                <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/03-03.png" alt="Artwork Image">
                             </picture>
                         </div>
                     </div>
