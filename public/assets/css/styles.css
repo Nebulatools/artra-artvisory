@@ -42,7 +42,7 @@
 	--site-max-height: 600px;
 	--site-max-width: 3000px;
 	--gutter-y: 0px;
-	--gutter-x: clamp(20px, 4vw, 120px);
+	--gutter-x: clamp(20px, 4vw, 20px);
 	--gutter: var(--gutter-x);
 	--img-max-width: clamp(80px, 18vh, 600px);
 	--img-max-height: clamp(100px, 18vh, 600px);

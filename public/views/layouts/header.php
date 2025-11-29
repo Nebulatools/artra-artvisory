@@ -9,7 +9,20 @@
 					<img class="nav-logo-1" src="<?= BASE_URL; ?>/public/assets/svg/logo.svg" alt="Artra">
 				</a>
 			</div>
-			<div class="nav-right-1"></div>
+			<div class="nav-right-1">
+				<div class="nav-grid-1">
+					<div class="nav-link-1">
+						<a class="nav-locator-1" href="<?= BASE_URL; ?>">
+							<img class="nav-pin-1" src="<?= BASE_URL; ?>/public/assets/image/misc/pin.png" alt="Locator">&nbsp;STORE LOCATOR
+						</a>
+					</div>
+					<div class="nav-link-1">
+						<a class="nav-locator-1" href="<?= BASE_URL; ?>">
+							<img class="nav-mail-1" src="<?= BASE_URL; ?>public/assets/image/misc/email.png" alt="Contact">&nbsp;CONTACT US
+						</a>
+					</div>
+				</div>
+			</div>
 		</nav>
 		<div class="menu-dropdown-1" id="dropdownMenu">
 			<div class="menu-item-1">

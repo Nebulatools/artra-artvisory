@@ -51,8 +51,8 @@
                     <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/745037.png" alt="Frame Image">
                 </div>
                 <div class="dual-content-60">
-                    <h3 class="dual-header-60">Frame 745037</h3>
-                    <p class="dual-title-60">Roma Lavo</p><br>
+                    <!-- <h3 class="dual-header-60">Frame 745037</h3>
+                    <p class="dual-title-60">Roma Lavo</p><br> -->
                     <a class="dual-description-61" href="<?= BASE_URL; ?>frame/745037">Specs</a>
                 </div>
             </div>
@@ -61,8 +61,8 @@
                     <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/535046.png" alt="Frame Image">
                 </div>
                 <div class="dual-content-60">
-                    <h3 class="dual-header-60">Frame 535046</h3>
-                    <p class="dual-title-60">Roma Lavo</p><br>
+                    <!-- <h3 class="dual-header-60">Frame 535046</h3>
+                    <p class="dual-title-60">Roma Lavo</p><br> -->
                     <a class="dual-description-61" href="<?= BASE_URL; ?>frame/535046">Specs</a>
                 </div>
             </div>
@@ -75,8 +75,8 @@
                     <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/869048.png" alt="Frame Image">
                 </div>
                 <div class="dual-content-60">
-                    <h3 class="dual-header-60">Frame 869048</h3>
-                    <p class="dual-title-60">Roma Lavo</p><br>
+                    <!-- <h3 class="dual-header-60">Frame 869048</h3>
+                    <p class="dual-title-60">Roma Lavo</p><br> -->
                     <a class="dual-description-61" href="<?= BASE_URL; ?>frame/869048">Specs</a>
                 </div>
             </div>
@@ -85,8 +85,8 @@
                     <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/606052.png" alt="Frame Image">
                 </div>
                 <div class="dual-content-60">
-                    <h3 class="dual-header-60">Frame 606052</h3>
-                    <p class="dual-title-60">Roma Eleganza</p><br>
+                    <!-- <h3 class="dual-header-60">Frame 606052</h3>
+                    <p class="dual-title-60">Roma Eleganza</p><br> -->
                     <a class="dual-description-61" href="<?= BASE_URL; ?>frame/606052">Specs</a>
                 </div>
             </div>
