@@ -1,3 +1,4 @@
+/* MOBILE DEVICES ( <= 678px ) */
 .nav-header-1 {
     width: 100%;
     z-index: 100;
@@ -71,7 +72,7 @@
     display: block !important;
     opacity: 1;
     max-height: 500px;
-    padding: 20px 0;
+    padding: 0px;
 }
 
 .menu-item-1 {
@@ -84,13 +85,13 @@
 }
 
 .menu-link-1 {
-    line-height: 0.9;
+    line-height: 1em;
     font-weight: 500;
     color: var(--black);
     letter-spacing: -1%;
     font-family: 'Sohne';
     text-decoration: none;
-    font-size: clamp(40px, calc(12px + 1.1vw), 56px);
+    font-size: 22px;
     transition: opacity 0.3s ease, transform 0.2s ease;
 }
 
@@ -129,4 +130,12 @@
     color: var(--black);
     font-family: 'CenturyItlc';
     font-size: clamp(14px, calc(12px + 1.1vw), 16px);
+}
+
+/* DESKTOP DEVICES ( > 678px ) */
+@media screen and (min-width: 678px) {
+    .menu-link-1 {
+        font-weight: 500;
+        font-size: clamp(40px, calc(12px + 1.1vw), 56px);
+    }
 }

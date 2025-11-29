@@ -29,11 +29,11 @@
 			</div> -->
 			<div class="menu-separator-1"></div>
 			<div class="menu-item-1">
-				<a class="menu-link-1" href="<?= BASE_URL; ?>frames">FRAMES CATALOGUE</a>
+				<a class="menu-link-1" href="<?= BASE_URL; ?>frames">DISCOVER OUR CATALOGUE</a>
 			</div>
 			<div class="menu-separator-1"></div>
 			<div class="menu-item-1">
-				<a class="menu-link-1" href="<?= BASE_URL; ?>artworks">ARTWORKS</a>
+				<a class="menu-link-1" href="<?= BASE_URL; ?>artworks">SOME OF OUR WORK</a>
 			</div>
 			<div class="menu-separator-1"></div>
 			<div class="menu-item-1">

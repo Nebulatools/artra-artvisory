@@ -26,8 +26,9 @@
                             <a class="footer-link-1" href="<?= BASE_URL; ?>gallery">GALLERY</a>
                             <!-- <a class="footer-link-1" href="<?= BASE_URL; ?>catalogue">OUR CATALOGUE</a> -->
                             <!-- <a class="footer-link-1" href="#">FAQ</a> -->
-                            <a class="footer-link-1" href="#">CONTACT</a>
-                            <a class="footer-link-1" href="https://instagram.com/artra.artvisory/">INSTAGRAM</a>
+                            <a class="footer-link-1" href="mailto:monica@artra-artvisory.com">CONTACT 1</a>
+                            <a class="footer-link-1" href="https://wa.me/8119117717">CONTACT 2</a>
+                            <a class="footer-link-1" target="_blank" href="https://instagram.com/artra.artvisory/">INSTAGRAM</a>
                         </div>
                     </div>
                 </div>

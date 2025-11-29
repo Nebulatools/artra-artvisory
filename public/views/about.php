@@ -11,7 +11,8 @@
                     <div class="left-description-20">
                         ARTRA was born from the need to honor what art
                         makes us feel &#8212; from the belief that a frame is
-                        not a boundary, but a continuation of the story.<br>
+                        not a boundary, but a continuation of the story.
+                        <br><br>
                         Think sculptural textures, deep tones, and bold
                         simplicity &#8212; frames that do more than surround
                         the art; they complete it.
@@ -26,7 +27,7 @@
             <div class="dual-right-column-20">
                 <div class="dual-right-image-20">
                     <picture>
-                        <source srcset="<?= BASE_URL; ?>public/assets/image/about/img-02.png" media="(max-width: 678px)">
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/about/img-02-m.png" media="(max-width: 678px)">
                         <img class="dual-img-20" src="<?= BASE_URL; ?>public/assets/image/about/img-02.png" alt="About Image">
                     </picture>
                 </div>
@@ -38,7 +39,7 @@
             <div class="dual-left-column-21">
                 <div class="dual-left-image-20">
                     <picture>
-                        <source srcset="<?= BASE_URL; ?>public/assets/image/about/img-03.png" media="(max-width: 678px)">
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/about/img-03-m.png" media="(max-width: 678px)">
                         <img class="dual-img-20" src="<?= BASE_URL; ?>public/assets/image/about/img-03.png" alt="About Image">
                     </picture>
                 </div>
@@ -46,14 +47,16 @@
             <div class="dual-right-column-21">
                 <div class="dual-content-20">
                     <div class="right-description-20">
-                        ARTRA exists in the space where art meets emotion.<br>
+                        ARTRA exists in the space where design and
+                        emotion meet.<br>
                         We frame with perspective &#8212; shaping how a piece
                         lives in its environment, how it breathes with light,
-                        with space &#8212; how it meets the eye. Every
-                        decision is deliberate: proportion, texture, color.
+                        with space &#8212; how it meets the eye.<br>
+                        Every decision is deliberate: proportion, texture,
+                        color.
                         <br><br>
                         <i>
-                            Design that doesn't interrupt, but clarifies.
+                            Design that doesn't interrupt &#8212; it clarifies.
                         </i>
                     </div>
                 </div>
