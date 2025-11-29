@@ -51,7 +51,7 @@
 
 .footer-copyright-1 {
 	font-family: 'Inter', sans-serif;
-	margin-top: clamp(60px, 4vw, 120px);
+	margin-top: clamp(40px, 4vw, 120px);
 }
 
 .footer-right-1,
@@ -74,6 +74,11 @@
 	text-decoration: none;
 	transition: opacity 0.3s ease;
 	font-family: 'Inter', sans-serif;
+}
+
+.footer-img-1 {
+	width: 5%;
+	height: 5%;
 }
 
 .footer-link-1:hover {
@@ -102,7 +107,12 @@
 	.footer-left-1,
 	.footer-right-1,
 	.footer-links-1 {
-		gap: 128px;
+		gap: 50px;
 		flex-direction: row;
+	}
+
+	.footer-img-1 {
+		width: 80%;
+		height: 80%;
 	}
 }
