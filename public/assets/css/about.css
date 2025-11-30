@@ -27,8 +27,6 @@
    border: none;
    padding-top: 0;
    padding-bottom: 0;
-   padding-left: var(--gutter);
-   padding-right: var(--gutter);
 }
 
 .dual-grid-20 {
@@ -115,6 +113,10 @@
 
 /* DESKTOP DEVICES ( > 678px ) */
 @media screen and (min-width: 678px) {
+   .about-main-20 {
+      padding-inline: var(--gutter-2);
+   }
+
    .dual-content-20 {
       padding: 30px 60px 30px 30px;
    }

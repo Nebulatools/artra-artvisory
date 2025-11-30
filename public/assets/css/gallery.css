@@ -28,8 +28,6 @@
    overflow: hidden;
    padding: 20px 20px;
    white-space: nowrap;
-   margin-left: var(--gutter);
-	margin-right: var(--gutter);
 	border-top: 1px solid var(--black);
    border-left: 1px solid var(--black);
    border-right: 1px solid var(--black);
@@ -51,8 +49,6 @@
    border: none;
    padding-top: 0;
    padding-bottom: 0;
-   padding-left: var(--gutter);
-   padding-right: var(--gutter);
 }
 
 .gallery-image-40,
@@ -74,8 +70,6 @@
    border: none;
    padding-top: 0;
    padding-bottom: 0;
-   padding-left: var(--gutter);
-   padding-right: var(--gutter);
 }
 
 .dual-grid-40 {
@@ -162,6 +156,10 @@
 
 /* DESKTOP DEVICES ( > 678px ) */
 @media screen and (min-width: 678px) {
+   .gallery-main-40 {
+      padding-inline: var(--gutter-2);
+   }
+
    .dual-content-40 {
       padding: 30px 60px 30px 30px;
    }

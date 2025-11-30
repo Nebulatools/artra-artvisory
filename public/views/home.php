@@ -35,14 +35,14 @@
                     <h2 class="dual-title-10">DISCOVER OUR<br>CATALOGUE.</h2>
                 </div>
                 <div class="dual-image-10">
-                    <a class="dual-img-10" href="<?= BASE_URL; ?>frames">
+                    <a class="dual-img-10" href="<?= BASE_URL; ?>"><!-- frames -->
                         <img class="dual-img-10" src="<?= BASE_URL; ?>public/assets/image/home/img-04.png" alt="Home Image">
                     </a>
                 </div>
             </div>
             <div class="dual-right-column-11">
                 <div class="dual-image-10">
-                    <a class="dual-img-10" href="<?= BASE_URL; ?>artworks">
+                    <a class="dual-img-10" href="<?= BASE_URL; ?>"><!-- artworks -->
                         <img class="dual-img-10" src="<?= BASE_URL; ?>public/assets/image/home/img-05.png" alt="Home Image">
                     </a>
                 </div>

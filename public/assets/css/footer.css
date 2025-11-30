@@ -1,6 +1,6 @@
 /* MOBILE DEVICES ( <= 678px ) */
 .footer {
-	padding: 20px;
+	padding-inline: var(--gutter);
 	background: var(--white-gray);
 	border-top: 1px solid var(--black);
 }
@@ -88,7 +88,7 @@
 /* DESKTOP DEVICES ( > 678px ) */
 @media screen and (min-width: 678px) {
 	.footer {
-		padding: 24px 40px;
+		padding: 20px 40px;
 		margin-left: 40px;
 		margin-right: 40px;
 		border-left: 1px solid #000;

@@ -47,8 +47,6 @@
    text-align: left;
    padding: 20px 20px;
    white-space: nowrap;
-   margin-left: var(--gutter);
-   margin-right: var(--gutter);
    border-top: 1px solid var(--black);
    border-left: 1px solid var(--black);
    border-right: 1px solid var(--black);
@@ -71,8 +69,6 @@
    border: none;
    padding-top: 0;
    padding-bottom: 0;
-   padding-left: var(--gutter);
-   padding-right: var(--gutter);
 }
 
 .dual-grid-60 {
@@ -150,8 +146,6 @@
    text-align: left;
    padding: 10px;
    white-space: nowrap;
-   margin-left: var(--gutter);
-   margin-right: var(--gutter);
    background: var(--yellow-artra);
    border-top: 1px solid var(--black);
    border-left: 1px solid var(--black);
@@ -232,6 +226,10 @@
 
 /* DESKTOP DEVICES ( > 678px ) */
 @media screen and (min-width: 678px) {
+   .frames-main-60 {
+      padding-inline: var(--gutter-2);
+   }
+   
    .dual-header-60 {
       font-size: clamp(22px, calc(12px + 1.1vw), 32px);
    }
