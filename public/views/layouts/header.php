@@ -2,7 +2,10 @@
 	<header>
 		<nav class="nav-header-1">
 			<div class="nav-left-1">
-				<span class="nav-menu-1" id="menuToggle">MENU</span>
+				<span class="nav-menu-1" id="menuToggle">
+					<p class="nav-menu-text-1">☰</p>
+					<p class="nav-menu-text-2">MENU</p>
+				</span>
 			</div>
 			<div class="nav-center-1">
 				<a href="<?= BASE_URL; ?>">
@@ -10,18 +13,19 @@
 				</a>
 			</div>
 			<div class="nav-right-1">
-				<div class="nav-grid-1">
-					<div class="nav-link-1">
+				<!-- <div class="nav-grid-1">
+					<div class="nav-link-1"> -->
 						<a class="nav-locator-1" href="<?= BASE_URL; ?>">
 							<img class="nav-pin-1" src="<?= BASE_URL; ?>/public/assets/image/misc/pin.png" alt="Locator">&nbsp;STORE LOCATOR
 						</a>
-					</div>
-					<div class="nav-link-1">
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+					<!-- </div>
+					<div class="nav-link-1"> -->
 						<a class="nav-locator-1" href="<?= BASE_URL; ?>">
 							<img class="nav-mail-1" src="<?= BASE_URL; ?>public/assets/image/misc/email.png" alt="Contact">&nbsp;CONTACT US
 						</a>
-					</div>
-				</div>
+					<!-- </div>
+				</div> -->
 			</div>
 		</nav>
 		<div class="menu-dropdown-1" id="dropdownMenu">

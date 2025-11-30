@@ -35,5 +35,8 @@ class Controller {
 	public function hwdi() {
 		$this->render('hwdi', 'How We Do It');
 	}
+	public function location() {
+		$this->render('location', 'Where To Find Us');
+	}
 }
 ?>

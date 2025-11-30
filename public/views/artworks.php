@@ -9,11 +9,25 @@
             <div class="dual-left-column-50">
                 <div class="dual-content-50">
                     <div class="dual-description-50">
-                        ARTRA exists in the space between art and emotion.<br>
-                        We frame with perspective&#8212; shaping how art lives<br>
-                        in its environment, how it breathes with light, with<br>
-                        space&#8212; how it meets the eye.<br>
-                        Every decision is deliberate: proportion, texture, color.
+                        We frame everything from limited-edition prints and
+                        fine art paintings to photography, sports jerseys
+                        and memorabilia.
+                        <br><br>
+                        Explore a selection of our work to see how materials,
+                        profiles and creative choices converge &#8212; revealing
+                        the aestethic language behind our craft.
+                        <br><br>
+                        Each project reveals our obsession with proportion,
+                        depth and restraint &#8212; where the frame becomes part
+                        of the art's dialogue.
+                        <br><br>
+                        Every piece tells a story.<br>
+                        From bold comtemporary compositions to quiet
+                        minimalist installations &#8212; design that doesn't shout;
+                        it resonates.
+                        <br><br>
+                        The pieces that matter to you &#8212; the ones that hold a
+                        story &#8212; deserve a frame.
                     </div>
                 </div>
             </div>

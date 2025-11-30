@@ -8,6 +8,7 @@ function configureRoutes($router) {
     /* $router->add('/frame_detail', ['controller' => 'Controller', 'action' => 'frame_detail']); */
     $router->add('/gallery', ['controller' => 'Controller', 'action' => 'gallery']);
     $router->add('/how-we-do-it', ['controller' => 'Controller', 'action' => 'hwdi']);
+    $router->add('/location', ['controller' => 'Controller', 'action' => 'location']);
 
     $router->add('/artworks', ['controller' => 'Controller', 'action' => 'artworks']);
     $router->add('/work/01', ['controller' => 'Works', 'action' => 'work_01']);
