@@ -15,7 +15,7 @@
 			<div class="nav-right-1">
 				<!-- <div class="nav-grid-1">
 					<div class="nav-link-1"> -->
-						<a class="nav-locator-1" href="<?= BASE_URL; ?>">
+						<a class="nav-locator-1" href="<?= BASE_URL; ?>location">
 							<img class="nav-pin-1" src="<?= BASE_URL; ?>/public/assets/image/misc/pin.png" alt="Locator">&nbsp;STORE LOCATOR
 						</a>
 						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
