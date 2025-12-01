@@ -17,6 +17,9 @@
 						<p class="schedule-item-70">Saturday: By appointment only</p>
 						<p class="schedule-item-70">Sunday: Closed</p>
 					</div>
+					<div class="dual-image-70">
+						<img class="dual-img-70" src="<?= BASE_URL; ?>public/assets/image/location/img-02.png" alt="Artra">
+					</div>
 				</div>
 			</div>
 			<div class="dual-right-column-70">

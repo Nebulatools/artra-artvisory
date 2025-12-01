@@ -13,19 +13,25 @@
 	padding-bottom: 0;
 }
 
-.location-image-70 {
+.location-image-70,
+.dual-image-70 {
 	overflow: auto;
 	position: relative;
 	block-size: fit-content;
 }
 
-.location-img-70 {
+.location-img-70,
+.dual-img-70 {
 	width: 100%;
 	height: auto;
 	border: none;
 	display: block;
 	object-fit: cover;
 	object-position: center;
+}
+
+.dual-img-70 {
+	border-top: 1px solid var(--black);
 }
 
 .dual-section-70 {
@@ -54,10 +60,10 @@
 }
 
 .dual-content-70 {
-	padding: 15px;
-	position: relative;
-	border-bottom: none;
-	max-inline-size: 100%;
+	margin: 0;
+	border: none;
+	padding-top: 0;
+	padding-bottom: 0;
 }
 
 .dual-header-70 {
@@ -85,7 +91,10 @@
 }
 
 .location-schedule-70 {
-	margin-bottom: 15px;
+	padding: 15px;
+	position: relative;
+	border-bottom: none;
+	max-inline-size: 100%;
 }
 
 .schedule-title-70 {
@@ -165,12 +174,12 @@
 		font-size: clamp(18px, calc(12px + 1.1vw), 28px);
 	}
 
-	.dual-content-70 {
-		padding: 30px 60px 30px 30px;
-	}
-
 	.dual-header-70 {
 		padding: 15px 30px;
+	}
+
+	.location-schedule-70 {
+		padding: 30px 60px 30px 30px;
 	}
 
 	.left-description-70 {
