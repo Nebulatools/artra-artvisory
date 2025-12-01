@@ -10,7 +10,7 @@
         </div>
     </section>
     <section class="artworks-title-section-50">
-        <h1 class="artworks-title-50">DISCOVER THE PIECE</h1>
+        <h1 class="artworks-title-50">A CLOSER LOOK</h1>
     </section>
     <section class="dual-section-50">
         <div class="dual-grid-50">

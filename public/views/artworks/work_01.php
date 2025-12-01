@@ -10,7 +10,7 @@
         </div>
     </section>
     <section class="artworks-title-section-50">
-        <h1 class="artworks-title-50">DISCOVER THE PIECE</h1>
+        <h1 class="artworks-title-50">A CLOSER LOOK</h1>
     </section>
     <section class="dual-section-50">
         <div class="dual-grid-50">
@@ -24,15 +24,19 @@
             </div>
             <div class="dual-right-column-50">
                 <div class="dual-content-50">
-                    <div class="dual-header-50">WORK #01</div>
-                    <p class="dual-title-50">Maple (Laminated)</p>
-                    <p class="dual-description-50">W 7/8" H 1 1/4" R 1"</p>
+                    <div class="dual-header-50">FRAMING TECHNIQUE</div>
+                    <!-- <p class="dual-title-50">Maple (Laminated)</p>
+                    <p class="dual-description-50">W 7/8" H 1 1/4" R 1"</p> -->
                     <div class="dual-separator-50"></div><br>
                     <div class="dual-description-50">
-                        A clean, timeless design crafted from solid oak.
-                        Perfect for works with a serene or classic character.
-                        Each frame is handmade with care and precision by artist
-                        Anne Klein.
+                        A classic yet modern frame in a glossy pale blue,
+                        chosen to subtly echo the artwork's strokes and
+                        bring a clean contemporary energy. This limited
+                        edition print is floated inside a custom shadowbox
+                        over a mat board to add depth and breathing room.
+                        For protection and absolute clarity we used Tru Vue
+                        Optium Museum Acrylic - ultra clear, antireflective
+                        to let the piece shine without distractions.
                     </div>
                 </div>
                 <div class="dual-grid-50">

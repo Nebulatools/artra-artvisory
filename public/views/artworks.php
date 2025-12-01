@@ -59,18 +59,8 @@
             <div class="dual-right-column-51">
                 <div class="dual-content-50">
                     <div class="dual-header-50">WORK #01</div>
-                    <div class="dual-title-50">Collection</div>
-                    <p class="dual-description-50">Standards</p>
-                    <div class="dual-separator-50"></div><br>
-                    <div class="dual-title-50">Size</div>
-                    <p class="dual-description-50">W 7/8" H 1 1/4" R 1"</p>
-                    <div class="dual-separator-50"></div><br>
-                    <div class="dual-title-50">Color</div>
-                    <p class="dual-description-50">Maple</p>
-                    <div class="dual-separator-50"></div><br>
-                    <div class="dual-title-50">Finish</div>
-                    <p class="dual-description-50">Laminated</p>
-                    <div class="dual-separator-50"></div><br>
+                    <div class="dual-title-50">Yutaka Hashimoto</div>
+                    <p class="dual-description-50">Study for Null Portrait of someone #166</p>
                 </div>
             </div>
         </div>
@@ -80,9 +70,9 @@
             <div class="dual-left-column-50">
                 <div class="dual-content-50">
                     <div class="dual-header-50">WORK #02</div>
-                    <div class="dual-title-50">Collection</div>
-                    <p class="dual-description-50">Standards</p>
-                    <div class="dual-separator-50"></div><br>
+                    <div class="dual-title-50">Paul Insect</div>
+                    <p class="dual-description-50">Cosmodela & Cosmodela ( Duponti )</p>
+                    <!-- <div class="dual-separator-50"></div><br>
                     <div class="dual-title-50">Size</div>
                     <p class="dual-description-50">W 7/8" H 1 1/4" R 1"</p>
                     <div class="dual-separator-50"></div><br>
@@ -91,7 +81,7 @@
                     <div class="dual-separator-50"></div><br>
                     <div class="dual-title-50">Finish</div>
                     <p class="dual-description-50">Laminated</p>
-                    <div class="dual-separator-50"></div><br>
+                    <div class="dual-separator-50"></div><br> -->
                 </div>
             </div>
             <div class="dual-right-column-50">
@@ -121,9 +111,9 @@
             <div class="dual-right-column-51">
                 <div class="dual-content-50">
                     <div class="dual-header-50">WORK #03</div>
-                    <div class="dual-title-50">Collection</div>
-                    <p class="dual-description-50">Standards</p>
-                    <div class="dual-separator-50"></div><br>
+                    <div class="dual-title-50">LY</div>
+                    <p class="dual-description-50">LUV Somewhere New</p>
+                    <!-- <div class="dual-separator-50"></div><br>
                     <div class="dual-title-50">Size</div>
                     <p class="dual-description-50">W 7/8" H 1 1/4" R 1"</p>
                     <div class="dual-separator-50"></div><br>
@@ -132,7 +122,7 @@
                     <div class="dual-separator-50"></div><br>
                     <div class="dual-title-50">Finish</div>
                     <p class="dual-description-50">Laminated</p>
-                    <div class="dual-separator-50"></div><br>
+                    <div class="dual-separator-50"></div><br> -->
                 </div>
             </div>
         </div>
@@ -142,9 +132,9 @@
             <div class="dual-left-column-50">
                 <div class="dual-content-50">
                     <div class="dual-header-50">WORK #04</div>
-                    <div class="dual-title-50">Collection</div>
-                    <p class="dual-description-50">Standards</p>
-                    <div class="dual-separator-50"></div><br>
+                    <div class="dual-title-50">Tom Sachs</div>
+                    <p class="dual-description-50">Too darn hot, 2022</p>
+                    <!-- <div class="dual-separator-50"></div><br>
                     <div class="dual-title-50">Size</div>
                     <p class="dual-description-50">W 7/8" H 1 1/4" R 1"</p>
                     <div class="dual-separator-50"></div><br>
@@ -153,7 +143,7 @@
                     <div class="dual-separator-50"></div><br>
                     <div class="dual-title-50">Finish</div>
                     <p class="dual-description-50">Laminated</p>
-                    <div class="dual-separator-50"></div><br>
+                    <div class="dual-separator-50"></div><br> -->
                 </div>
             </div>
             <div class="dual-right-column-50">
@@ -164,6 +154,37 @@
                             <img class="dual-img-50" src="<?= BASE_URL; ?>public/assets/image/artworks/img-06.png" alt="Artwork Image">
                         </picture>
                     </a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="dual-section-50">
+        <div class="dual-grid-50">
+            <div class="dual-left-column-51">
+                <div class="dual-image-50">
+                    <a class="artworks-link-50" href="<?= BASE_URL; ?>work/03">
+                        <picture>
+                            <source srcset="<?= BASE_URL; ?>public/assets/image/artworks/img-05.png" media="(max-width: 678px)">
+                            <img class="dual-img-50" src="<?= BASE_URL; ?>public/assets/image/artworks/img-05.png" alt="Artwork Image">
+                        </picture>
+                    </a>
+                </div>
+            </div>
+            <div class="dual-right-column-51">
+                <div class="dual-content-50">
+                    <div class="dual-header-50">WORK #05</div>
+                    <div class="dual-title-50">Ayako Rokkaku</div>
+                    <p class="dual-description-50">Untitled</p>
+                    <!-- <div class="dual-separator-50"></div><br>
+                    <div class="dual-title-50">Size</div>
+                    <p class="dual-description-50">W 7/8" H 1 1/4" R 1"</p>
+                    <div class="dual-separator-50"></div><br>
+                    <div class="dual-title-50">Color</div>
+                    <p class="dual-description-50">Maple</p>
+                    <div class="dual-separator-50"></div><br>
+                    <div class="dual-title-50">Finish</div>
+                    <p class="dual-description-50">Laminated</p>
+                    <div class="dual-separator-50"></div><br> -->
                 </div>
             </div>
         </div>
