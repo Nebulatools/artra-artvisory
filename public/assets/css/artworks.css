@@ -43,10 +43,6 @@
    max-height: 600px;
 }
 
-/* .dual-img-52 {
-	max-height: 600px;
-} */
-
 .artworks-title-section-50 {
 	display: flex;
 	overflow: hidden;
@@ -211,7 +207,7 @@
 	align-items: center;
 	justify-content: center;
 	border-top: 1px solid var(--black);
-	border-left: none;
+	border-left: 1px solid var(--black);
 	border-right: 1px solid var(--black);
 	border-bottom: none;
 }
@@ -223,7 +219,7 @@
 	justify-content: space-between;
 	border-top: 1px solid var(--black);
 	border-left: none;
-	border-right: none;
+	border-right: 1px solid var(--black);
 	border-bottom: none;
 }
 

@@ -5,7 +5,7 @@ function configureRoutes($router) {
     $router->add('/about', ['controller' => 'Controller', 'action' => 'about']);
     $router->add('/artists', ['controller' => 'Controller', 'action' => 'artists']);
     $router->add('/catalogue', ['controller' => 'Controller', 'action' => 'catalogue']);
-    /* $router->add('/frame_detail', ['controller' => 'Controller', 'action' => 'frame_detail']); */
+    $router->add('/contact', ['controller' => 'Controller', 'action' => 'contact']);
     $router->add('/gallery', ['controller' => 'Controller', 'action' => 'gallery']);
     $router->add('/how-we-do-it', ['controller' => 'Controller', 'action' => 'hwdi']);
     $router->add('/location', ['controller' => 'Controller', 'action' => 'location']);
@@ -15,6 +15,7 @@ function configureRoutes($router) {
     $router->add('/work/02', ['controller' => 'Works', 'action' => 'work_02']);
     $router->add('/work/03', ['controller' => 'Works', 'action' => 'work_03']);
     $router->add('/work/04', ['controller' => 'Works', 'action' => 'work_04']);
+    $router->add('/work/05', ['controller' => 'Works', 'action' => 'work_05']);
 
     $router->add('/frames', ['controller' => 'Controller', 'action' => 'frames']);
     $router->add('/frame/745037', ['controller' => 'Frames', 'action' => 'frame_745037']);

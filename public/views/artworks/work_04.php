@@ -14,7 +14,7 @@
     </section>
     <section class="dual-section-50">
         <div class="dual-grid-50">
-            <div class="dual-left-column-50">
+            <div class="dual-left-column-52">
                 <div class="dual-image-50">
                     <picture>
                         <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/04-01.png" media="(max-width: 678px)">
@@ -22,36 +22,42 @@
                     </picture>
                 </div>
             </div>
-            <div class="dual-right-column-50">
+            <div class="dual-right-column-52">
                 <div class="dual-content-50">
-                    <div class="dual-header-50">WORK #04</div>
-                    <p class="dual-title-50">Maple (Laminated)</p>
-                    <p class="dual-description-50">W 7/8" H 1 1/4" R 1"</p>
+                    <div class="dual-header-50">FRAMING TECHNIQUE</div>
                     <div class="dual-separator-50"></div><br>
                     <div class="dual-description-50">
-                        A clean, timeless design crafted from solid oak.
-                        Perfect for works with a serene or classic character.
-                        Each frame is handmade with care and precision by artist
-                        Anne Klein.
+                        A clean angled black wood frame that subtly echoes
+                        the rocket's tapered silhouette. The limited edition
+                        artwork sits directly within the frame&#8212; no mat
+                        board&#8212; allowing its raw edges, embossed seal,
+                        and bold graphics to stand fully on their own. The
+                        moulding's shape adds just enough structure while
+                        keeping the presentation minimal and confident,
+                        letting the piece speak with its natural impact.
+                        Finished with museum grade acrylic for a crisp
+                        unobtrusive view.
                     </div>
                 </div>
-                <div class="dual-grid-50">
-                    <div class="dual-left-column-52">
-                        <div class="dual-image-50">
-                            <picture>
-                                <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/04-02.png" media="(max-width: 678px)">
-                                <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/04-02.png" alt="Artwork Image">
-                            </picture>
-                        </div>
-                    </div>
-                    <div class="dual-right-column-52">
-                        <div class="dual-image-50">
-                            <picture>
-                                <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/04-03.png" media="(max-width: 678px)">
-                                <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/04-03.png" alt="Artwork Image">
-                            </picture>
-                        </div>
-                    </div>
+            </div>
+        </div>
+    </section>
+    <section class="dual-section-50">
+        <div class="dual-grid-50">
+            <div class="dual-left-column-52">
+                <div class="dual-image-50">
+                    <picture>
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/04-02.png" media="(max-width: 678px)">
+                        <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/04-02.png" alt="Artwork Image">
+                    </picture>
+                </div>
+            </div>
+            <div class="dual-right-column-52">
+                <div class="dual-image-50">
+                    <picture>
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/04-03.png" media="(max-width: 678px)">
+                        <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/04-03.png" alt="Artwork Image">
+                    </picture>
                 </div>
             </div>
         </div>

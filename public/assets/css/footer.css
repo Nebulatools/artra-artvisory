@@ -18,15 +18,8 @@
 	flex-direction: column;
 }
 
-.footer-about-1 {
-	width: 100%;
-}
-
-.footer-header-1 {
-	margin-bottom: 30px;
-}
-
 .footer-link-1,
+.footer-link-2,
 .footer-title-1,
 .footer-address-1,
 .footer-copyright-1,
@@ -37,14 +30,10 @@
 }
 
 .footer-title-1 {
-	margin-bottom: 8px;
 	font-family: 'Inter', sans-serif;
 }
 
-.footer-address-1 {
-	font-family: 'Century Old Style Std', serif;
-}
-
+.footer-address-1,
 .footer-description-1 {
 	font-family: 'Century Old Style Std', serif;
 }
@@ -52,6 +41,12 @@
 .footer-copyright-1 {
 	font-family: 'Inter', sans-serif;
 	margin-top: clamp(40px, 4vw, 120px);
+}
+
+.footer-links-2,
+.footer-link-group-2 {
+	display: flex;
+	flex-direction: row;
 }
 
 .footer-right-1,
@@ -72,23 +67,34 @@
 .footer-link-1 {
 	color: var(--black);
 	text-decoration: none;
-	transition: opacity 0.3s ease;
 	font-family: 'Inter', sans-serif;
 }
 
 .footer-img-1 {
-	width: 5%;
-	height: 5%;
+	width: 80%;
+	height: 80%;
 }
 
-.footer-link-1:hover {
+.footer-img-2 {
+	width: 2%;
+	height: 2%;
+}
+
+.footer-link-2 {
+	color: var(--black);
+	text-decoration: none;
+	transition: opacity 0.3s ease;
+	font-family: 'CenturyReg';
+}
+
+.footer-link-2:hover {
 	opacity: 0.7;
 }
 
 /* DESKTOP DEVICES ( > 678px ) */
 @media screen and (min-width: 678px) {
 	.footer {
-		padding: 20px 40px;
+		padding: 20px 20px;
 		margin-left: 40px;
 		margin-right: 40px;
 		border-left: 1px solid #000;
@@ -96,6 +102,7 @@
 	}
 
 	.footer-link-1,
+	.footer-link-2,
 	.footer-title-1,
 	.footer-address-1,
 	.footer-copyright-1,
@@ -103,8 +110,14 @@
 		font-size: 16px;
 	}
 
+	.footer-title-1,
+	.footer-description-1 {
+		margin-top: -10px;
+	}
+
 	.footer-content-1,
 	.footer-left-1,
+	.footer-center-1,
 	.footer-right-1,
 	.footer-links-1 {
 		gap: 50px;
@@ -112,7 +125,16 @@
 	}
 
 	.footer-img-1 {
-		width: 80%;
+		width: auto;
 		height: 80%;
+	}
+
+	.footer-img-2 {
+		width: auto;
+		height: 20%;
+	}
+
+	.footer-copyright-1 {
+		text-align: center;
 	}
 }

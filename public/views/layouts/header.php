@@ -21,7 +21,7 @@
 						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 					<!-- </div>
 					<div class="nav-link-1"> -->
-						<a class="nav-locator-1" href="<?= BASE_URL; ?>">
+						<a class="nav-locator-1" href="<?= BASE_URL; ?>contact">
 							<img class="nav-mail-1" src="<?= BASE_URL; ?>public/assets/image/misc/email.png" alt="Contact">&nbsp;CONTACT US
 						</a>
 					<!-- </div>
@@ -50,7 +50,7 @@
 			</div>
 			<div class="menu-separator-1"></div>
 			<div class="menu-item-1">
-				<a class="menu-link-1" href="<?= BASE_URL; ?>">SOME OF OUR WORK</a><!-- artworks -->
+				<a class="menu-link-1" href="<?= BASE_URL; ?>artworks">SOME OF OUR WORK</a>
 			</div>
 			<div class="menu-separator-1"></div>
 			<div class="menu-item-1">

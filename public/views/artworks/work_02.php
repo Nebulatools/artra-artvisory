@@ -14,7 +14,7 @@
     </section>
     <section class="dual-section-50">
         <div class="dual-grid-50">
-            <div class="dual-left-column-50">
+            <div class="dual-left-column-52">
                 <div class="dual-image-50">
                     <picture>
                         <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/02-01.png" media="(max-width: 678px)">
@@ -22,36 +22,42 @@
                     </picture>
                 </div>
             </div>
-            <div class="dual-right-column-50">
+            <div class="dual-right-column-52">
                 <div class="dual-content-50">
-                    <div class="dual-header-50">WORK #02</div>
-                    <p class="dual-title-50">Maple (Laminated)</p>
-                    <p class="dual-description-50">W 7/8" H 1 1/4" R 1"</p>
+                    <div class="dual-header-50">FRAMING TECHNIQUE</div>
                     <div class="dual-separator-50"></div><br>
                     <div class="dual-description-50">
-                        A clean, timeless design crafted from solid oak.
-                        Perfect for works with a serene or classic character.
-                        Each frame is handmade with care and precision by artist
-                        Anne Klein.
+                        Two vibrant screen print editions finished with
+                        metallic ink, diamond dust and high-gloss varnish
+                        highlights, framed in a deep black glossy moulding
+                        with a refined texture finish that grounds the
+                        composition and add structure without dulling its
+                        energy. Each piece is floated over a color-matched
+                        mat board, selected directly from the palette of the
+                        piece to amplify its vibrancy and create a seamless
+                        visual rhythm. Finished with ultra clear,
+                        anti-reflective Tru Vue Optium Museum Acrylic.
                     </div>
                 </div>
-                <div class="dual-grid-50">
-                    <div class="dual-left-column-52">
-                        <div class="dual-image-50">
-                            <picture>
-                                <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/02-02.png" media="(max-width: 678px)">
-                                <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/02-02.png" alt="Artwork Image">
-                            </picture>
-                        </div>
-                    </div>
-                    <div class="dual-right-column-52">
-                        <div class="dual-image-50">
-                            <picture>
-                                <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/02-03.png" media="(max-width: 678px)">
-                                <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/02-03.png" alt="Artwork Image">
-                            </picture>
-                        </div>
-                    </div>
+            </div>
+        </div>
+    </section>
+    <section class="dual-section-50">
+        <div class="dual-grid-50">
+            <div class="dual-left-column-52">
+                <div class="dual-image-50">
+                    <picture>
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/02-02.png" media="(max-width: 678px)">
+                        <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/02-02.png" alt="Artwork Image">
+                    </picture>
+                </div>
+            </div>
+            <div class="dual-right-column-52">
+                <div class="dual-image-50">
+                    <picture>
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/02-03.png" media="(max-width: 678px)">
+                        <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/02-03.png" alt="Artwork Image">
+                    </picture>
                 </div>
             </div>
         </div>

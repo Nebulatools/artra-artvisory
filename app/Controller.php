@@ -15,16 +15,19 @@ class Controller {
 		$this->render('home', 'Home');
 	}
 	public function about() {
-		$this->render('about', 'About');
-	}
-	public function artworks() {
-		$this->render('artworks', 'Artworks');
+		$this->render('about', 'About Us');
 	}
 	public function artists() {
 		$this->render('artists', 'Artists');
 	}
+	public function artworks() {
+		$this->render('artworks', 'Artworks');
+	}
 	public function catalogue() {
 		$this->render('catalogue', 'Catalogue');
+	}
+	public function contact() {
+		$this->render('contact', 'Contact Us');
 	}
 	public function frames() {
 		$this->render('frames', 'Frames');

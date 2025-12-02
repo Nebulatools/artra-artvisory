@@ -17,8 +17,8 @@
             <div class="dual-left-column-52">
                 <div class="dual-image-50">
                     <picture>
-                        <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/01-01.png" media="(max-width: 678px)">
-                        <img class="dual-img-51" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/01-01.png" alt="Artwork Image">
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/05-01.png" media="(max-width: 678px)">
+                        <img class="dual-img-51" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/05-01.png" alt="Artwork Image">
                     </picture>
                 </div>
             </div>
@@ -27,14 +27,17 @@
                     <div class="dual-header-50">FRAMING TECHNIQUE</div>
                     <div class="dual-separator-50"></div><br>
                     <div class="dual-description-50">
-                        A classic yet modern frame in a glossy pale blue,
-                        chosen to subtly echo the artwork's strokes and
-                        bring a clean contemporary energy. This limited
-                        edition print is floated inside a custom shadowbox
-                        over a mat board to add depth and breathing room.
-                        For protection and absolute clarity we used Tru Vue
-                        Optium Museum Acrylic - ultra clear, antireflective
-                        to let the piece shine without distractions.
+                        For this vibrant, dreamlike, and emotionally charged
+                        artwork, we used a bold double-moulding design. The
+                        inner frame is a clean, minimalist profile that
+                        creates a crisp boundary around the piece, while the
+                        outer frame is a sculpted, glossy white baroque-style
+                        moulding that adds theatrical contrast and depth.
+                        Together they create a striking balance-modern
+                        clarity held with a classic, ornate silhouette-allowing
+                        the artwork's explosive color and texture to shine
+                        with even greater intensity. Finished with ultra-clear,
+                        anti-reflective glazing for museum-grade presentation.
                     </div>
                 </div>
             </div>
@@ -45,16 +48,16 @@
             <div class="dual-left-column-52">
                 <div class="dual-image-50">
                     <picture>
-                        <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/01-02.png" media="(max-width: 678px)">
-                        <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/01-02.png" alt="Artwork Image">
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/05-02.png" media="(max-width: 678px)">
+                        <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/05-02.png" alt="Artwork Image">
                     </picture>
                 </div>
             </div>
             <div class="dual-right-column-52">
                 <div class="dual-image-50">
                     <picture>
-                        <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/01-03.png" media="(max-width: 678px)">
-                        <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/01-03.png" alt="Artwork Image">
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/05-03.png" media="(max-width: 678px)">
+                        <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/05-03.png" alt="Artwork Image">
                     </picture>
                 </div>
             </div>

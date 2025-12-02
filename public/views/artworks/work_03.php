@@ -14,7 +14,7 @@
     </section>
     <section class="dual-section-50">
         <div class="dual-grid-50">
-            <div class="dual-left-column-50">
+            <div class="dual-left-column-52">
                 <div class="dual-image-50">
                     <picture>
                         <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/03-01.png" media="(max-width: 678px)">
@@ -22,36 +22,42 @@
                     </picture>
                 </div>
             </div>
-            <div class="dual-right-column-50">
+            <div class="dual-right-column-52">
                 <div class="dual-content-50">
-                    <div class="dual-header-50">WORK #03</div>
-                    <p class="dual-title-50">Maple (Laminated)</p>
-                    <p class="dual-description-50">W 7/8" H 1 1/4" R 1"</p>
+                    <div class="dual-header-50">FRAMING TECHNIQUE</div>
                     <div class="dual-separator-50"></div><br>
                     <div class="dual-description-50">
-                        A clean, timeless design crafted from solid oak.
-                        Perfect for works with a serene or classic character.
-                        Each frame is handmade with care and precision by artist
-                        Anne Klein.
+                        A custom shadowbox built in a gradient of pinks &#8212;
+                        echoing the warmth of the forest within the artwork
+                        to create depth and a soft immersive experience. The
+                        piece sits floated above a warm rose matboard,
+                        allowing the colors to blend and extend naturally
+                        into the frame. Finished with a clean white exterior
+                        moulding for balance and a contemporary feel with
+                        virtually invisible anti-reflective, abrasion
+                        resistant acrylic that delivers the most stunning
+                        viewing experience.
                     </div>
                 </div>
-                <div class="dual-grid-50">
-                    <div class="dual-left-column-52">
-                        <div class="dual-image-50">
-                            <picture>
-                                <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/03-02.png" media="(max-width: 678px)">
-                                <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/03-02.png" alt="Artwork Image">
-                            </picture>
-                        </div>
-                    </div>
-                    <div class="dual-right-column-52">
-                        <div class="dual-image-50">
-                            <picture>
-                                <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/03-03.png" media="(max-width: 678px)">
-                                <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/03-03.png" alt="Artwork Image">
-                            </picture>
-                        </div>
-                    </div>
+            </div>
+        </div>
+    </section>
+    <section class="dual-section-50">
+        <div class="dual-grid-50">
+            <div class="dual-left-column-52">
+                <div class="dual-image-50">
+                    <picture>
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/03-02.png" media="(max-width: 678px)">
+                        <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/03-02.png" alt="Artwork Image">
+                    </picture>
+                </div>
+            </div>
+            <div class="dual-right-column-52">
+                <div class="dual-image-50">
+                    <picture>
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/artwork_detail/03-03.png" media="(max-width: 678px)">
+                        <img class="dual-img-52" src="<?= BASE_URL; ?>public/assets/image/artwork_detail/03-03.png" alt="Artwork Image">
+                    </picture>
                 </div>
             </div>
         </div>

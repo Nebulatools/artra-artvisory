@@ -25,6 +25,9 @@ class Works {
 	public function work_04() {
 		$this->work_render('work_04', 'Work #04');
 	}
+	public function work_05() {
+		$this->work_render('work_05', 'Work #05');
+	}
 	/* public function work($id) {
 		switch ($id) {
 			case 01:

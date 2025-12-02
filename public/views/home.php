@@ -42,7 +42,7 @@
             </div>
             <div class="dual-right-column-11">
                 <div class="dual-image-10">
-                    <a class="dual-img-10" href="<?= BASE_URL; ?>"><!-- artworks -->
+                    <a class="dual-img-10" href="<?= BASE_URL; ?>artworks">
                         <img class="dual-img-10" src="<?= BASE_URL; ?>public/assets/image/home/img-05.png" alt="Home Image">
                     </a>
                 </div>
