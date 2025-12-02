@@ -14,7 +14,7 @@
 			</div>
 			<div class="dual-right-column-80">
 				<div class="dual-content-81">
-					<a class="dual-link-80" href="https://wa.me/8119117717">+1 646 883 9175</a>
+					<a class="dual-link-80" href="https://wa.me/8119117717">+52 811 911 7717</a>
 				</div>
 			</div>
 		</div>

@@ -13,10 +13,10 @@
                     <div class="footer-link-1">FOLLOW US</div><br>
                     <div class="footer-links-1">
                         <div class="footer-link-group-2">
-                            <a class="footer-link-2" target="_blank" href="https://facebook.com/artra.artvisory/">
+                            <!-- <a class="footer-link-2" target="_blank" href="https://facebook.com/artra.artvisory/">
                                 <img class="footer-img-1" src="<?= BASE_URL; ?>public/assets/image/misc/facebook.png" alt="Facebook">
                             </a>
-                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
                             <a class="footer-link-2" target="_blank" href="https://instagram.com/artra.artvisory/">
                                 <img class="footer-img-1" src="<?= BASE_URL; ?>public/assets/image/misc/instagram.png" alt="Instagram">
                             </a>
