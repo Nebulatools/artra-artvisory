@@ -46,7 +46,7 @@
 			</div> -->
 			<div class="menu-separator-1"></div>
 			<div class="menu-item-1">
-				<a class="menu-link-1" href="<?= BASE_URL; ?>">DISCOVER OUR CATALOGUE</a><!-- frames -->
+				<a class="menu-link-1" href="<?= BASE_URL; ?>frames">DISCOVER OUR CATALOGUE</a>
 			</div>
 			<div class="menu-separator-1"></div>
 			<div class="menu-item-1">
