@@ -20,9 +20,15 @@ function configureRoutes($router) {
     $router->add('/frames', ['controller' => 'Controller', 'action' => 'frames']);
     $router->add('/frame/745037', ['controller' => 'Frames', 'action' => 'frame_745037']);
     $router->add('/frame/535046', ['controller' => 'Frames', 'action' => 'frame_535046']);
+    $router->add('/frame/99909000', ['controller' => 'Frames', 'action' => 'frame_99909000']);
+    $router->add('/frame/99916005', ['controller' => 'Frames', 'action' => 'frame_99916005']);
+    $router->add('/frame/42300', ['controller' => 'Frames', 'action' => 'frame_42300']);
+    $router->add('/frame/57443', ['controller' => 'Frames', 'action' => 'frame_57443']);
+    $router->add('/frame/6236', ['controller' => 'Frames', 'action' => 'frame_6236']);
+    $router->add('/frame/4431', ['controller' => 'Frames', 'action' => 'frame_4431']);
     $router->add('/frame/869048', ['controller' => 'Frames', 'action' => 'frame_869048']);
     $router->add('/frame/606052', ['controller' => 'Frames', 'action' => 'frame_606052']);
-    
+
     $router->add('/blog', ['controller' => 'Controller', 'action' => 'blog']);
     $router->add('/blog/{slug}', ['controller' => 'Controller', 'action' => 'blog']);
 }

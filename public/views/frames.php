@@ -42,7 +42,7 @@
         </div>
     </section>
     <section class="frames-title-section-60">
-            <h1 class="frames-title-60">SOME OF OUR FAVORITES</h1>
+        <h1 class="frames-title-60">SOME OF OUR FAVORITES</h1>
     </section>
     <section class="dual-section-60">
         <div class="dual-grid-60">
@@ -51,8 +51,6 @@
                     <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/745037.png" alt="Frame Image">
                 </div>
                 <div class="dual-content-60">
-                    <!-- <h3 class="dual-header-60">Frame 745037</h3>
-                    <p class="dual-title-60">Roma Lavo</p><br> -->
                     <a class="dual-description-61" href="<?= BASE_URL; ?>frame/745037">Specs</a>
                 </div>
             </div>
@@ -61,8 +59,6 @@
                     <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/535046.png" alt="Frame Image">
                 </div>
                 <div class="dual-content-60">
-                    <!-- <h3 class="dual-header-60">Frame 535046</h3>
-                    <p class="dual-title-60">Roma Lavo</p><br> -->
                     <a class="dual-description-61" href="<?= BASE_URL; ?>frame/535046">Specs</a>
                 </div>
             </div>
@@ -72,22 +68,58 @@
         <div class="dual-grid-60">
             <div class="dual-left-column-60">
                 <div class="dual-image-60">
-                    <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/869048.png" alt="Frame Image">
+                    <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/99909000.png" alt="Frame Image">
                 </div>
                 <div class="dual-content-60">
-                    <!-- <h3 class="dual-header-60">Frame 869048</h3>
-                    <p class="dual-title-60">Roma Lavo</p><br> -->
-                    <a class="dual-description-61" href="<?= BASE_URL; ?>frame/869048">Specs</a>
+                    <a class="dual-description-61" href="<?= BASE_URL; ?>frame/99909000">Specs</a>
                 </div>
             </div>
             <div class="dual-right-column-60">
                 <div class="dual-image-60">
-                    <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/606052.png" alt="Frame Image">
+                    <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/99916005.png" alt="Frame Image">
                 </div>
                 <div class="dual-content-60">
-                    <!-- <h3 class="dual-header-60">Frame 606052</h3>
-                    <p class="dual-title-60">Roma Eleganza</p><br> -->
-                    <a class="dual-description-61" href="<?= BASE_URL; ?>frame/606052">Specs</a>
+                    <a class="dual-description-61" href="<?= BASE_URL; ?>frame/99916005">Specs</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="dual-section-60">
+        <div class="dual-grid-60">
+            <div class="dual-left-column-60">
+                <div class="dual-image-60">
+                    <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/42300.png" alt="Frame Image">
+                </div>
+                <div class="dual-content-60">
+                    <a class="dual-description-61" href="<?= BASE_URL; ?>frame/42300">Specs</a>
+                </div>
+            </div>
+            <div class="dual-right-column-60">
+                <div class="dual-image-60">
+                    <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/57443.png" alt="Frame Image">
+                </div>
+                <div class="dual-content-60">
+                    <a class="dual-description-61" href="<?= BASE_URL; ?>frame/57443">Specs</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="dual-section-60">
+        <div class="dual-grid-60">
+            <div class="dual-left-column-60">
+                <div class="dual-image-60">
+                    <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/6236.png" alt="Frame Image">
+                </div>
+                <div class="dual-content-60">
+                    <a class="dual-description-61" href="<?= BASE_URL; ?>frame/6236">Specs</a>
+                </div>
+            </div>
+            <div class="dual-right-column-60">
+                <div class="dual-image-60">
+                    <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/4431.png" alt="Frame Image">
+                </div>
+                <div class="dual-content-60">
+                    <a class="dual-description-61" href="<?= BASE_URL; ?>frame/4431">Specs</a>
                 </div>
             </div>
         </div>
@@ -96,46 +128,18 @@
         <div class="dual-grid-60">
             <div class="dual-left-column-60">
                 <div class="dual-image-60">
-                    <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/752.png" alt="Frame Image">
+                    <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/114154.png" alt="Frame Image">
                 </div>
                 <div class="dual-content-60">
-                    <h3 class="dual-header-60">Frame 745037</h3>
-                    <p class="dual-title-60">Roma Lavo</p><br>
-                    <a class="dual-description-61" href="<?= BASE_URL; ?>frame/745037">Specs</a>
+                    <a class="dual-description-61" href="<?= BASE_URL; ?>frame/114154">Specs</a>
                 </div>
             </div>
             <div class="dual-right-column-60">
                 <div class="dual-image-60">
-                    <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/203299.png" alt="Frame Image">
+                    <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/4431.png" alt="Frame Image">
                 </div>
                 <div class="dual-content-60">
-                    <h3 class="dual-header-60">Frame 745037</h3>
-                    <p class="dual-title-60">Roma Lavo</p><br>
-                    <a class="dual-description-61" href="<?= BASE_URL; ?>frame/745037">Specs</a>
-                </div>
-            </div>
-        </div>
-    </section> -->
-    <!-- <section class="dual-section-60">
-        <div class="dual-grid-60">
-            <div class="dual-left-column-60">
-                <div class="dual-image-60">
-                    <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/253552.png" alt="Frame Image">
-                </div>
-                <div class="dual-content-60">
-                    <h3 class="dual-header-60">Frame 745037</h3>
-                    <p class="dual-title-60">Roma Lavo</p><br>
-                    <a class="dual-description-61" href="<?= BASE_URL; ?>frame/745037">Specs</a>
-                </div>
-            </div>
-            <div class="dual-right-column-60">
-                <div class="dual-image-60">
-                    <img class="dual-img-60" src="<?= BASE_URL; ?>public/assets/image/frames/303800.png" alt="Frame Image">
-                </div>
-                <div class="dual-content-60">
-                    <h3 class="dual-header-60">Frame 745037</h3>
-                    <p class="dual-title-60">Roma Lavo</p><br>
-                    <a class="dual-description-61" href="<?= BASE_URL; ?>frame/745037">Specs</a>
+                    <a class="dual-description-61" href="<?= BASE_URL; ?>frame/4431">Specs</a>
                 </div>
             </div>
         </div>

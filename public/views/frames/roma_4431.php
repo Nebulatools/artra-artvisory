@@ -17,25 +17,26 @@
             <div class="dual-left-column-60">
                 <div class="dual-image-60">
                     <picture>
-                        <source srcset="<?= BASE_URL; ?>public/assets/image/frame_detail/535046-4.png" media="(max-width: 678px)">
-                        <img class="dual-img-61" src="<?= BASE_URL; ?>public/assets/image/frame_detail/535046-4.png" alt="Frame Image">
+                        <source srcset="<?= BASE_URL; ?>public/assets/image/frame_detail/4431-4.png" media="(max-width: 678px)">
+                        <img class="dual-img-61" src="<?= BASE_URL; ?>public/assets/image/frame_detail/4431-4.png" alt="Frame Image">
                     </picture>
                 </div>
             </div>
             <div class="dual-right-column-60">
                 <div class="dual-content-61">
                     <p class="dual-title-60">Dimensions</p>
-                    <p class="dual-description-60">Width 3 1/2"&nbsp;&nbsp;Height 1 1/2"&nbsp;&nbsp;Rabbet Height 1/2"</p>
+                    <p class="dual-description-60">Width 1 3/4"&nbsp;&nbsp;Height 1 3/4"&nbsp;&nbsp;Rabbet Height 1 1/4"</p>
                     <p class="dual-title-60">Attributes</p>
-                    <p class="dual-description-60">Colorant Finish, Scoop Profile, Collection Roma One</p>
+                    <p class="dual-description-60">Gloss Finish, Flat Profile</p>
                     <p class="dual-title-60">Color</p>
-                    <p class="dual-description-60">Orient Red</p>
+                    <p class="dual-description-60">Metro Fade</p>
                     <div class="dual-separator-60"></div>
                     <div class="dual-description-60">
                         <p class="frame-text-2">
-                            A fusion of traditional carvings enveloped in
-                            high gloss lacquer. One of our biggest and
-                            boldest.
+                            Combining sleek design with high-quality
+                            craftsmanship, this Collection features the
+                            finest woods, most sumptuous textures, &
+                            cutting-edge designs the world has to offer.
                         </p>
                         <div class="frame-description-2"></div>
                         <p class="frame-text-3"><i>Sustainability</i></p>
@@ -51,16 +52,16 @@
                     <div class="dual-left-column-61">
                         <div class="dual-image-60">
                             <picture>
-                                <source srcset="<?= BASE_URL; ?>public/assets/image/frame_detail/535046-5.png" media="(max-width: 678px)">
-                                <img class="dual-img-62" src="<?= BASE_URL; ?>public/assets/image/frame_detail/535046-5.png" alt="Frame Image">
+                                <source srcset="<?= BASE_URL; ?>public/assets/image/frame_detail/4431-5.png" media="(max-width: 678px)">
+                                <img class="dual-img-62" src="<?= BASE_URL; ?>public/assets/image/frame_detail/4431-5.png" alt="Frame Image">
                             </picture>
                         </div>
                     </div>
                     <div class="dual-right-column-61">
                         <div class="dual-image-60">
                             <picture>
-                                <source srcset="<?= BASE_URL; ?>public/assets/image/frame_detail/535046-2.png" media="(max-width: 678px)">
-                                <img class="dual-img-62" src="<?= BASE_URL; ?>public/assets/image/frame_detail/535046-2.png" alt="Frame Image">
+                                <source srcset="<?= BASE_URL; ?>public/assets/image/frame_detail/4431-2.png" media="(max-width: 678px)">
+                                <img class="dual-img-62" src="<?= BASE_URL; ?>public/assets/image/frame_detail/4431-2.png" alt="Frame Image">
                             </picture>
                         </div>
                     </div>
